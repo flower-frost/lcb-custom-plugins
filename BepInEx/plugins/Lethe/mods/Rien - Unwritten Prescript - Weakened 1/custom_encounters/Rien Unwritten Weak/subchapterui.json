@@ -1,0 +1,24 @@
+{
+  "chapterId": 2,
+  "subchapterId": 94247002,
+  "nodeId": 94247002,
+  "storyIdInTheaterData": 0,
+  "isUnlockByUnlockCode": false,
+  "unlockCode": 101,
+  "relatedData": {
+    "chapterId": 2,
+    "subchapterId": 0,
+    "nodeId": 0
+  },
+  "uiConfig": {
+    "customChapterText": "里恩 · 未竟之谕（削弱版 1）",
+    "chapterTitleText": "里恩 · 未竟之谕（削弱版 1）",
+    "descriptionText": "独立削弱版；7槽、10500体力、镜牢演出。全队共享1瓶安瓿。以83级映射雷横为调试参考，实际胜率待实测。",
+    "chapterTagIconType": "BATTLE",
+    "region": "p",
+    "mapAreaId": 101,
+    "timeLine": "PLAYGROUND",
+    "illustId": "story-id_E041X"
+  },
+  "type": "STAGE_NODE"
+}

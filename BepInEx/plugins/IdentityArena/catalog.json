@@ -1,0 +1,2662 @@
+{
+  "Maps": [
+    {
+      "Name": "Ab_AztecCalendar",
+      "Size": 0.0,
+      "SourceStage": 2071001
+    },
+    {
+      "Name": "Ab_BloodyGossypium",
+      "Size": 33.3,
+      "SourceStage": 2060017
+    },
+    {
+      "Name": "Ab_ButterflyOfEL",
+      "Size": 28.0,
+      "SourceStage": 601
+    },
+    {
+      "Name": "Ab_BygoneDays",
+      "Size": 0.0,
+      "SourceStage": 2065833
+    },
+    {
+      "Name": "Ab_ContemptSprial",
+      "Size": 33.3,
+      "SourceStage": 2060005
+    },
+    {
+      "Name": "Ab_CroohooToad",
+      "Size": 0.0,
+      "SourceStage": 2060023
+    },
+    {
+      "Name": "Ab_DerSchutze",
+      "Size": 0.0,
+      "SourceStage": 2068132
+    },
+    {
+      "Name": "Ab_EbonyQueen",
+      "Size": 0.0,
+      "SourceStage": 2060222
+    },
+    {
+      "Name": "Ab_ElectricSheep",
+      "Size": 0.0,
+      "SourceStage": 2066233
+    },
+    {
+      "Name": "Ab_ElectricWolf",
+      "Size": 0.0,
+      "SourceStage": 2060045
+    },
+    {
+      "Name": "Ab_FairyFestival",
+      "Size": 33.32,
+      "SourceStage": 2069801
+    },
+    {
+      "Name": "Ab_FairyLantern",
+      "Size": 0.0,
+      "SourceStage": 2060033
+    },
+    {
+      "Name": "Ab_FireMoth",
+      "Size": 33.3,
+      "SourceStage": 2060031
+    },
+    {
+      "Name": "Ab_FourHundredRoses",
+      "Size": 0.0,
+      "SourceStage": 2068133
+    },
+    {
+      "Name": "Ab_Grampus",
+      "Size": 33.3,
+      "SourceStage": 2060037
+    },
+    {
+      "Name": "Ab_LogicCircuit",
+      "Size": 0.0,
+      "SourceStage": 2060001
+    },
+    {
+      "Name": "Ab_LostPassenger",
+      "Size": 0.0,
+      "SourceStage": 2060007
+    },
+    {
+      "Name": "Ab_MaggotApple",
+      "Size": 0.0,
+      "SourceStage": 2024103
+    },
+    {
+      "Name": "Ab_Nebulizer",
+      "Size": 0.0,
+      "SourceStage": 2068131
+    },
+    {
+      "Name": "Ab_PainTeddy",
+      "Size": 0.0,
+      "SourceStage": 2060043
+    },
+    {
+      "Name": "Ab_PinkShoes",
+      "Size": 0.0,
+      "SourceStage": 2024105
+    },
+    {
+      "Name": "Ab_RedJewel",
+      "Size": 0.0,
+      "SourceStage": 2060009
+    },
+    {
+      "Name": "Ab_RoseHunter",
+      "Size": 0.0,
+      "SourceStage": 2060041
+    },
+    {
+      "Name": "Ab_RoseSign",
+      "Size": 0.0,
+      "SourceStage": 2060025
+    },
+    {
+      "Name": "Ab_SkinProphet",
+      "Size": 33.3,
+      "SourceStage": 306
+    },
+    {
+      "Name": "Ab_SteamRobot",
+      "Size": 35.0,
+      "SourceStage": 2060029
+    },
+    {
+      "Name": "Ab_SuperHuman",
+      "Size": 0.0,
+      "SourceStage": 2024104
+    },
+    {
+      "Name": "Ab_TiedKing",
+      "Size": 0.0,
+      "SourceStage": 2067233
+    },
+    {
+      "Name": "Ab_WalkingPearl",
+      "Size": 0.0,
+      "SourceStage": 2060003
+    },
+    {
+      "Name": "Ab_WaterFish",
+      "Size": 0.0,
+      "SourceStage": 2060047
+    },
+    {
+      "Name": "Ab_Yinglong",
+      "Size": 0.0,
+      "SourceStage": 602
+    },
+    {
+      "Name": "B1Vault",
+      "Size": 0.0,
+      "SourceStage": 10201
+    },
+    {
+      "Name": "B1Vault_v1",
+      "Size": 0.0,
+      "SourceStage": 10202
+    },
+    {
+      "Name": "B1Vault_v3",
+      "Size": 0.0,
+      "SourceStage": 10203
+    },
+    {
+      "Name": "B2Mine",
+      "Size": 0.0,
+      "SourceStage": 10212
+    },
+    {
+      "Name": "B2Mine_v1",
+      "Size": 0.0,
+      "SourceStage": 10220
+    },
+    {
+      "Name": "B2Mine_v2",
+      "Size": 0.0,
+      "SourceStage": 10213
+    },
+    {
+      "Name": "B2Mine_v3",
+      "Size": 0.0,
+      "SourceStage": 10209
+    },
+    {
+      "Name": "B3_FathomsOfTheEgoEntrance",
+      "Size": 0.0,
+      "SourceStage": 10226
+    },
+    {
+      "Name": "B3_FathomsOfTheEgoEntrance_L",
+      "Size": 40.0,
+      "SourceStage": 10228
+    },
+    {
+      "Name": "B3_FathomsOfTheEgoEntrance_M",
+      "Size": 40.0,
+      "SourceStage": 10228
+    },
+    {
+      "Name": "B3_FathomsOfTheEgoEntrance_R",
+      "Size": 40.0,
+      "SourceStage": 10228
+    },
+    {
+      "Name": "B3_FathomsOfTheEgoEntrance_v1",
+      "Size": 0.0,
+      "SourceStage": 10223
+    },
+    {
+      "Name": "B3_FathomsOfTheEgoEntrance_v2",
+      "Size": 0.0,
+      "SourceStage": 10222
+    },
+    {
+      "Name": "BabayagaIceCastle",
+      "Size": 40.0,
+      "SourceStage": 10228
+    },
+    {
+      "Name": "Casino1F",
+      "Size": 0.0,
+      "SourceStage": 2
+    },
+    {
+      "Name": "Casino1F_Broken",
+      "Size": 0.0,
+      "SourceStage": 2011127
+    },
+    {
+      "Name": "Casino2F",
+      "Size": 0.0,
+      "SourceStage": 2011027
+    },
+    {
+      "Name": "Casino2F_v1",
+      "Size": 0.0,
+      "SourceStage": 10210
+    },
+    {
+      "Name": "Casino3F",
+      "Size": 0.0,
+      "SourceStage": 2
+    },
+    {
+      "Name": "CasinoEntrance",
+      "Size": 0.0,
+      "SourceStage": 2011015
+    },
+    {
+      "Name": "CasinoFar",
+      "Size": 0.0,
+      "SourceStage": 2051007
+    },
+    {
+      "Name": "Cp10_2F_BuffetImmature",
+      "Size": 28.0,
+      "SourceStage": 11011
+    },
+    {
+      "Name": "Cp10_B_4F_LostChildrenCenter",
+      "Size": 0.0,
+      "SourceStage": 11028
+    },
+    {
+      "Name": "Cp10_B_5F_GreatHall",
+      "Size": 0.0,
+      "SourceStage": 11031
+    },
+    {
+      "Name": "Cp10_B_B2F_DyeingRoom",
+      "Size": 0.0,
+      "SourceStage": 11040
+    },
+    {
+      "Name": "Cp10_B_B3F_DryingRoom",
+      "Size": 0.0,
+      "SourceStage": 11030
+    },
+    {
+      "Name": "Cp10_C_5F_GreatHall",
+      "Size": 35.0,
+      "SourceStage": 11041
+    },
+    {
+      "Name": "Cp10_C_JeannePhase1",
+      "Size": 40.0,
+      "SourceStage": 11039
+    },
+    {
+      "Name": "Cp10_C_WardenPhase1",
+      "Size": 0.0,
+      "SourceStage": 11036
+    },
+    {
+      "Name": "Cp10RPG_1F_Beauty",
+      "Size": 0.0,
+      "SourceStage": 11002
+    },
+    {
+      "Name": "Cp10RPG_1F_Renoir",
+      "Size": 0.0,
+      "SourceStage": 11003
+    },
+    {
+      "Name": "Cp10RPG_1F_SPA",
+      "Size": 0.0,
+      "SourceStage": 11007
+    },
+    {
+      "Name": "Cp10RPG_3F_BroadcastRoom",
+      "Size": 30.0,
+      "SourceStage": 11010
+    },
+    {
+      "Name": "Cp10RPG_3F_LaRougeHighDomestic",
+      "Size": 0.0,
+      "SourceStage": 16
+    },
+    {
+      "Name": "Cp10RPG_3F_RenoirHighDomestic",
+      "Size": 0.0,
+      "SourceStage": 17
+    },
+    {
+      "Name": "Cp10RPG_3F_RepairRoom",
+      "Size": 0.0,
+      "SourceStage": 11027
+    },
+    {
+      "Name": "Cp10RPG_4F_Shose",
+      "Size": 0.0,
+      "SourceStage": 11013
+    },
+    {
+      "Name": "Cp10RPG_B_5F_BlackThread",
+      "Size": 28.0,
+      "SourceStage": 11038
+    },
+    {
+      "Name": "Cp10RPG_B_B3F_DryingRoom",
+      "Size": 0.0,
+      "SourceStage": 11029
+    },
+    {
+      "Name": "Cp10RPG_B1F_Corridor",
+      "Size": 28.0,
+      "SourceStage": 11005
+    },
+    {
+      "Name": "Cp10RPG_B1F_FoodCourt",
+      "Size": 30.0,
+      "SourceStage": 11008
+    },
+    {
+      "Name": "Cp10RPG_B1F_Grocery",
+      "Size": 34.0,
+      "SourceStage": 18
+    },
+    {
+      "Name": "Cp10RPG_B2F_Corridor",
+      "Size": 20.0,
+      "SourceStage": 11015
+    },
+    {
+      "Name": "Cp10RPG_B2F_Filature",
+      "Size": 0.0,
+      "SourceStage": 11016
+    },
+    {
+      "Name": "Cp3_B0_UnderGround",
+      "Size": 0.0,
+      "SourceStage": 10321
+    },
+    {
+      "Name": "Cp3_B0_UnderGround_v1",
+      "Size": 0.0,
+      "SourceStage": 10317
+    },
+    {
+      "Name": "Cp3_B1_LCorpE",
+      "Size": 0.0,
+      "SourceStage": 10306
+    },
+    {
+      "Name": "Cp3_B1_LCorpE_v1",
+      "Size": 0.0,
+      "SourceStage": 10301
+    },
+    {
+      "Name": "Cp3_B1_LCorpE_v2",
+      "Size": 0.0,
+      "SourceStage": 10307
+    },
+    {
+      "Name": "Cp3_B2_LCorpS",
+      "Size": 0.0,
+      "SourceStage": 10323
+    },
+    {
+      "Name": "Cp3_B2_LCorpS_v1",
+      "Size": 0.0,
+      "SourceStage": 10332
+    },
+    {
+      "Name": "Cp3_B2_LCorpS_v2",
+      "Size": 0.0,
+      "SourceStage": 10338
+    },
+    {
+      "Name": "Cp3_B3_Alter",
+      "Size": 0.0,
+      "SourceStage": 10342
+    },
+    {
+      "Name": "Cp3_B3_BossBattle",
+      "Size": 0.0,
+      "SourceStage": 10348
+    },
+    {
+      "Name": "Cp3_B3_CorpesHill",
+      "Size": 0.0,
+      "SourceStage": 10347
+    },
+    {
+      "Name": "Cp4_AdaptedLobotomy",
+      "Size": 33.28,
+      "SourceStage": 10416
+    },
+    {
+      "Name": "Cp4_AdaptedLobotomy_v1",
+      "Size": 33.28,
+      "SourceStage": 10418
+    },
+    {
+      "Name": "Cp4_AdaptedLobotomy2",
+      "Size": 0.0,
+      "SourceStage": 2024203
+    },
+    {
+      "Name": "Cp4_AdaptedLobotomy2_v1",
+      "Size": 23.0,
+      "SourceStage": 10423
+    },
+    {
+      "Name": "Cp4_AdminOffice",
+      "Size": 23.0,
+      "SourceStage": 10421
+    },
+    {
+      "Name": "Cp4_BandofnineAutumn",
+      "Size": 0.0,
+      "SourceStage": 10419
+    },
+    {
+      "Name": "Cp4_BandofnineSpring",
+      "Size": 0.0,
+      "SourceStage": 10402
+    },
+    {
+      "Name": "Cp4_BandofnineSummer",
+      "Size": 0.0,
+      "SourceStage": 10412
+    },
+    {
+      "Name": "Cp4_BrassBull",
+      "Size": 0.0,
+      "SourceStage": 2060011
+    },
+    {
+      "Name": "Cp4_BrokenKCorpStreet",
+      "Size": 0.0,
+      "SourceStage": 2062504
+    },
+    {
+      "Name": "Cp4_BrokenKCorpStreet_v1",
+      "Size": 40.0,
+      "SourceStage": 10403
+    },
+    {
+      "Name": "Cp4_DonglangBattle",
+      "Size": 0.0,
+      "SourceStage": 10433
+    },
+    {
+      "Name": "Cp4_DonglangBattle_v1",
+      "Size": 0.0,
+      "SourceStage": 10432
+    },
+    {
+      "Name": "Cp4_ElectricCentipede",
+      "Size": 0.0,
+      "SourceStage": 2060027
+    },
+    {
+      "Name": "Cp4_GentleFairy",
+      "Size": 0.0,
+      "SourceStage": 2060021
+    },
+    {
+      "Name": "Cp4_KcorLaboratory",
+      "Size": 0.0,
+      "SourceStage": 2024204
+    },
+    {
+      "Name": "Cp4_KCropLab_2F",
+      "Size": 0.0,
+      "SourceStage": 2021110
+    },
+    {
+      "Name": "Cp4_KCropLab_2F_Corridor",
+      "Size": 33.28,
+      "SourceStage": 10413
+    },
+    {
+      "Name": "Cp4_KCropLab_2F_Corridor_v1",
+      "Size": 0.0,
+      "SourceStage": 4
+    },
+    {
+      "Name": "Cp4_KCropLab_2F_Corridor_v2",
+      "Size": 0.0,
+      "SourceStage": 2062711
+    },
+    {
+      "Name": "Cp4_KCropLab_2F_Corridor_v3",
+      "Size": 28.0,
+      "SourceStage": 10433
+    },
+    {
+      "Name": "Cp4_KCropLab_2F_Corridor_v4",
+      "Size": 28.0,
+      "SourceStage": 10441
+    },
+    {
+      "Name": "Cp4_KCropLab_2F_v1",
+      "Size": 33.28,
+      "SourceStage": 10412
+    },
+    {
+      "Name": "Cp4_LongFairy",
+      "Size": 0.0,
+      "SourceStage": 2060035
+    },
+    {
+      "Name": "Cp4_NCorSquareRoom",
+      "Size": 0.0,
+      "SourceStage": 10425
+    },
+    {
+      "Name": "Cp4_Nobody",
+      "Size": 0.0,
+      "SourceStage": 2060013
+    },
+    {
+      "Name": "Cp4_RelocatedLab",
+      "Size": 0.0,
+      "SourceStage": 2070901
+    },
+    {
+      "Name": "Cp4_RelocatedLab_v1",
+      "Size": 0.0,
+      "SourceStage": 4
+    },
+    {
+      "Name": "Cp4_SheddingTears",
+      "Size": 0.0,
+      "SourceStage": 2061028
+    },
+    {
+      "Name": "Cp4_SheddingTearsBlind",
+      "Size": 33.33,
+      "SourceStage": 10447
+    },
+    {
+      "Name": "Cp4_TcorStreet",
+      "Size": 0.0,
+      "SourceStage": 10410
+    },
+    {
+      "Name": "Cp4_UmbrellaFox",
+      "Size": 0.0,
+      "SourceStage": 2060015
+    },
+    {
+      "Name": "Cp4.5_Foreshore",
+      "Size": 0.0,
+      "SourceStage": 2061901
+    },
+    {
+      "Name": "Cp4.5_Foreshore_v1",
+      "Size": 0.0,
+      "SourceStage": 2061902
+    },
+    {
+      "Name": "Cp4.5_HeapScrap",
+      "Size": 0.0,
+      "SourceStage": 2061911
+    },
+    {
+      "Name": "Cp4.5_ServiceCenter",
+      "Size": 0.0,
+      "SourceStage": 2061916
+    },
+    {
+      "Name": "Cp5_ClubBossRoom",
+      "Size": 0.0,
+      "SourceStage": 2061326
+    },
+    {
+      "Name": "Cp5_ClubEntrance",
+      "Size": 0.0,
+      "SourceStage": 2061303
+    },
+    {
+      "Name": "Cp5_ClubHouse_v1",
+      "Size": 28.0,
+      "SourceStage": 10507
+    },
+    {
+      "Name": "Cp5_ClubHouse_v2",
+      "Size": 28.0,
+      "SourceStage": 10507
+    },
+    {
+      "Name": "Cp5_ClubHouse_v3",
+      "Size": 28.0,
+      "SourceStage": 10508
+    },
+    {
+      "Name": "Cp5_CruiseShip",
+      "Size": 0.0,
+      "SourceStage": 2061406
+    },
+    {
+      "Name": "Cp5_DesertedIsland",
+      "Size": 0.0,
+      "SourceStage": 2061421
+    },
+    {
+      "Name": "Cp5_DrillingVessel_1F",
+      "Size": 28.0,
+      "SourceStage": 5
+    },
+    {
+      "Name": "Cp5_DrillingVessel_2F",
+      "Size": 0.0,
+      "SourceStage": 2063706
+    },
+    {
+      "Name": "Cp5_DrillingVessel_Outside",
+      "Size": 0.0,
+      "SourceStage": 5
+    },
+    {
+      "Name": "Cp5_HeartEntrance1",
+      "Size": 0.0,
+      "SourceStage": 10509
+    },
+    {
+      "Name": "Cp5_HeartEntrance2",
+      "Size": 0.0,
+      "SourceStage": 10510
+    },
+    {
+      "Name": "Cp5_HeartEntrance3",
+      "Size": 0.0,
+      "SourceStage": 10512
+    },
+    {
+      "Name": "Cp5_LccbSecret",
+      "Size": 0.0,
+      "SourceStage": 2061301
+    },
+    {
+      "Name": "Cp5_LccbSecret_v1",
+      "Size": 0.0,
+      "SourceStage": 2061302
+    },
+    {
+      "Name": "Cp5_LimbusBoat_Storm",
+      "Size": 0.0,
+      "SourceStage": 2061401
+    },
+    {
+      "Name": "Cp5_PequodTown",
+      "Size": 0.0,
+      "SourceStage": 10506
+    },
+    {
+      "Name": "Cp5_PilotSecret",
+      "Size": 28.0,
+      "SourceStage": 10511
+    },
+    {
+      "Name": "Cp5_PirateBoat",
+      "Size": 28.0,
+      "SourceStage": 10516
+    },
+    {
+      "Name": "Cp5_Stomach",
+      "Size": 0.0,
+      "SourceStage": 10501
+    },
+    {
+      "Name": "Cp5_TheDepthsOfHeart",
+      "Size": 0.0,
+      "SourceStage": 10515
+    },
+    {
+      "Name": "Cp5_TheDepthsOfHeart_Awaken",
+      "Size": 0.0,
+      "SourceStage": 10516
+    },
+    {
+      "Name": "Cp5.5_BackStreet",
+      "Size": 0.0,
+      "SourceStage": 910701
+    },
+    {
+      "Name": "Cp5.5_DrawingRoom",
+      "Size": 0.0,
+      "SourceStage": 2062001
+    },
+    {
+      "Name": "Cp5.5_Front_YongjinTower",
+      "Size": 0.0,
+      "SourceStage": 911501
+    },
+    {
+      "Name": "Cp5.5_GiftMaking",
+      "Size": 0.0,
+      "SourceStage": 2062022
+    },
+    {
+      "Name": "Cp5.5_Satgat",
+      "Size": 0.0,
+      "SourceStage": 2067235
+    },
+    {
+      "Name": "Cp5.5_SCorpImagery",
+      "Size": 0.0,
+      "SourceStage": 911510
+    },
+    {
+      "Name": "Cp5.5_XmasFactory1",
+      "Size": 0.0,
+      "SourceStage": 2062002
+    },
+    {
+      "Name": "Cp5.5_XmasFactory2",
+      "Size": 0.0,
+      "SourceStage": 2062003
+    },
+    {
+      "Name": "Cp5.5_YongjinTower_2F",
+      "Size": 0.0,
+      "SourceStage": 911502
+    },
+    {
+      "Name": "Cp5.5_YongjinTower_3~5F",
+      "Size": 28.0,
+      "SourceStage": 911505
+    },
+    {
+      "Name": "Cp5.5_YongjinTower_Office",
+      "Size": 28.0,
+      "SourceStage": 910711
+    },
+    {
+      "Name": "Cp6_BossBattle",
+      "Size": 0.0,
+      "SourceStage": 10648
+    },
+    {
+      "Name": "Cp6_BrokenLaboratory",
+      "Size": 20.0,
+      "SourceStage": 10637
+    },
+    {
+      "Name": "Cp6_BrokenLaboratory_v1",
+      "Size": 20.0,
+      "SourceStage": 2069101
+    },
+    {
+      "Name": "Cp6_Heathcliff",
+      "Size": 20.0,
+      "SourceStage": 2069601
+    },
+    {
+      "Name": "Cp6_Mansion_CatherineRoom",
+      "Size": 0.0,
+      "SourceStage": 2061606
+    },
+    {
+      "Name": "Cp6_Mansion_DrawingRoom",
+      "Size": 0.0,
+      "SourceStage": 6
+    },
+    {
+      "Name": "Cp6_Mansion_Fireplace",
+      "Size": 0.0,
+      "SourceStage": 2066603
+    },
+    {
+      "Name": "Cp6_Mansion_Hall",
+      "Size": 20.0,
+      "SourceStage": 2064133
+    },
+    {
+      "Name": "Cp6_Mansion_Hall_v1",
+      "Size": 20.0,
+      "SourceStage": 2061726
+    },
+    {
+      "Name": "Cp6_Mansion_Hallway",
+      "Size": 28.0,
+      "SourceStage": 2061608
+    },
+    {
+      "Name": "Cp6_Mansion_Hallway_v1",
+      "Size": 28.0,
+      "SourceStage": 2061604
+    },
+    {
+      "Name": "Cp6_Mansion_Laboratory_B1",
+      "Size": 0.0,
+      "SourceStage": 2061701
+    },
+    {
+      "Name": "Cp6_Mansion_Laboratory_B2",
+      "Size": 20.0,
+      "SourceStage": 2061627
+    },
+    {
+      "Name": "Cp6_Mansion_StairsToLaboratory",
+      "Size": 0.0,
+      "SourceStage": 2061616
+    },
+    {
+      "Name": "Cp6_TCorpBackstreet",
+      "Size": 0.0,
+      "SourceStage": 6
+    },
+    {
+      "Name": "Cp6.5-1_ClockBoss",
+      "Size": 0.0,
+      "SourceStage": 911812
+    },
+    {
+      "Name": "Cp6.5-1_ClockTower",
+      "Size": 0.0,
+      "SourceStage": 910914
+    },
+    {
+      "Name": "Cp6.5-1_DampishAlley",
+      "Size": 0.0,
+      "SourceStage": 911809
+    },
+    {
+      "Name": "Cp6.5-1_DampishAlley_v1",
+      "Size": 0.0,
+      "SourceStage": 911807
+    },
+    {
+      "Name": "Cp6.5-1_HideoutStreet",
+      "Size": 0.0,
+      "SourceStage": 2066317
+    },
+    {
+      "Name": "Cp6.5-1_TCorpIntersection",
+      "Size": 0.0,
+      "SourceStage": 911801
+    },
+    {
+      "Name": "Cp6.5-1_YurodivyHideout",
+      "Size": 0.0,
+      "SourceStage": 911810
+    },
+    {
+      "Name": "Cp6.5-2_WarpTrain",
+      "Size": 0.0,
+      "SourceStage": 911004
+    },
+    {
+      "Name": "Cp6.5-2_WarpTrain_Boss",
+      "Size": 0.0,
+      "SourceStage": 2065235
+    },
+    {
+      "Name": "Cp6.5-2_WarpTrain_v1",
+      "Size": 0.0,
+      "SourceStage": 911006
+    },
+    {
+      "Name": "Cp6.5-2_WarpTrain_v2",
+      "Size": 0.0,
+      "SourceStage": 2066401
+    },
+    {
+      "Name": "Cp7_BloodfiendWar",
+      "Size": 0.0,
+      "SourceStage": 10701
+    },
+    {
+      "Name": "Cp7_BossBattle",
+      "Size": 34.0,
+      "SourceStage": 10710
+    },
+    {
+      "Name": "Cp7_ConfessionRoom",
+      "Size": 0.0,
+      "SourceStage": 10724
+    },
+    {
+      "Name": "Cp7_EmptyLot",
+      "Size": 0.0,
+      "SourceStage": 2066702
+    },
+    {
+      "Name": "Cp7_FathomsOfLamancha_1",
+      "Size": 0.0,
+      "SourceStage": 10701
+    },
+    {
+      "Name": "Cp7_FathomsOfLamancha_2",
+      "Size": 0.0,
+      "SourceStage": 10703
+    },
+    {
+      "Name": "Cp7_FathomsOfLamancha_3",
+      "Size": 0.0,
+      "SourceStage": 10706
+    },
+    {
+      "Name": "Cp7_HauntedMansion",
+      "Size": 0.0,
+      "SourceStage": 9
+    },
+    {
+      "Name": "Cp7_LamanchaAreaA",
+      "Size": 0.0,
+      "SourceStage": 7
+    },
+    {
+      "Name": "Cp7_LamanchaAreaC_1",
+      "Size": 0.0,
+      "SourceStage": 8
+    },
+    {
+      "Name": "Cp7_LamanchaAreaC_2",
+      "Size": 0.0,
+      "SourceStage": 10733
+    },
+    {
+      "Name": "Cp7_LamanchaAreaC_3",
+      "Size": 0.0,
+      "SourceStage": 2063832
+    },
+    {
+      "Name": "Cp7_LamanchaEntrance",
+      "Size": 0.0,
+      "SourceStage": 2066701
+    },
+    {
+      "Name": "Cp7_MiddleBosses",
+      "Size": 34.0,
+      "SourceStage": 10708
+    },
+    {
+      "Name": "Cp7_ShootingGame_1a",
+      "Size": 0.0,
+      "SourceStage": 10713
+    },
+    {
+      "Name": "Cp7_ShootingGame_1b",
+      "Size": 0.0,
+      "SourceStage": 10715
+    },
+    {
+      "Name": "Cp7_ShootingGame_2",
+      "Size": 33.32,
+      "SourceStage": 10712
+    },
+    {
+      "Name": "Cp7_TheaterCave",
+      "Size": 0.0,
+      "SourceStage": 10718
+    },
+    {
+      "Name": "Cp7_TheaterMansion",
+      "Size": 24.0,
+      "SourceStage": 10726
+    },
+    {
+      "Name": "Cp7_TheaterVillage",
+      "Size": 0.0,
+      "SourceStage": 10717
+    },
+    {
+      "Name": "Cp7.5_2_CleaningHotel_1",
+      "Size": 0.0,
+      "SourceStage": 2067831
+    },
+    {
+      "Name": "Cp7.5-1_fathoms_lobotomy",
+      "Size": 0.0,
+      "SourceStage": 911405
+    },
+    {
+      "Name": "Cp7.5-1_HohenheimLab",
+      "Size": 0.0,
+      "SourceStage": 911408
+    },
+    {
+      "Name": "Cp7.5-1_LCE_Lab",
+      "Size": 18.0,
+      "SourceStage": 911401
+    },
+    {
+      "Name": "Cp7.5-1_LCE_Lab_final",
+      "Size": 18.0,
+      "SourceStage": 911407
+    },
+    {
+      "Name": "Cp7.5-1_LCE_Lab_v2",
+      "Size": 18.0,
+      "SourceStage": 911406
+    },
+    {
+      "Name": "Cp7.5-1_LCE_Lab_v3",
+      "Size": 18.0,
+      "SourceStage": 911409
+    },
+    {
+      "Name": "Cp7.5-1_LCE_Lab_v4",
+      "Size": 0.0,
+      "SourceStage": 911411
+    },
+    {
+      "Name": "Cp7.5-2_BackstreetH_Entrance",
+      "Size": 0.0,
+      "SourceStage": 2067801
+    },
+    {
+      "Name": "Cp7.5-2_BackstreetH_Inside",
+      "Size": 20.0,
+      "SourceStage": 911605
+    },
+    {
+      "Name": "Cp7.5-2_BrokenHotel",
+      "Size": 20.0,
+      "SourceStage": 912620
+    },
+    {
+      "Name": "Cp7.5-2_Hotel",
+      "Size": 20.0,
+      "SourceStage": 2067811
+    },
+    {
+      "Name": "Cp8_B1Corridor",
+      "Size": 0.0,
+      "SourceStage": 10819
+    },
+    {
+      "Name": "Cp8_B2Corridor",
+      "Size": 0.0,
+      "SourceStage": 10824
+    },
+    {
+      "Name": "Cp8_BackstreetH_Outside",
+      "Size": 33.33,
+      "SourceStage": 10801
+    },
+    {
+      "Name": "Cp8_FathomsOfLaboratory_a",
+      "Size": 24.0,
+      "SourceStage": 10801
+    },
+    {
+      "Name": "Cp8_FathomsOfLaboratory_b",
+      "Size": 28.0,
+      "SourceStage": 10807
+    },
+    {
+      "Name": "Cp8_FathomsOfLaboratory_c",
+      "Size": 24.0,
+      "SourceStage": 10835
+    },
+    {
+      "Name": "Cp8_FathomsOfLaboratory_d",
+      "Size": 24.0,
+      "SourceStage": 10812
+    },
+    {
+      "Name": "Cp8_FightRingFirst",
+      "Size": 24.0,
+      "SourceStage": 10811
+    },
+    {
+      "Name": "Cp8_FinalRoom",
+      "Size": 0.0,
+      "SourceStage": 10827
+    },
+    {
+      "Name": "Cp8_GardenOfHongluHouse",
+      "Size": 33.33,
+      "SourceStage": 10808
+    },
+    {
+      "Name": "Cp8_RoomOfHongluHouse",
+      "Size": 24.0,
+      "SourceStage": 2067932
+    },
+    {
+      "Name": "Cp8_TiekanTemple",
+      "Size": 0.0,
+      "SourceStage": 2068032
+    },
+    {
+      "Name": "Cp8_TiekanTemple_v1",
+      "Size": 0.0,
+      "SourceStage": 2067933
+    },
+    {
+      "Name": "Cp8_TiekanTempleCorridor",
+      "Size": 0.0,
+      "SourceStage": 14
+    },
+    {
+      "Name": "Cp8_TiekanTempleRoad",
+      "Size": 0.0,
+      "SourceStage": 912722
+    },
+    {
+      "Name": "Cp8_TiekanTempleStair",
+      "Size": 0.0,
+      "SourceStage": 10824
+    },
+    {
+      "Name": "Cp8.5-1_FinalTest_Around",
+      "Size": 0.0,
+      "SourceStage": 2069401
+    },
+    {
+      "Name": "Cp8.5-1_FinalTest_Entrance",
+      "Size": 0.0,
+      "SourceStage": 2069411
+    },
+    {
+      "Name": "Cp8.5-1_FinalTest_LastExam",
+      "Size": 0.0,
+      "SourceStage": 911909
+    },
+    {
+      "Name": "Cp8.5-1_SparringHall",
+      "Size": 0.0,
+      "SourceStage": 911913
+    },
+    {
+      "Name": "Cp8.5-1_TrainingRoom",
+      "Size": 0.0,
+      "SourceStage": 911917
+    },
+    {
+      "Name": "Cp8.5-2_Coast",
+      "Size": 0.0,
+      "SourceStage": 2069501
+    },
+    {
+      "Name": "Cp8.5-2_ControlRoom",
+      "Size": 0.0,
+      "SourceStage": 2069519
+    },
+    {
+      "Name": "Cp8.5-2_FathomsOfMayors",
+      "Size": 32.0,
+      "SourceStage": 912009
+    },
+    {
+      "Name": "Cp8.5-2_FoggyBeach",
+      "Size": 0.0,
+      "SourceStage": 912001
+    },
+    {
+      "Name": "Cp8.5-2_InsideVillage",
+      "Size": 0.0,
+      "SourceStage": 2069515
+    },
+    {
+      "Name": "Cp8.5-2_Lighthouse",
+      "Size": 0.0,
+      "SourceStage": 912004
+    },
+    {
+      "Name": "Cp9_CollapsedCorridor",
+      "Size": 30.0,
+      "SourceStage": 2070301
+    },
+    {
+      "Name": "Cp9_CorridorA",
+      "Size": 30.0,
+      "SourceStage": 2070001
+    },
+    {
+      "Name": "Cp9_CorridorB",
+      "Size": 0.0,
+      "SourceStage": 13
+    },
+    {
+      "Name": "Cp9_DeepareaEv",
+      "Size": 30.0,
+      "SourceStage": 2070201
+    },
+    {
+      "Name": "Cp9_DeepareaEvClose",
+      "Size": 26.0,
+      "SourceStage": 2070306
+    },
+    {
+      "Name": "Cp9_DeepareaLab",
+      "Size": 30.0,
+      "SourceStage": 2070206
+    },
+    {
+      "Name": "Cp9_DustPit",
+      "Size": 0.0,
+      "SourceStage": 10945
+    },
+    {
+      "Name": "Cp9_HouseSpidersRoooftop",
+      "Size": 33.33,
+      "SourceStage": 10948
+    },
+    {
+      "Name": "Cp9_HouseSpidersRoooftopAshes",
+      "Size": 33.33,
+      "SourceStage": 9000005
+    },
+    {
+      "Name": "Cp9_HouseSpidersRoooftopBurn",
+      "Size": 33.33,
+      "SourceStage": 10949
+    },
+    {
+      "Name": "Cp9_Littlefinger",
+      "Size": 33.33,
+      "SourceStage": 604
+    },
+    {
+      "Name": "Cp9_Middlefinger",
+      "Size": 33.0,
+      "SourceStage": 9000008
+    },
+    {
+      "Name": "Cp9_Ringfinger",
+      "Size": 22.0,
+      "SourceStage": 9000006
+    },
+    {
+      "Name": "Cp9_Ringfinger_v1",
+      "Size": 22.0,
+      "SourceStage": 10943
+    },
+    {
+      "Name": "Cp9_Thumbfinger",
+      "Size": 40.0,
+      "SourceStage": 9000007
+    },
+    {
+      "Name": "Cp9_WTruckRebirth",
+      "Size": 30.0,
+      "SourceStage": 2070101
+    },
+    {
+      "Name": "Cp9.5-1_LittleFingerCorridor",
+      "Size": 22.0,
+      "SourceStage": 912520
+    },
+    {
+      "Name": "Cp9.5-1_MiddleFingerCorridor",
+      "Size": 33.0,
+      "SourceStage": 2070706
+    },
+    {
+      "Name": "Cp9.5-1_RienBasement",
+      "Size": 27.0,
+      "SourceStage": 2070724
+    },
+    {
+      "Name": "Cp9.5-1_RingFingerClear",
+      "Size": 27.0,
+      "SourceStage": 2070701
+    },
+    {
+      "Name": "Cp9.5-1_ThumbFingerCorridor",
+      "Size": 25.0,
+      "SourceStage": 2070711
+    },
+    {
+      "Name": "Cp9.5-2_BackstreetN",
+      "Size": 27.0,
+      "SourceStage": 2071506
+    },
+    {
+      "Name": "Cp9.5-2_FathomsBackstreetS",
+      "Size": 30.0,
+      "SourceStage": 912720
+    },
+    {
+      "Name": "Cp9.5-2_FathomsBackstreetS_v1",
+      "Size": 42.0,
+      "SourceStage": 912711
+    },
+    {
+      "Name": "Cp9.5-2_FathomsOfRightStateCouncilor",
+      "Size": 42.0,
+      "SourceStage": 912705
+    },
+    {
+      "Name": "DAreaStreet_A",
+      "Size": 0.0,
+      "SourceStage": 2060201
+    },
+    {
+      "Name": "DAreaStreet_B",
+      "Size": 28.0,
+      "SourceStage": 9000004
+    },
+    {
+      "Name": "DarkForest",
+      "Size": 33.0,
+      "SourceStage": 10001
+    },
+    {
+      "Name": "Dog_ControlTeamHallway_Hard_v1",
+      "Size": 28.0,
+      "SourceStage": 2066511
+    },
+    {
+      "Name": "Dog_ControlTeamHallway_Normal_v1",
+      "Size": 28.0,
+      "SourceStage": 2060040
+    },
+    {
+      "Name": "Fools_Casino1F",
+      "Size": 0.0,
+      "SourceStage": 20260000
+    },
+    {
+      "Name": "Fools_DAreaStreet_A",
+      "Size": 28.0,
+      "SourceStage": 20260000
+    },
+    {
+      "Name": "Fools_KCorpCheckPoint",
+      "Size": 0.0,
+      "SourceStage": 20260000
+    },
+    {
+      "Name": "Fools_OldRestaurant_boss",
+      "Size": 0.0,
+      "SourceStage": 20260000
+    },
+    {
+      "Name": "FranchiseChicken",
+      "Size": 0.0,
+      "SourceStage": 2061801
+    },
+    {
+      "Name": "KCorpCheckPoint",
+      "Size": 0.0,
+      "SourceStage": 2011352
+    },
+    {
+      "Name": "LCorpCenter",
+      "Size": 40.0,
+      "SourceStage": 100108
+    },
+    {
+      "Name": "LCorpCenter_v1",
+      "Size": 40.0,
+      "SourceStage": 100105
+    },
+    {
+      "Name": "LCorpElevator_v1",
+      "Size": 33.32,
+      "SourceStage": 100101
+    },
+    {
+      "Name": "LCorpEntrance",
+      "Size": 0.0,
+      "SourceStage": 1
+    },
+    {
+      "Name": "OldRestaurant",
+      "Size": 0.0,
+      "SourceStage": 910301
+    },
+    {
+      "Name": "OldRestaurant_boss",
+      "Size": 0.0,
+      "SourceStage": 910309
+    },
+    {
+      "Name": "OldRestaurant_inside",
+      "Size": 0.0,
+      "SourceStage": 910305
+    },
+    {
+      "Name": "OrientalCorridor",
+      "Size": 0.0,
+      "SourceStage": 2011521
+    },
+    {
+      "Name": "SinclairForest_1",
+      "Size": 0.0,
+      "SourceStage": 3
+    },
+    {
+      "Name": "SinclairForest_2",
+      "Size": 0.0,
+      "SourceStage": 2011435
+    },
+    {
+      "Name": "SinclairMansion",
+      "Size": 0.0,
+      "SourceStage": 2011453
+    },
+    {
+      "Name": "SinclairMansion_v1",
+      "Size": 0.0,
+      "SourceStage": 10319
+    },
+    {
+      "Name": "SinclairVillage",
+      "Size": 0.0,
+      "SourceStage": 3
+    },
+    {
+      "Name": "SmokeWar",
+      "Size": 30.0,
+      "SourceStage": 100104
+    },
+    {
+      "Name": "SmokeWar_v1",
+      "Size": 0.0,
+      "SourceStage": 10116
+    },
+    {
+      "Name": "Walpu4_InformationTeamTeamHallway",
+      "Size": 28.0,
+      "SourceStage": 10558
+    },
+    {
+      "Name": "Walpu4_InformationTeamTeamHallway_Hard",
+      "Size": 28.0,
+      "SourceStage": 10559
+    },
+    {
+      "Name": "Walpu4_SafetyTeamTeamHallway",
+      "Size": 28.0,
+      "SourceStage": 10558
+    },
+    {
+      "Name": "Walpu4_SafetyTeamTeamHallway_Hard",
+      "Size": 28.0,
+      "SourceStage": 10559
+    },
+    {
+      "Name": "Walpu4_TrainingTeamLobby",
+      "Size": 33.32,
+      "SourceStage": 2066511
+    },
+    {
+      "Name": "Walpu4_TrainingTeamLobby_Hard",
+      "Size": 33.32,
+      "SourceStage": 10559
+    },
+    {
+      "Name": "Walpu4_TrainingTeamTeamHallway",
+      "Size": 28.0,
+      "SourceStage": 10558
+    },
+    {
+      "Name": "Walpu4_TrainingTeamTeamHallway_Hard",
+      "Size": 28.0,
+      "SourceStage": 10559
+    },
+    {
+      "Name": "Walpu5_ChurchOfGears",
+      "Size": 33.32,
+      "SourceStage": 2067521
+    },
+    {
+      "Name": "Walpu6_CentralCommandTeam",
+      "Size": 28.0,
+      "SourceStage": 2068201
+    },
+    {
+      "Name": "Walpu8_WelfareHallway",
+      "Size": 33.32,
+      "SourceStage": 2070501
+    },
+    {
+      "Name": "WhiteSnow",
+      "Size": 40.0,
+      "SourceStage": 100107
+    },
+    {
+      "Name": "WillYouPlay",
+      "Size": 22.22,
+      "SourceStage": 603
+    }
+  ],
+  "Music": [
+    "Battle_AhabBossBattle_Mirror",
+    "Battle_Audite_pauper",
+    "Battle_Cp1_Ally_1",
+    "Battle_Cp1_Ally_2",
+    "Battle_Cp1_Ally_3",
+    "Battle_Cp1_Enemy_1",
+    "Battle_Cp1_Enemy_2",
+    "Battle_Cp1_Enemy_3",
+    "Battle_Cp10_Boss_1",
+    "Battle_Cp10_Boss_10",
+    "Battle_Cp10_Boss_11",
+    "Battle_Cp10_Boss_12",
+    "Battle_Cp10_Boss_13",
+    "Battle_Cp10_Boss_2-1",
+    "Battle_Cp10_Boss_4",
+    "Battle_Cp10_Boss_6-1",
+    "Battle_Cp10_Boss_7",
+    "Battle_Cp10_Boss_8",
+    "Battle_Cp10_Enemy_1",
+    "Battle_Cp10_Enemy_2",
+    "Battle_Cp10_Enemy_3",
+    "Battle_Cp10_Enemy_5",
+    "Battle_Cp2_Ally_1",
+    "Battle_Cp2_Ally_2",
+    "Battle_Cp2_Ally_3",
+    "Battle_Cp2_Enemy_1",
+    "Battle_Cp2_Enemy_2",
+    "Battle_Cp2_Enemy_3",
+    "Battle_Cp2_Rodion",
+    "Battle_Cp3_5_Enemy_1",
+    "Battle_Cp3_5_Enemy_2",
+    "Battle_Cp3_Ally_1",
+    "Battle_Cp3_Ally_2",
+    "Battle_Cp3_Ally_3",
+    "Battle_Cp3_Cromer_p1",
+    "Battle_Cp3_Cromer_p2",
+    "Battle_Cp3_Enemy_1",
+    "Battle_Cp3_Enemy_2",
+    "Battle_Cp3_Enemy_3",
+    "Battle_Cp3_Enemy_4",
+    "Battle_Cp4_5_Boss",
+    "Battle_Cp4_5_Enemy",
+    "Battle_Cp4_Ally_1",
+    "Battle_Cp4_Ally_2",
+    "Battle_Cp4_Ally_3",
+    "Battle_Cp4_Ally_4",
+    "Battle_Cp4_Ally_5",
+    "Battle_Cp4_Ally_6",
+    "Battle_Cp4_DongbaekBattle",
+    "Battle_Cp4_DongLangBattle",
+    "Battle_Cp4_DongLangEGOBattle",
+    "Battle_Cp4_Enemy_1",
+    "Battle_Cp4_Enemy_2",
+    "Battle_Cp4_Enemy_3",
+    "Battle_Cp4_Enemy_4",
+    "Battle_Cp4_Enemy_5",
+    "Battle_Cp4_Enemy_6",
+    "Battle_Cp5_5_Xmas_Boss",
+    "Battle_Cp5_5_Xmas_Enemy",
+    "Battle_Cp5_5_YCGD_Boss",
+    "Battle_Cp5_5_YCGD_Enemy",
+    "Battle_Cp5_AhabBattle",
+    "Battle_Cp5_AhabBossBattle",
+    "Battle_Cp5_Ally_1",
+    "Battle_Cp5_Ally_2",
+    "Battle_Cp5_Ally_3",
+    "Battle_Cp5_Ally_4",
+    "Battle_Cp5_Enemy_1",
+    "Battle_Cp5_Enemy_2",
+    "Battle_Cp5_Enemy_3",
+    "Battle_Cp5_Enemy_4",
+    "Battle_Cp5_Enemy_5",
+    "Battle_Cp5_MiddleBossBattle",
+    "Battle_Cp6_5_MOWE_Boss",
+    "Battle_Cp6_5_MOWE_Enemy",
+    "Battle_Cp6_5_TKT_Boss",
+    "Battle_Cp6_5_TKT_Enemy",
+    "Battle_Cp6_Ally_1",
+    "Battle_Cp6_Ally_2",
+    "Battle_Cp6_Ally_3",
+    "Battle_Cp6_Ally_4",
+    "Battle_Cp6_Ally_5",
+    "Battle_Cp6_Enemy_1",
+    "Battle_Cp6_Enemy_2",
+    "Battle_Cp6_Enemy_3",
+    "Battle_Cp6_Enemy_4",
+    "Battle_Cp6_Enemy_5",
+    "Battle_Cp6_Enemy_6",
+    "Battle_Cp6_Heathcliff_1",
+    "Battle_Cp6_Heathcliff_2",
+    "Battle_Cp6_HeathDist",
+    "Battle_Cp6_Leviathan",
+    "Battle_Cp6_Middle_BossBattle",
+    "Battle_Cp7_5_LCE_Boss",
+    "Battle_Cp7_5_LCE_Enemy_1",
+    "Battle_Cp7_5_LCE_Enemy_2",
+    "Battle_Cp7_5_Sweep_Enemy_1",
+    "Battle_Cp7_5_Sweep_Enemy_2",
+    "Battle_Cp7_5_Sweep_Enemy_3",
+    "Battle_Cp7_Ally_1",
+    "Battle_Cp7_Ally_2",
+    "Battle_Cp7_Ally_3",
+    "Battle_Cp7_Ally_4",
+    "Battle_Cp7_Boss_1",
+    "Battle_Cp7_Boss_2",
+    "Battle_Cp7_Boss_3",
+    "Battle_Cp7_Boss_4",
+    "Battle_Cp7_Boss_5",
+    "Battle_Cp7_Enemy_1",
+    "Battle_Cp7_Enemy_2",
+    "Battle_Cp7_Enemy_3",
+    "Battle_Cp7_Enemy_4",
+    "Battle_Cp7_Enemy_5",
+    "Battle_Cp7_Enemy_6",
+    "Battle_Cp7_Enemy_7",
+    "Battle_Cp8_5_pilgrimage_Boss_1",
+    "Battle_Cp8_5_pilgrimage_Boss_2-1",
+    "Battle_Cp8_5_pilgrimage_Boss_2-2",
+    "Battle_Cp8_5_pilgrimage_Boss_3",
+    "Battle_Cp8_5_Pilgrimage_Boss_3",
+    "Battle_Cp8_5_pilgrimage_Enemy_1",
+    "Battle_Cp8_5_pilgrimage_Enemy_2",
+    "Battle_Cp8_5_Xichun_Boss_1",
+    "Battle_Cp8_5_Xichun_Boss_2",
+    "Battle_Cp8_5_Xichun_Boss_3",
+    "Battle_Cp8_5_Xichun_Enemy_1",
+    "Battle_Cp8_Ally_1",
+    "Battle_Cp8_Ally_2",
+    "Battle_Cp8_Ally_3",
+    "Battle_Cp8_Ally_4",
+    "Battle_Cp8_Ally_5",
+    "Battle_Cp8_Ally_6",
+    "Battle_Cp8_Boss_1",
+    "Battle_Cp8_Boss_1_1",
+    "Battle_Cp8_Boss_2",
+    "Battle_Cp8_Boss_2_1",
+    "Battle_Cp8_Boss_3",
+    "Battle_Cp8_Boss_4",
+    "Battle_Cp8_Enemy_1",
+    "Battle_Cp8_Enemy_2",
+    "Battle_Cp8_Enemy_3",
+    "Battle_Cp8_Enemy_4",
+    "Battle_Cp8_Enemy_5",
+    "Battle_Cp8_Enemy_6",
+    "Battle_Cp9_5_Mnestic_Boss_1",
+    "Battle_Cp9_5_Mnestic_Enemy_1",
+    "Battle_Cp9_5_Mnestic_Enemy_2",
+    "Battle_Cp9_5_Thread_Boss",
+    "Battle_Cp9_5_Thread_Enemy",
+    "Battle_Cp9_Boss_1",
+    "Battle_Cp9_Boss_1_2",
+    "Battle_Cp9_Boss_10",
+    "Battle_Cp9_Boss_10_Mirror",
+    "Battle_Cp9_Boss_2",
+    "Battle_Cp9_Boss_2_2",
+    "Battle_Cp9_Boss_3_2",
+    "Battle_Cp9_Boss_4",
+    "Battle_Cp9_Boss_4_2",
+    "Battle_Cp9_Boss_5",
+    "Battle_Cp9_Boss_6",
+    "Battle_Cp9_Boss_7",
+    "Battle_Cp9_Boss_8",
+    "Battle_Cp9_Boss_9",
+    "Battle_Cp9_Enemy_1",
+    "Battle_Cp9_Enemy_2",
+    "Battle_Cp9_Enemy_3",
+    "Battle_Cur_dolorem_sentis",
+    "Battle_Flore_sicut_rosa",
+    "Battle_JiamuBattle_Mirror",
+    "Battle_LOB_Dawn_Hard",
+    "Battle_LOB_Dawn_Normal",
+    "Battle_LOB_Noon_Hard",
+    "Battle_LOR_Abnormality_1",
+    "Battle_LOR_Abnormality_2",
+    "Battle_LOR_ChurchOfGears_Hard",
+    "Battle_LOR_ChurchOfGears_Normal",
+    "Battle_Me_relinque",
+    "Battle_Ne_me_relinque",
+    "Battle_QuixoteBattle_Mirror",
+    "Battle_SanchoBattle_Mirror",
+    "Battle_Statue",
+    "Battle_Tandem_lugetis",
+    "Battle_Tandem_sentitis",
+    "Battle_TGS_Ally_1",
+    "Battle_Vovete_miserias",
+    "Falling_Down",
+    "LaMancha_Carnival-1",
+    "LaMancha_Carnival-2",
+    "Run_Bongy_Run"
+  ],
+  "Identities": [
+    {
+      "Id": 10101,
+      "Sinner": 1,
+      "Appearance": "10101_YiSang_BaseAppearance"
+    },
+    {
+      "Id": 10102,
+      "Sinner": 1,
+      "Appearance": "10102_YiSang_7Appearance"
+    },
+    {
+      "Id": 10103,
+      "Sinner": 1,
+      "Appearance": "10103_Yisang_SwordGroupAppearance"
+    },
+    {
+      "Id": 10104,
+      "Sinner": 1,
+      "Appearance": "10104_YiSang_SpicebushFlowerAppearance"
+    },
+    {
+      "Id": 10105,
+      "Sinner": 1,
+      "Appearance": "10105_Yisang_RainAppearance"
+    },
+    {
+      "Id": 10106,
+      "Sinner": 1,
+      "Appearance": "10106_Yisang_WCorpAppearance"
+    },
+    {
+      "Id": 10107,
+      "Sinner": 1,
+      "Appearance": "10107_Yisang_StarbuckAppearance"
+    },
+    {
+      "Id": 10108,
+      "Sinner": 1,
+      "Appearance": "10108_YiSang_DieciAppearance"
+    },
+    {
+      "Id": 10109,
+      "Sinner": 1,
+      "Appearance": "10109_Yisang_RingFingerAppearance"
+    },
+    {
+      "Id": 10110,
+      "Sinner": 1,
+      "Appearance": "10110_Yisang_DeadButterflyAppearance"
+    },
+    {
+      "Id": 10111,
+      "Sinner": 1,
+      "Appearance": "10111_Yisang_FairyLanternAppearance"
+    },
+    {
+      "Id": 10112,
+      "Sinner": 1,
+      "Appearance": "10112_Yisang_LiuAppearance"
+    },
+    {
+      "Id": 10113,
+      "Sinner": 1,
+      "Appearance": "10113_YiSang_DerSchutzeAppearance"
+    },
+    {
+      "Id": 10114,
+      "Sinner": 1,
+      "Appearance": "10114_Yisang_Heishou_WuAppearance"
+    },
+    {
+      "Id": 10115,
+      "Sinner": 1,
+      "Appearance": "10115_YiSang_Index_FatherAppearance"
+    },
+    {
+      "Id": 10116,
+      "Sinner": 1,
+      "Appearance": "10116_Yisang_LostPassangerAppearance"
+    },
+    {
+      "Id": 10201,
+      "Sinner": 2,
+      "Appearance": "10201_Faust_BaseAppearance"
+    },
+    {
+      "Id": 10202,
+      "Sinner": 2,
+      "Appearance": "10202_Faust_WAppearance"
+    },
+    {
+      "Id": 10203,
+      "Sinner": 2,
+      "Appearance": "10203_Faust_YuriAppearance"
+    },
+    {
+      "Id": 10204,
+      "Sinner": 2,
+      "Appearance": "10204_Faust_CromerAppearance"
+    },
+    {
+      "Id": 10205,
+      "Sinner": 2,
+      "Appearance": "10205_Faust_ZweiAppearance"
+    },
+    {
+      "Id": 10206,
+      "Sinner": 2,
+      "Appearance": "10206_Faust_SevenAppearance"
+    },
+    {
+      "Id": 10207,
+      "Sinner": 2,
+      "Appearance": "10207_Faust_ForsakenMurderer_LOBAppearance"
+    },
+    {
+      "Id": 10208,
+      "Sinner": 2,
+      "Appearance": "10208_Faust_SwordGroupAppearance"
+    },
+    {
+      "Id": 10209,
+      "Sinner": 2,
+      "Appearance": "10209_Faust_ButlerAppearance"
+    },
+    {
+      "Id": 10210,
+      "Sinner": 2,
+      "Appearance": "10210_Faust_CyborgFixerAppearance"
+    },
+    {
+      "Id": 10211,
+      "Sinner": 2,
+      "Appearance": "10211_Faust_FireMothAppearance"
+    },
+    {
+      "Id": 10212,
+      "Sinner": 2,
+      "Appearance": "10212_Faust_Heishou_JaroAppearance"
+    },
+    {
+      "Id": 10213,
+      "Sinner": 2,
+      "Appearance": "10213_Faust_Shi_EastAppearance"
+    },
+    {
+      "Id": 10214,
+      "Sinner": 2,
+      "Appearance": "10214_Faust_IndexFinger_ProselyteAppearance"
+    },
+    {
+      "Id": 10215,
+      "Sinner": 2,
+      "Appearance": "10215_Faust_Ring_DiscipleAppearance"
+    },
+    {
+      "Id": 10216,
+      "Sinner": 2,
+      "Appearance": "10216_Faust_YunaAppearance"
+    },
+    {
+      "Id": 10301,
+      "Sinner": 3,
+      "Appearance": "10301_Donquixote_BaseAppearance"
+    },
+    {
+      "Id": 10302,
+      "Sinner": 3,
+      "Appearance": "10302_Donquixote_WAppearance"
+    },
+    {
+      "Id": 10303,
+      "Sinner": 3,
+      "Appearance": "10303_Donquixote_ShiAssoAppearance"
+    },
+    {
+      "Id": 10304,
+      "Sinner": 3,
+      "Appearance": "10304_Donquixote_NCorpAppearance"
+    },
+    {
+      "Id": 10305,
+      "Sinner": 3,
+      "Appearance": "10305_Donquixote_CinqAppearance"
+    },
+    {
+      "Id": 10306,
+      "Sinner": 3,
+      "Appearance": "10306_Donquixote_MiddleFingerAppearance"
+    },
+    {
+      "Id": 10307,
+      "Sinner": 3,
+      "Appearance": "10307_Donquixote_MeatLanternAppearance"
+    },
+    {
+      "Id": 10308,
+      "Sinner": 3,
+      "Appearance": "10308_Donquixote_SwordGroupAppearance"
+    },
+    {
+      "Id": 10309,
+      "Sinner": 3,
+      "Appearance": "10309_Donquixote_TCorpAppearance"
+    },
+    {
+      "Id": 10310,
+      "Sinner": 3,
+      "Appearance": "10310_Donquixote_DarkSanchoAppearance"
+    },
+    {
+      "Id": 10311,
+      "Sinner": 3,
+      "Appearance": "10311_Donquixote_Cinq_EastAppearance"
+    },
+    {
+      "Id": 10312,
+      "Sinner": 3,
+      "Appearance": "10312_Donquixote_HatredAppearance"
+    },
+    {
+      "Id": 10313,
+      "Sinner": 3,
+      "Appearance": "10313_Donquixote_Heishou_WeiAppearance"
+    },
+    {
+      "Id": 10314,
+      "Sinner": 3,
+      "Appearance": "10314_Donquixote_Index_DiscipleAppearance"
+    },
+    {
+      "Id": 10315,
+      "Sinner": 3,
+      "Appearance": "10315_Donquixote_LeNoir_CaptainAppearance"
+    },
+    {
+      "Id": 10401,
+      "Sinner": 4,
+      "Appearance": "10401_Ryoshu_BaseAppearance"
+    },
+    {
+      "Id": 10402,
+      "Sinner": 4,
+      "Appearance": "10402_Ryoshu_SevenAssoAppearance"
+    },
+    {
+      "Id": 10403,
+      "Sinner": 4,
+      "Appearance": "10403_Ryoshu_BlackCloudAppearance"
+    },
+    {
+      "Id": 10404,
+      "Sinner": 4,
+      "Appearance": "10404_Ryoshu_PierreAppearance"
+    },
+    {
+      "Id": 10405,
+      "Sinner": 4,
+      "Appearance": "10405_Ryoshu_WCorpAppearance"
+    },
+    {
+      "Id": 10406,
+      "Sinner": 4,
+      "Appearance": "10406_Ryoshu_LCCBAppearance"
+    },
+    {
+      "Id": 10407,
+      "Sinner": 4,
+      "Appearance": "10407_Ryoshu_LiuAppearance"
+    },
+    {
+      "Id": 10408,
+      "Sinner": 4,
+      "Appearance": "10408_Ryoshu_NellyAppearance"
+    },
+    {
+      "Id": 10409,
+      "Sinner": 4,
+      "Appearance": "10409_Ryoshu_YuroAppearance"
+    },
+    {
+      "Id": 10410,
+      "Sinner": 4,
+      "Appearance": "10410_Ryoshu_SpiderBudAppearance"
+    },
+    {
+      "Id": 10411,
+      "Sinner": 4,
+      "Appearance": "10411_Ryoshu_BlackHand_MaoAppearance"
+    },
+    {
+      "Id": 10412,
+      "Sinner": 4,
+      "Appearance": "10412_Ryoshu_JiahuanAppearance"
+    },
+    {
+      "Id": 10413,
+      "Sinner": 4,
+      "Appearance": "10413_Ryoshu_LindaiyuAppearance"
+    },
+    {
+      "Id": 10414,
+      "Sinner": 4,
+      "Appearance": "10414_Ryoshu_AriuneAppearance"
+    },
+    {
+      "Id": 10415,
+      "Sinner": 4,
+      "Appearance": "10415_Ryoshu_Pinky_FatherAppearance"
+    },
+    {
+      "Id": 10416,
+      "Sinner": 4,
+      "Appearance": "10416_Ryoshu_LeNoirAppearance"
+    },
+    {
+      "Id": 10501,
+      "Sinner": 5,
+      "Appearance": "10501_Meursault_BaseAppearance"
+    },
+    {
+      "Id": 10502,
+      "Sinner": 5,
+      "Appearance": "10502_Meursault_LiuAppearance"
+    },
+    {
+      "Id": 10503,
+      "Sinner": 5,
+      "Appearance": "10503_Meursault_WCorpAppearance"
+    },
+    {
+      "Id": 10504,
+      "Sinner": 5,
+      "Appearance": "10504_Meursault_NCorpGuidoAppearance"
+    },
+    {
+      "Id": 10505,
+      "Sinner": 5,
+      "Appearance": "10505_Meursault_HammerFixerAppearance"
+    },
+    {
+      "Id": 10506,
+      "Sinner": 5,
+      "Appearance": "10506_Meursault_RCorpAppearance"
+    },
+    {
+      "Id": 10507,
+      "Sinner": 5,
+      "Appearance": "10507_Meursault_MiddleFingerAppearance"
+    },
+    {
+      "Id": 10508,
+      "Sinner": 5,
+      "Appearance": "10508_Meursault_KimSatGatAppearance"
+    },
+    {
+      "Id": 10509,
+      "Sinner": 5,
+      "Appearance": "10509_Meursault_DeadrabbitsAppearance"
+    },
+    {
+      "Id": 10510,
+      "Sinner": 5,
+      "Appearance": "10510_Meursault_DieciAppearance"
+    },
+    {
+      "Id": 10511,
+      "Sinner": 5,
+      "Appearance": "10511_Meursault_CinqAppearance"
+    },
+    {
+      "Id": 10512,
+      "Sinner": 5,
+      "Appearance": "10512_Meursault_LeiHengAppearance"
+    },
+    {
+      "Id": 10513,
+      "Sinner": 5,
+      "Appearance": "10513_Meursault_CassettiAppearance"
+    },
+    {
+      "Id": 10514,
+      "Sinner": 5,
+      "Appearance": "10514_Meursault_HornetAppearance"
+    },
+    {
+      "Id": 10515,
+      "Sinner": 5,
+      "Appearance": "10515_Meursault_RingFinger_Fauvism_BearAppearance"
+    },
+    {
+      "Id": 10601,
+      "Sinner": 6,
+      "Appearance": "10601_Honglu_BaseAppearance"
+    },
+    {
+      "Id": 10602,
+      "Sinner": 6,
+      "Appearance": "10602_Honglu_BlackCloudAppearance"
+    },
+    {
+      "Id": 10603,
+      "Sinner": 6,
+      "Appearance": "10603_Honglu_ConconAppearance"
+    },
+    {
+      "Id": 10604,
+      "Sinner": 6,
+      "Appearance": "10604_Honglu_LiuAssoAppearance"
+    },
+    {
+      "Id": 10605,
+      "Sinner": 6,
+      "Appearance": "10605_Honglu_KsuitAppearance"
+    },
+    {
+      "Id": 10606,
+      "Sinner": 6,
+      "Appearance": "10606_Honglu_WCorpAppearance"
+    },
+    {
+      "Id": 10607,
+      "Sinner": 6,
+      "Appearance": "10607_Honglu_TaeinAppearance"
+    },
+    {
+      "Id": 10608,
+      "Sinner": 6,
+      "Appearance": "10608_Honglu_Dieci_Appearance"
+    },
+    {
+      "Id": 10609,
+      "Sinner": 6,
+      "Appearance": "10609_Honglu_YurodivyAppearance"
+    },
+    {
+      "Id": 10610,
+      "Sinner": 6,
+      "Appearance": "10610_Honglu_BloodfiendHunterAppearance"
+    },
+    {
+      "Id": 10611,
+      "Sinner": 6,
+      "Appearance": "10611_Honglu_FullStopAppearance"
+    },
+    {
+      "Id": 10612,
+      "Sinner": 6,
+      "Appearance": "10612_Honglu_RCorpAppearance"
+    },
+    {
+      "Id": 10613,
+      "Sinner": 6,
+      "Appearance": "10613_Honglu_JiaqiuAppearance"
+    },
+    {
+      "Id": 10614,
+      "Sinner": 6,
+      "Appearance": "10614_Honglu_RingFinger_FatherAppearance"
+    },
+    {
+      "Id": 10615,
+      "Sinner": 6,
+      "Appearance": "10615_Honglu_Scorp_SlaveHunterAppearance"
+    },
+    {
+      "Id": 10616,
+      "Sinner": 6,
+      "Appearance": "10616_Honglu_Cinq_EastAppearance"
+    },
+    {
+      "Id": 10701,
+      "Sinner": 7,
+      "Appearance": "10701_Heathclif_BaseAppearance"
+    },
+    {
+      "Id": 10702,
+      "Sinner": 7,
+      "Appearance": "10702_Heathclif_4Appearance"
+    },
+    {
+      "Id": 10703,
+      "Sinner": 7,
+      "Appearance": "10703_Heathclif_RCorpAppearance"
+    },
+    {
+      "Id": 10704,
+      "Sinner": 7,
+      "Appearance": "10704_Heathclif_NCorpAppearance"
+    },
+    {
+      "Id": 10705,
+      "Sinner": 7,
+      "Appearance": "10705_Heathclif_WolfoxAppearance"
+    },
+    {
+      "Id": 10706,
+      "Sinner": 7,
+      "Appearance": "10706_Heathclif_SevenAppearance"
+    },
+    {
+      "Id": 10707,
+      "Sinner": 7,
+      "Appearance": "10707_Heathclif_QueequegAppearance"
+    },
+    {
+      "Id": 10708,
+      "Sinner": 7,
+      "Appearance": "10708_Heathcliff_OufiAppearance"
+    },
+    {
+      "Id": 10709,
+      "Sinner": 7,
+      "Appearance": "10709_Heathclif_CyborgFixerAppearance"
+    },
+    {
+      "Id": 10710,
+      "Sinner": 7,
+      "Appearance": "10710_Heathclif_WHuntAppearance"
+    },
+    {
+      "Id": 10711,
+      "Sinner": 7,
+      "Appearance": "10711_Heathcliff_TamakiAppearance"
+    },
+    {
+      "Id": 10712,
+      "Sinner": 7,
+      "Appearance": "10712_Heathclif_KurokumoAppearance"
+    },
+    {
+      "Id": 10713,
+      "Sinner": 7,
+      "Appearance": "10713_Heathclif_WCorpAppearance"
+    },
+    {
+      "Id": 10714,
+      "Sinner": 7,
+      "Appearance": "10714_Heathcliff_Heishou_YouAppearance"
+    },
+    {
+      "Id": 10715,
+      "Sinner": 7,
+      "Appearance": "10715_Heathcliff_MiddleFinger_RicardoAppearance"
+    },
+    {
+      "Id": 10716,
+      "Sinner": 7,
+      "Appearance": "10716_Heathcliff_Thumb_DiscipleAppearance"
+    },
+    {
+      "Id": 10801,
+      "Sinner": 8,
+      "Appearance": "10801_Ishmael_BaseAppearance"
+    },
+    {
+      "Id": 10802,
+      "Sinner": 8,
+      "Appearance": "10802_Ishmael_RCorpAppearance"
+    },
+    {
+      "Id": 10803,
+      "Sinner": 8,
+      "Appearance": "10803_Ishmael_ShiAssoAppearance"
+    },
+    {
+      "Id": 10804,
+      "Sinner": 8,
+      "Appearance": "10804_Ishmael_LCCSodeAppearance"
+    },
+    {
+      "Id": 10805,
+      "Sinner": 8,
+      "Appearance": "10805_Ishmeal_FairyAppearance"
+    },
+    {
+      "Id": 10806,
+      "Sinner": 8,
+      "Appearance": "10806_Ishmael_LiuAppearance"
+    },
+    {
+      "Id": 10807,
+      "Sinner": 8,
+      "Appearance": "10807_Ishmael_molarAppearance"
+    },
+    {
+      "Id": 10808,
+      "Sinner": 8,
+      "Appearance": "10808_Ishmael_AhabAppearance"
+    },
+    {
+      "Id": 10809,
+      "Sinner": 8,
+      "Appearance": "10809_Ishmael_MaidAppearance"
+    },
+    {
+      "Id": 10810,
+      "Sinner": 8,
+      "Appearance": "10810_Ishmael_ZweiAppearance"
+    },
+    {
+      "Id": 10811,
+      "Sinner": 8,
+      "Appearance": "10811_Ishmael_kurokumoAppearance"
+    },
+    {
+      "Id": 10812,
+      "Sinner": 8,
+      "Appearance": "10812_Ishmael_JiashichunAppearance"
+    },
+    {
+      "Id": 10813,
+      "Sinner": 8,
+      "Appearance": "10813_Ishmael_HanafudaAppearance"
+    },
+    {
+      "Id": 10814,
+      "Sinner": 8,
+      "Appearance": "10814_Ishmael_MiddleFinger_DiscipleAppearacne"
+    },
+    {
+      "Id": 10815,
+      "Sinner": 8,
+      "Appearance": "10815_Ishmael_LCD_AengduAppearance"
+    },
+    {
+      "Id": 10816,
+      "Sinner": 8,
+      "Appearance": "10816_Ishmael_LeRouge_HighdomesticAppearance"
+    },
+    {
+      "Id": 10901,
+      "Sinner": 9,
+      "Appearance": "10901_Rodion_BaseAppearance"
+    },
+    {
+      "Id": 10902,
+      "Sinner": 9,
+      "Appearance": "10902_Rodion_BlackCloudAppearance"
+    },
+    {
+      "Id": 10903,
+      "Sinner": 9,
+      "Appearance": "10903_Rodion_EpiAppearance"
+    },
+    {
+      "Id": 10904,
+      "Sinner": 9,
+      "Appearance": "10904_Rodion_NCorpAppearance"
+    },
+    {
+      "Id": 10905,
+      "Sinner": 9,
+      "Appearance": "10905_Rodion_EliteFixerAppearance"
+    },
+    {
+      "Id": 10906,
+      "Sinner": 9,
+      "Appearance": "10906_Rodion_ZweiAppearance"
+    },
+    {
+      "Id": 10907,
+      "Sinner": 9,
+      "Appearance": "10907_Rodion_DieciAppearance"
+    },
+    {
+      "Id": 10908,
+      "Sinner": 9,
+      "Appearance": "10908_Rodion_LiuAppearance"
+    },
+    {
+      "Id": 10909,
+      "Sinner": 9,
+      "Appearance": "10909_Rodion_TCorpAppearance"
+    },
+    {
+      "Id": 10910,
+      "Sinner": 9,
+      "Appearance": "10910_Rodion_DevyatAppearance"
+    },
+    {
+      "Id": 10911,
+      "Sinner": 9,
+      "Appearance": "10911_Rodion_DulcineaAppearance"
+    },
+    {
+      "Id": 10912,
+      "Sinner": 9,
+      "Appearance": "10912_Rodion_Heishou_SiAppearance"
+    },
+    {
+      "Id": 10913,
+      "Sinner": 9,
+      "Appearance": "10913_Rodion_KnightOfDespairAppearance"
+    },
+    {
+      "Id": 10914,
+      "Sinner": 9,
+      "Appearance": "10914_Rodion_RCorpAppearance"
+    },
+    {
+      "Id": 10915,
+      "Sinner": 9,
+      "Appearance": "10915_Rodion_RingFinger_FauvismeDocentAppearance"
+    },
+    {
+      "Id": 10916,
+      "Sinner": 9,
+      "Appearance": "10916_Rodion_Thumb_FatherAppearance"
+    },
+    {
+      "Id": 10917,
+      "Sinner": 9,
+      "Appearance": "10917_Rodion_ScissorsAppearance"
+    },
+    {
+      "Id": 11001,
+      "Sinner": 10,
+      "Appearance": "11001_Sinclair_BaseAppearance"
+    },
+    {
+      "Id": 11002,
+      "Sinner": 10,
+      "Appearance": "11002_Sinclair_SwordGroupAppearance"
+    },
+    {
+      "Id": 11003,
+      "Sinner": 10,
+      "Appearance": "11003_Sinclair_ZweiAppearance"
+    },
+    {
+      "Id": 11004,
+      "Sinner": 10,
+      "Appearance": "11004_Sinclair_MexicanAppearance"
+    },
+    {
+      "Id": 11005,
+      "Sinner": 10,
+      "Appearance": "11005_Sinclair_NCorpAppearance"
+    },
+    {
+      "Id": 11006,
+      "Sinner": 10,
+      "Appearance": "11006_Sinclair_TalismanAppearance"
+    },
+    {
+      "Id": 11007,
+      "Sinner": 10,
+      "Appearance": "11007_Sinclair_WorkshopWorkerAppearance"
+    },
+    {
+      "Id": 11008,
+      "Sinner": 10,
+      "Appearance": "11008_Sinclair_CinqAppearance"
+    },
+    {
+      "Id": 11009,
+      "Sinner": 10,
+      "Appearance": "11009_Sinclair_PhilipAppearance"
+    },
+    {
+      "Id": 11010,
+      "Sinner": 10,
+      "Appearance": "11010_Sinclair_Zwei_WestAppearance"
+    },
+    {
+      "Id": 11011,
+      "Sinner": 10,
+      "Appearance": "11011_Sinclair_DevyatAppearance"
+    },
+    {
+      "Id": 11012,
+      "Sinner": 10,
+      "Appearance": "11012_Sinclair_MiddleAppearance"
+    },
+    {
+      "Id": 11013,
+      "Sinner": 10,
+      "Appearance": "11013_Sinclair_Thumb_SoldatoAppearance"
+    },
+    {
+      "Id": 11014,
+      "Sinner": 10,
+      "Appearance": "11014_Sinclair_Heishou_YouAppearance"
+    },
+    {
+      "Id": 11015,
+      "Sinner": 10,
+      "Appearance": "11015_Sinclair_PinkyFinger_DiscipleAppearance"
+    },
+    {
+      "Id": 11101,
+      "Sinner": 11,
+      "Appearance": "11101_Outis_BaseAppearance"
+    },
+    {
+      "Id": 11102,
+      "Sinner": 11,
+      "Appearance": "11102_Outis_SwordGroupAppearance"
+    },
+    {
+      "Id": 11103,
+      "Sinner": 11,
+      "Appearance": "11103_Outis_GCorpAppearance"
+    },
+    {
+      "Id": 11104,
+      "Sinner": 11,
+      "Appearance": "11104_Outis_SevenAssoAppearance"
+    },
+    {
+      "Id": 11105,
+      "Sinner": 11,
+      "Appearance": "11105_Outis_OlgaAppearance"
+    },
+    {
+      "Id": 11106,
+      "Sinner": 11,
+      "Appearance": "11106_Outis_CinqAppearance"
+    },
+    {
+      "Id": 11107,
+      "Sinner": 11,
+      "Appearance": "11107_Outis_DerFreischutzAppearance"
+    },
+    {
+      "Id": 11108,
+      "Sinner": 11,
+      "Appearance": "11108_Outis_JosephineAppearance"
+    },
+    {
+      "Id": 11109,
+      "Sinner": 11,
+      "Appearance": "11109_Outis_RingFingerAppearance"
+    },
+    {
+      "Id": 11110,
+      "Sinner": 11,
+      "Appearance": "11110_Outis_WCorpAppearance"
+    },
+    {
+      "Id": 11111,
+      "Sinner": 11,
+      "Appearance": "11111_Outis_BarberAppearance"
+    },
+    {
+      "Id": 11112,
+      "Sinner": 11,
+      "Appearance": "11112_Outis_BlackHand_MaoAppearance"
+    },
+    {
+      "Id": 11113,
+      "Sinner": 11,
+      "Appearance": "11113_Outis_Tcorp_ThirdAppearance"
+    },
+    {
+      "Id": 11114,
+      "Sinner": 11,
+      "Appearance": "11114_Outis_LCAAppearance"
+    },
+    {
+      "Id": 11115,
+      "Sinner": 11,
+      "Appearance": "11115_Outis_Middle_FatherAppearance"
+    },
+    {
+      "Id": 11201,
+      "Sinner": 12,
+      "Appearance": "11201_Gregor_BaseAppearance"
+    },
+    {
+      "Id": 11202,
+      "Sinner": 12,
+      "Appearance": "11202_Gregor_LiuAssoAppearance"
+    },
+    {
+      "Id": 11203,
+      "Sinner": 12,
+      "Appearance": "11203_Gregor_TommyAppearance"
+    },
+    {
+      "Id": 11204,
+      "Sinner": 12,
+      "Appearance": "11204_Gregor_JackAppearance"
+    },
+    {
+      "Id": 11205,
+      "Sinner": 12,
+      "Appearance": "11205_Gregor_ChainsawFixerAppearance"
+    },
+    {
+      "Id": 11206,
+      "Sinner": 12,
+      "Appearance": "11206_Gregor_ZweiAppearance"
+    },
+    {
+      "Id": 11207,
+      "Sinner": 12,
+      "Appearance": "11207_Gregor_SmeeAppearance"
+    },
+    {
+      "Id": 11208,
+      "Sinner": 12,
+      "Appearance": "11208_Gregor_KurokumoAppearance"
+    },
+    {
+      "Id": 11209,
+      "Sinner": 12,
+      "Appearance": "11209_Gregor_LintonAppearance"
+    },
+    {
+      "Id": 11210,
+      "Sinner": 12,
+      "Appearance": "11210_Gregor_PriestAppearance"
+    },
+    {
+      "Id": 11211,
+      "Sinner": 12,
+      "Appearance": "11211_Gregor_FirePunchAppearance"
+    },
+    {
+      "Id": 11212,
+      "Sinner": 12,
+      "Appearance": "11212_Gregor_Heishou_SiAppearance"
+    },
+    {
+      "Id": 11213,
+      "Sinner": 12,
+      "Appearance": "11213_Gregor_AllenAppearance"
+    },
+    {
+      "Id": 11214,
+      "Sinner": 12,
+      "Appearance": "11214_Gregor_BigBird_LampAppearance"
+    },
+    {
+      "Id": 11215,
+      "Sinner": 12,
+      "Appearance": "11215_Gregor_ElectricCentipedeAppearacne"
+    },
+    {
+      "Id": 11216,
+      "Sinner": 12,
+      "Appearance": "11216_Gregor_SalvadorAppearance"
+    }
+  ]
+}

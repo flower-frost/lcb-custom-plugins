@@ -1,0 +1,17 @@
+{
+  "list": [
+    {
+      "id": "CodexMirrorFreeClash",
+      "iconId": "DefensiveStance",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "destroyableOnDie": true,
+      "destroyableOnRetreat": true,
+      "list": [
+        { "ability": "CanChangeMainTargetEvenIfSlower" }
+      ]
+    }
+  ]
+}

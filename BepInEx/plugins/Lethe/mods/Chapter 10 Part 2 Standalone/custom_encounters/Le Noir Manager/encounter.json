@@ -1,0 +1,60 @@
+{
+  "id": 94262004,
+  "stageLevel": 70,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 7
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0.15,
+    "defaultPosZ": 15
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp10_B_5F_GreatHall"
+      },
+      "unitList": [
+        {
+          "unitID": 1506,
+          "unitCount": 1,
+          "unitLevel": 70
+        }
+      ],
+      "subUnitList": [
+        {
+          "unitID": 1531,
+          "unitCount": 3,
+          "unitLevel": 68
+        },
+        {
+          "unitID": 1579,
+          "unitCount": 2,
+          "unitLevel": 68
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp10_Boss_6-1"
+      ],
+      "allyPositionID": 249,
+      "enemyPositionID": 260,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 65,
+  "turnLimit": 99,
+  "questlist": [],
+  "rewardList": [],
+  "isBatonPassOn": false,
+  "stageScriptList": [
+    "1506"
+  ],
+  "controlValueList": [
+    70
+  ],
+  "story": {}
+}

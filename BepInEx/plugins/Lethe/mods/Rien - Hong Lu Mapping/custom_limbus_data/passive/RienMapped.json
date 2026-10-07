@@ -1,0 +1,199 @@
+{
+  "list": [
+    {
+      "id": 948192,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948190,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948205,
+      "controlValueList": [
+        30
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948204,
+      "importanceLevel": 2,
+      "controlValueList": [
+        15,
+        8,
+        12
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948203,
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948202,
+      "controlValueList": [
+        5,
+        2,
+        3
+      ],
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948201,
+      "importanceLevel": 1,
+      "controlValueList": [
+        10
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948191,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948106,
+      "controlValueList": [
+        15
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948105,
+      "controlValueList": [
+        5
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948104,
+      "importanceLevel": 2,
+      "controlValueList": [
+        10,
+        8
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948103,
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948102,
+      "controlValueList": [
+        3,
+        1,
+        2,
+        4
+      ],
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948101,
+      "controlValueList": [
+        45
+      ],
+      "importanceLevel": 1,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 948180,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:OnInit/LUA:RienMapped/LUAMAIN:rien_mapped_init()",
+        "Modular/TIMING:RoundStart/LUA:RienMapped/LUAMAIN:rien_mapped_round(getldata(\"Self\", \"RienMappedPhase\") or 1)",
+        "Modular/TIMING:EndBattle/LUA:RienMapped/LUAMAIN:rien_mapped_pursuit(getldata(\"Self\", \"RienMappedPhase\") or 1)"
+      ],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 948181,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:StartDuel/LUA:RienMapped/LUAMAIN:rien_mapped_clash(getldata(\"Self\", \"RienMappedPhase\") or 1)",
+        "Modular/TIMING:DefeatDuel/LUA:RienMapped/LUAMAIN:rien_mapped_defeated()"
+      ],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 948182,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:WhenUse/LUA:RienMapped/LUAMAIN:rien_mapped_damage(getldata(\"Self\", \"RienMappedPhase\") or 1)"
+      ],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 948280,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:RoundStart/LUA:RienMapped/LUAMAIN:rien_mapped_round(getldata(\"Self\", \"RienMappedPhase\") or 1)",
+        "Modular/TIMING:EndBattle/LUA:RienMapped/LUAMAIN:rien_mapped_pursuit(getldata(\"Self\", \"RienMappedPhase\") or 1)"
+      ],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 948281,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:StartDuel/LUA:RienMapped/LUAMAIN:rien_mapped_clash(getldata(\"Self\", \"RienMappedPhase\") or 1)",
+        "Modular/TIMING:DefeatDuel/LUA:RienMapped/LUAMAIN:rien_mapped_defeated()"
+      ],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 948282,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:WhenUse/LUA:RienMapped/LUAMAIN:rien_mapped_damage(getldata(\"Self\", \"RienMappedPhase\") or 1)"
+      ],
+      "attributeStockCondition": []
+    },
+    {
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:OnInit/LUA:RienMappedSolo/LUAMAIN:rien_mapped_solo_init()",
+        "Modular/TIMING:RoundStart/LUA:RienMappedSolo/LUAMAIN:rien_mapped_solo_round()",
+        "Modular/TIMING:EndBattle/LUA:RienMappedSolo/LUAMAIN:rien_mapped_solo_end()",
+        "Modular/TIMING:DefeatDuel/LUA:RienMappedSolo/LUAMAIN:rien_mapped_solo_win()"
+      ],
+      "attributeStockCondition": [],
+      "id": 948183
+    },
+    {
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:RoundStart/LUA:RienMappedSolo/LUAMAIN:rien_mapped_solo_round()",
+        "Modular/TIMING:EndBattle/LUA:RienMappedSolo/LUAMAIN:rien_mapped_solo_end()",
+        "Modular/TIMING:DefeatDuel/LUA:RienMappedSolo/LUAMAIN:rien_mapped_solo_win()"
+      ],
+      "attributeStockCondition": [],
+      "id": 948283
+    },
+    {
+      "requireIDList": [
+        "Modular/TIMING:AfterSlots/LUA:RienMapped/LUAMAIN:rien_mapped_noop()"
+      ],
+      "attributeStockCondition": [],
+      "importanceLevel": 3,
+      "id": 948199
+    }
+  ]
+}

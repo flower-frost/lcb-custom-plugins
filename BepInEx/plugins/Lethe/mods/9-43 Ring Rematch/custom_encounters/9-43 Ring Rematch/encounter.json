@@ -1,0 +1,65 @@
+{
+  "id": 94243001,
+  "stageLevel": 60,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 6
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0.5,
+    "defaultPosY": 0,
+    "defaultPosZ": 40
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp9_Ringfinger",
+        "mapSize": 22
+      },
+      "unitList": [
+        {
+          "unitID": 1346,
+          "unitCount": 1,
+          "unitLevel": 65
+        },
+        {
+          "unitID": 1345,
+          "unitCount": 1,
+          "unitLevel": 83
+        }
+      ],
+      "subUnitList": [
+        {
+          "unitID": 1332,
+          "unitCount": 1,
+          "unitLevel": 40,
+          "isHide": true
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp9_Boss_4",
+        "Battle_Cp9_Boss_4_2"
+      ],
+      "enemyPositionID": 171
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 60,
+  "turnLimit": 999,
+  "questlist": [
+    {
+      "args": [
+        "10"
+      ],
+      "localizeId": 1
+    }
+  ],
+  "rewardList": [],
+  "stageScriptList": [
+    "1345"
+  ],
+  "includeBoss": 1,
+  "effectiveResistCondition": 1.2,
+  "isBatonPassOn": false
+}

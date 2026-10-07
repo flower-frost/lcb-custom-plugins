@@ -1,0 +1,507 @@
+{
+  "10SV-051_1": {
+    "id": "10SV-051_1",
+    "desc": "技能2 (1/2)",
+    "dlg": "和谐(accord)。\nAccord."
+  },
+  "10SV-051_2": {
+    "id": "10SV-051_2",
+    "desc": "技能2 (2/2)",
+    "dlg": "刺击(pique)！\nPique!"
+  },
+  "10SV-052_1": {
+    "id": "10SV-052_1",
+    "desc": "技能3 (1/2)",
+    "dlg": "倾泻吧。\nPour forth."
+  },
+  "10SV-053_1": {
+    "id": "10SV-053_1",
+    "desc": "技能4 随机语音1",
+    "dlg": "摄取。吞食。\nConsume. Feast."
+  },
+  "10SV-053_2": {
+    "id": "10SV-053_2",
+    "desc": "技能4 随机语音2",
+    "dlg": "填满，再填满。\nFill yourselves. Fill again."
+  },
+  "10SV-054": {
+    "id": "10SV-054",
+    "desc": "技能5",
+    "dlg": "莫在匮乏中倒下……\nRest you not while hunger gnaws still."
+  },
+  "10SV-055_1": {
+    "id": "10SV-055_1",
+    "desc": "技能6 (准必杀技) -> 拼点胜利或单方面攻击时播放语音 (1/2)",
+    "dlg": "永不停歇地\nOn and on..."
+  },
+  "10SV-055_2": {
+    "id": "10SV-055_2",
+    "desc": "技能6 (准必杀技) -> 拼点胜利或单方面攻击时播放语音 (2/2)",
+    "dlg": "前进吧！\nWe advance!"
+  },
+  "10SV-056_1": {
+    "id": "10SV-056_1",
+    "desc": "技能7 (第2阶段技能) (1/3)",
+    "dlg": "一丝不剩地\nLeave no scrap."
+  },
+  "10SV-056_2": {
+    "id": "10SV-056_2",
+    "desc": "技能7 (第2阶段技能) (2/3)",
+    "dlg": "全都！\nNot a crumb!"
+  },
+  "10SV-056_3": {
+    "id": "10SV-056_3",
+    "desc": "技能7 (第2阶段技能) (3/3)",
+    "dlg": "吞下吧！\nDevour it all!"
+  },
+  "10SV-057_1": {
+    "id": "10SV-057_1",
+    "desc": "技能8 (第2阶段技能) (1/2)",
+    "dlg": "无法填满的匮乏。\nA want that no feast can sate."
+  },
+  "10SV-057_2": {
+    "id": "10SV-057_2",
+    "desc": "技能8 (第2阶段技能) (2/2)",
+    "dlg": "空虚。\nThe hollowness."
+  },
+  "10SV-058": {
+    "id": "10SV-058",
+    "desc": "技能9 (必杀技) (1/2)",
+    "dlg": "连同这一切记忆一并吞噬……\nI shall devour even these memories..."
+  },
+  "10SV-058-01": {
+    "id": "10SV-058-01",
+    "desc": "技能9 (必杀技) (2/2)",
+    "dlg": "令红派充盈！\n... and bring the Rouges to fullness!"
+  },
+  "10SV-059": {
+    "id": "10SV-059",
+    "dlg": "我的存在……本能……饥饿。依旧，不明白。\nMy existence... nature... hunger... I still do not understand."
+  },
+  "10SV-059_1": {
+    "id": "10SV-059_1",
+    "desc": "技能9 (完成机制后发动必杀技) (1/4)",
+    "dlg": "我的存在……\nMy existence..."
+  },
+  "10SV-059_2": {
+    "id": "10SV-059_2",
+    "desc": "技能9 (完成机制后发动必杀技) (2/4)",
+    "dlg": "本能……\nNature..."
+  },
+  "10SV-059_3": {
+    "id": "10SV-059_3",
+    "desc": "技能9 (完成机制后发动必杀技) (3/4)",
+    "dlg": "饥饿。\nHunger."
+  },
+  "10SV-059_4": {
+    "id": "10SV-059_4",
+    "desc": "技能9 (完成机制后发动必杀技) (4/4)",
+    "dlg": "依旧，不明白。\nStill I do not understand."
+  },
+  "10SV-061": {
+    "id": "10SV-061",
+    "desc": "带有0层梦一般的记忆时，技能6拼点失败后以不可摧毁硬币播放台词",
+    "dlg": "我穿着你们赠予的那双青翠花鞋，在这百货中走了很久。\nI remember. I walked the Grand Magasin in those pretty flower-shoes you gifted me."
+  },
+  "10SV-062": {
+    "id": "10SV-062",
+    "desc": "带有1层梦一般的记忆时，技能6拼点失败后以不可摧毁硬币播放台词",
+    "dlg": "我……又一次伤害了那些原本希望不再受伤的存在。\nAgain have I hurt... those who I wished would never know pain."
+  },
+  "10SV-063": {
+    "id": "10SV-063",
+    "desc": "带有2层梦一般的记忆时，技能6拼点失败后以不可摧毁硬币播放台词",
+    "dlg": "毫不犹豫地吞食了那些厌恶我的人。\nAnd I devoured... those who called me an abomination."
+  },
+  "10SV-064": {
+    "id": "10SV-064",
+    "desc": "带有3层梦一般的记忆时，技能6拼点失败后以不可摧毁硬币播放台词",
+    "dlg": "循着本能，循着责任……我披上美德，成为了红派的声音……\nLet by my nature, bound by my duty... I donned virtue and ascended as the Voice of Le Rouge..."
+  },
+  "10SV-065": {
+    "id": "10SV-065",
+    "desc": "带有4层梦一般的记忆时，技能6拼点失败后以不可摧毁硬币播放台词",
+    "dlg": "如今再也……无法与你们一同前行了。\nAnd so... I shall never be able to walk beside you again."
+  },
+  "10SV-066": {
+    "id": "10SV-066",
+    "desc": "使用151714号技能时的台词",
+    "dlg": "不要抗拒本能的催促。\nResist not nature's urging."
+  },
+  "10SV-067": {
+    "id": "10SV-067",
+    "desc": "第2阶段开始时",
+    "dlg": "还有些疑问挥之不去。但是……我不能再向任何人发问。\nI still have so many questions... But I am no longer permitted to ask them."
+  },
+  "10SV-067-01": {
+    "id": "10SV-067-01",
+    "dlg": "作为所有人期待、盼望的声音……如今，我必须给出答案。\nAs the Voice that holds the desires and expectations of all, my role is... to answer."
+  },
+  "10SV-069": {
+    "id": "10SV-069",
+    "desc": "让娜第1阶段装载捕捉技能",
+    "dlg": "小可爱。是时候把人生变为命运了。"
+  },
+  "10SV-070_a": {
+    "id": "10SV-070_a",
+    "desc": "让娜第1阶段捕捉机制成功后的下回合开始时 (已击败最后一张设计图)",
+    "dlg": "停下。不要用你们的目光，将我的……我们的世界钉死。"
+  },
+  "10SV-070_b": {
+    "id": "10SV-070_b",
+    "desc": "让娜第1阶段捕捉机制成功后的下回合开始时 (已击败最后一张设计图)",
+    "dlg": " 别看。明明什么也不理解，就别自作主张地想象了。"
+  },
+  "10SV-071": {
+    "id": "10SV-071",
+    "desc": "让娜第1阶段捕捉机制部分成功后的下回合开始时 (击败1~2张设计图时)",
+    "dlg": "若能就这样永远漂流……我就再也不会害怕了。"
+  },
+  "10SV-072": {
+    "id": "10SV-072",
+    "desc": "让娜第1阶段捕捉机制失败后的下回合开始时 (未能击败任何设计图时)",
+    "dlg": "我要用我的心，用浓烈的色彩，染遍整个世界。 "
+  },
+  "10SV-073": {
+    "id": "10SV-073",
+    "desc": "让娜第1阶段152203 (权重3，第1阶段的强力技能)",
+    "dlg": "钉在我心中的情感……"
+  },
+  "10SV-073-01": {
+    "id": "10SV-073-01",
+    "dlg": "使命、后悔、责任，全都！"
+  },
+  "10SV-073-02": {
+    "id": "10SV-073-02",
+    "dlg": "放开吧。"
+  },
+  "10SV-074": {
+    "id": "10SV-074",
+    "desc": "让娜第1阶段152204 (闪避成功时)",
+    "dlg": "没能触及呢。"
+  },
+  "10SV-075": {
+    "id": "10SV-075",
+    "desc": "让娜：默尔索陷入混乱或体力低于30%时 (每场战斗1次)",
+    "dlg": "你也想被理解，不是吗？那为什么总要藏起真心，任由他们将你钉死？小可爱。唯独今天，我真的……无法理解你。"
+  },
+  "10SV-076_a": {
+    "id": "10SV-076_a",
+    "desc": "让娜第2阶段进行华尔兹拼点时 (2种)",
+    "dlg": "迈步(Marche)！"
+  },
+  "10SV-076_a-01": {
+    "id": "10SV-076_a-01",
+    "dlg": "侧步(côté)！"
+  },
+  "10SV-076_a-02": {
+    "id": "10SV-076_a-02",
+    "dlg": "并步(assemblé)！"
+  },
+  "10SV-076_b": {
+    "id": "10SV-076_b",
+    "desc": "让娜第2阶段进行华尔兹拼点时 (2种)",
+    "dlg": "一(Un)！"
+  },
+  "10SV-076_b-01": {
+    "id": "10SV-076_b-01",
+    "dlg": "二(Deux)！"
+  },
+  "10SV-076_b-02": {
+    "id": "10SV-076_b-02",
+    "dlg": "三(Trois)！"
+  },
+  "10SV-077": {
+    "id": "10SV-077",
+    "desc": "让娜第2阶段152304 (华尔兹拼点机制失败时使用的技能)",
+    "dlg": "若不肯接受，一开始就不该给予。"
+  },
+  "10SV-078_a": {
+    "id": "10SV-078_a",
+    "desc": "让娜第2阶段152305 (华尔兹拼点机制成功时使用的技能) (2种)",
+    "dlg": "怎么样？很美吧？"
+  },
+  "10SV-078_b": {
+    "id": "10SV-078_b",
+    "desc": "让娜第2阶段152305 (华尔兹拼点机制成功时使用的技能) (2种)",
+    "dlg": "你看。我们正理解着彼此。"
+  },
+  "10SV-078_c": {
+    "id": "10SV-078_c",
+    "desc": "让娜第2阶段152305 (华尔兹拼点机制成功时使用的技能) (2种)",
+    "dlg": "小可爱。只有你在，我的世界才会完整。"
+  },
+  "10SV-079": {
+    "id": "10SV-079",
+    "desc": "让娜第2阶段152306 (华尔兹拼点机制失败时使用的闪避)",
+    "dlg": "错了。不是那只脚！"
+  },
+  "10SV-079-01": {
+    "id": "10SV-079-01",
+    "desc": "让娜第2阶段152306 (华尔兹拼点机制失败时使用的闪避) (2种)",
+    "dlg": "不是这个节奏。"
+  },
+  "10SV-080_a": {
+    "id": "10SV-080_a",
+    "desc": "让娜第3阶段开始前的演出台词",
+    "dlg": "你……在第一步走近，在第二步停留，在第三步远去。"
+  },
+  "10SV-080_b": {
+    "id": "10SV-080_b",
+    "desc": "让娜第3阶段开始前的演出台词",
+    "dlg": "那么……接下来呢？下一步，你又要踏向哪里？"
+  },
+  "10SV-080_c": {
+    "id": "10SV-080_c",
+    "desc": "让娜第3阶段开始前的演出台词",
+    "dlg": "若不知道……就回到我身边吧。像你的第一步那样。"
+  },
+  "10SV-081_a": {
+    "id": "10SV-081_a",
+    "desc": "让娜第3阶段装载阻止拼点技能时 (几乎每回合都会播放，共3种)",
+    "dlg": "现在才谈合理性，太迟了。舞台、世界，本来就不公平。"
+  },
+  "10SV-081_b": {
+    "id": "10SV-081_b",
+    "desc": "让娜第3阶段装载阻止拼点技能时 (几乎每回合都会播放，共3种)",
+    "dlg": "被目光包围的你们，还能走向哪里呢。"
+  },
+  "10SV-081_c": {
+    "id": "10SV-081_c",
+    "desc": "让娜第3阶段装载阻止拼点技能时 (几乎每回合都会播放，共3种)",
+    "dlg": "他人即地狱。令人不愿面对的，可怕的地狱。"
+  },
+  "10SV-081_d": {
+    "id": "10SV-081_d",
+    "desc": "让娜第3阶段装载阻止拼点技能时 (几乎每回合都会播放，共3种)",
+    "dlg": "别想。连“不要想”这个念头也别有。"
+  },
+  "10SV-082": {
+    "id": "10SV-082",
+    "desc": "让娜第3阶段首次出现华尔兹拼点机制时 (首次变为蜘蛛让娜时)",
+    "dlg": "是时候再次起舞了。在我所见的世界中，在我将赋予的意义之上。"
+  },
+  "10SV-083": {
+    "id": "10SV-083",
+    "desc": "让娜第3阶段华尔兹拼点机制由默尔索成功完成时",
+    "dlg": "跟随节奏，强，再弱。"
+  },
+  "10SV-084": {
+    "id": "10SV-084",
+    "desc": "让娜第3阶段华尔兹拼点机制由默尔索尝试但失败时",
+    "dlg": "你不可能忘了……是在捉弄我吗？"
+  },
+  "10SV-085": {
+    "id": "10SV-085",
+    "desc": "让娜第3阶段华尔兹拼点机制失败时 (由默尔索以外的罪人应对时)",
+    "dlg": "你们永远，也无法触及这堵墙吧。"
+  },
+  "10SV-086": {
+    "id": "10SV-086",
+    "desc": "让娜第3阶段设计图死亡时",
+    "dlg": "没有一样东西，按照所见的模样存在……好晕啊。"
+  },
+  "10SV-087": {
+    "id": "10SV-087",
+    "desc": "让娜第3阶段巨大形态必杀技能台词",
+    "dlg": "我的不安。"
+  },
+  "10SV-087-01": {
+    "id": "10SV-087-01",
+    "dlg": "我的恐惧……"
+  },
+  "10SV-087-02": {
+    "id": "10SV-087-02",
+    "dlg": "感受吧。被陌生目光钉死时，那份不被理解。"
+  },
+  "10SV-089": {
+    "id": "10SV-089",
+    "desc": "默尔索陷入混乱或体力低于30%时 (每场战斗1次) 的回应台词",
+    "dlg": "正因为无法理解……让娜，你才会努力理解我。所以我也……"
+  },
+  "10SV-089-01": {
+    "id": "10SV-089-01",
+    "desc": "默尔索陷入混乱或体力低于30%时 (每场战斗1次) 的回应台词",
+    "dlg": "正因为无法理解……让娜，你才会努力理解我。所以我也……"
+  },
+  "10SV-119": {
+    "id": "10SV-119",
+    "desc": "[第1阶段] 关卡开始时的指令阶段",
+    "dlg": "永恒的时代已至……罪人，当受苦难……\nThe Age of Eternity hath arrived. Suffer shall the transgressor."
+  },
+  "10SV-120_A": {
+    "id": "10SV-120_A",
+    "desc": "[第1阶段] 使用技能148504的回合开始时的指令阶段",
+    "dlg": "施以重罚。\nVengeance upon thee."
+  },
+  "10SV-120_B": {
+    "id": "10SV-120_B",
+    "desc": "[第1阶段] 使用技能148503攻击时",
+    "dlg": "恐惧吧。\nThou shalt fear."
+  },
+  "10SV-121": {
+    "id": "10SV-121",
+    "desc": "[第1阶段] 使用技能148504攻击时",
+    "dlg": "定罪……！\nCondemned be thou!"
+  },
+  "10SV-122": {
+    "id": "10SV-122",
+    "desc": "[第1阶段] 使用技能148505的回合开始时的指令阶段",
+    "dlg": "直视罪孽，领受惩罚。\nFace thy sins. Receive thy punishment."
+  },
+  "10SV-123": {
+    "id": "10SV-123",
+    "desc": "[第1阶段] 使用技能148505攻击时",
+    "dlg": "顺从。\nObey."
+  },
+  "10SV-124": {
+    "id": "10SV-124",
+    "desc": "[第2阶段] 阶段转换后首个回合开始时的指令阶段",
+    "dlg": "罪人当铭记……不知悔悟者……终将归于尘土……\nLet the transgressor bear in mind.\nThose who do not repent...\nShall return to dust."
+  },
+  "10SV-125_A": {
+    "id": "10SV-125_A",
+    "desc": "[第2阶段] 技能148603拼点开始时 (交替播放台词)",
+    "dlg": "铭记罪孽！\nRemember thy transgression!"
+  },
+  "10SV-125_B": {
+    "id": "10SV-125_B",
+    "desc": "[第2阶段] 技能148603拼点开始时 (交替播放台词)",
+    "dlg": "悔改吧！\nRepent!"
+  },
+  "10SV-125_C": {
+    "id": "10SV-125_C",
+    "desc": "[第2阶段] 技能148603拼点开始时 (交替播放台词)",
+    "dlg": "此乃审判之证。\nBehold, the proof of judgment."
+  },
+  "10SV-126": {
+    "id": "10SV-126",
+    "desc": "[第2阶段] 使用技能148607的回合开始时的指令阶段 (每场战斗1次)",
+    "dlg": "世界已然闭合……不信者的反抗与逃避，无处安息……\nThe world hath been closed...\nNo rest shall await those who resist without faith and flee from that which is theirs to bear..."
+  },
+  "10SV-127": {
+    "id": "10SV-127",
+    "desc": "[第2阶段] 使用技能148608的回合开始时的指令阶段 (每场战斗1次)",
+    "dlg": "一日如千年……千年如一日……罪人当细数永恒，忏悔罪孽……\nA day is as a thousand years... and a thousand years as a day. O transgressor, reckon thou eternity, and repent thee of thy sins..."
+  },
+  "10SV-128_A": {
+    "id": "10SV-128_A",
+    "desc": "[第2阶段] 使用技能148608攻击时 (强制退场) (对应死亡演出A、B、C播放)",
+    "dlg": "灵魂将支离破碎。\nSouls shall be broken asunder."
+  },
+  "10SV-128_B": {
+    "id": "10SV-128_B",
+    "desc": "[第2阶段] 使用技能148608攻击时 (强制退场) (对应死亡演出A、B、C播放)",
+    "dlg": "敬畏无法理解之物。\nTremble before that which thou understandest not."
+  },
+  "10SV-128_C": {
+    "id": "10SV-128_C",
+    "desc": "[第2阶段] 使用技能148608攻击时 (强制退场) (对应死亡演出A、B、C播放)",
+    "dlg": "蒙蔽愚者之眼，唯当直视罪孽。\nThe eyes of the foolish shall be blinded.\nBehold thou naught but thy transgression."
+  },
+  "10SV-129_A": {
+    "id": "10SV-129_A",
+    "desc": "[第2阶段] 使用技能148607攻击时 (审判之日) (交替播放台词)",
+    "dlg": "将审判之锤……落于满是不义与谎言的罪人之心……！\nLet the hammer of judgment fall upon thine iniquitous and deceitful heart!"
+  },
+  "10SV-129_B": {
+    "id": "10SV-129_B",
+    "desc": "[第2阶段] 使用技能148607攻击时 (审判之日) (交替播放台词)",
+    "dlg": "审判……！宣判……！定罪……！\nI judge thee... I sentence thee... I condemn thee...!"
+  },
+  "10SV-130": {
+    "id": "10SV-130",
+    "desc": "[第2阶段] 使用技能148607的回合开始时的指令阶段 (首次播放10SV-126语音后，持续播放本条)",
+    "dlg": "顺从秩序……！\nSubmit to order!"
+  },
+  "10SV-131": {
+    "id": "10SV-131",
+    "desc": "[第2阶段] 使用技能148608的回合开始时的指令阶段 (首次播放10SV-127语音后，持续播放本条)",
+    "dlg": "遵循纪律……\nObey the rules...!"
+  },
+  "10SV-132": {
+    "id": "10SV-132",
+    "desc": "[第2阶段] 技能148607拼点开始时，目标带有止步效果的情况",
+    "dlg": "寄望于慈悲吗……\nDost thou place thy trust in mercy?"
+  },
+  "10SV-133": {
+    "id": "10SV-133",
+    "desc": "[第2阶段] 技能148608拼点开始时，目标带有搏动效果的情况",
+    "dlg": "虚假之神的碎片……罪人，不得舍弃义务与责任。\nFragment of a false god? Transgressor, lay down not thy duty, nor cast aside thy burden."
+  },
+  "10SV-134": {
+    "id": "10SV-134",
+    "desc": "[第3阶段] 阶段转换后首个回合开始时的指令阶段",
+    "dlg": "都到哪怕大张旗鼓地忏悔也无济于事的地步了……还这么硬撑，可就难办了。\nHonestly, even a big show of repentance wouldn't cut it at this point... Keep digging your heels in like that, and you'll only make things harder for yourself."
+  },
+  "10SV-135": {
+    "id": "10SV-135",
+    "desc": "[第3阶段] 首次与默尔索拼点失败时",
+    "dlg": "知道这算损坏财物罪吧？\nYou do know this amounts to criminal damage to property, right?"
+  },
+  "10SV-136": {
+    "id": "10SV-136",
+    "desc": "[第3阶段] 首次攻击默尔索时",
+    "dlg": "在神面前，要独自站立。\nWhen you stand before god, you do it alone."
+  },
+  "10SV-137_a": {
+    "id": "10SV-137_a",
+    "desc": "[第3阶段] 使用技能148708的回合开始时的指令阶段 (首次播放10SV-139语音后，持续播放本条)",
+    "dlg": "在神面前。\nYou're in the presence of god."
+  },
+  "10SV-137_b": {
+    "id": "10SV-137_b",
+    "desc": "[第3阶段] 技能148703拼点开始时",
+    "dlg": "该忏悔了吧？\nAren't you going to repent?"
+  },
+  "10SV-137_c": {
+    "id": "10SV-137_c",
+    "desc": "[第3阶段] 使用技能148707攻击时 (审判之日)",
+    "dlg": "直视吧。\nLook straight to what you've done."
+  },
+  "10SV-138": {
+    "id": "10SV-138",
+    "desc": "[第3阶段] 使用技能148707的回合开始时的指令阶段 (每场战斗1次)",
+    "dlg": "永恒终将揭露你们的绝望，将罪孽钉下刻印……就是这么回事。\n\"At last, eternity shall lay bare thy despair, and nail thy sin into everlasting record...\" That's what I'm getting at."
+  },
+  "10SV-139": {
+    "id": "10SV-139",
+    "desc": "[第3阶段] 使用技能148708的回合开始时的指令阶段 (每场战斗1次)",
+    "dlg": "唉……真不想再见到你们了。每次上班都要与你们碰面，也挺折磨人的。\n*sigh*... I'm getting pretty tired of dealing with you. Running into your merry band every time I clock in is honestly becoming a real pain."
+  },
+  "10SV-140": {
+    "id": "10SV-140",
+    "desc": "[第3阶段] 使用技能148708攻击时 (强制退场)",
+    "dlg": "好，一切都该结束了。\nYeah, this should put an end to it."
+  },
+  "10SV-141": {
+    "id": "10SV-141",
+    "desc": "[第3阶段] 使用技能148709攻击时 (强制退场强化)",
+    "dlg": "与其追寻从未拥有过的理解，不如在这里停下，忏悔吧？\nWhy keep chasing after some understanding you've never known? Wouldn't it be easier to give up and repent?"
+  },
+  "10SV-142": {
+    "id": "10SV-142",
+    "desc": "[第3阶段] 点击胜率、伤害量按钮，随机罪人被黄金钉刺中时 (每回合1次) [涉及界面的机制]",
+    "dlg": "自主判断……这种说法，在这里不适用。\n\"Independent judgment\"... Yeah, we don't use words like that around here."
+  },
+  "10SV-143_a": {
+    "id": "10SV-143_a",
+    "desc": "[第3阶段] 使用技能148707的回合开始时的指令阶段 (首次播放10SV-138语音后，持续播放本条)",
+    "dlg": "神的旨意如此。\nGod wills it."
+  },
+  "10SV-143_b": {
+    "id": "10SV-143_b",
+    "desc": "[第3阶段] 连接被黄金钉刺中的技能时 (每回合1次) [涉及界面的机制] ",
+    "dlg": "神的安排……嗯，大概就是这样。\n\"God works in mysterious ways,\" ... Just like this."
+  },
+  "10SV-144": {
+    "id": "10SV-144",
+    "desc": "[第3阶段] 查看信息窗口超过20秒后，窗口被钉刺中时 (每场战斗1次) [涉及界面的机制]",
+    "dlg": "喂。没忘记自己正在受罚吧？\nHey, did you think you could get a time-out from divine retribution?"
+  },
+  "s1003V-416": {
+    "id": "s1003V-416",
+    "desc": "[第3阶段] 回合开始时，回溯时间并恢复全部体力的功能不再生效时",
+    "dlg": "…?"
+  }
+}

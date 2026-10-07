@@ -1,0 +1,106 @@
+{
+  "list": [
+    {
+      "id": 9577207,
+      "textID": 130603
+    },
+    {
+      "id": 9577101,
+      "controlValueList": [
+        0,
+        0
+      ],
+      "importanceLevel": 2,
+      "textID": 131401
+    },
+    {
+      "id": 9577102,
+      "controlValueList": [
+        3,
+        3,
+        1
+      ],
+      "importanceLevel": 3,
+      "textID": 131402
+    },
+    {
+      "id": 9577104,
+      "controlValueList": [
+        -30,
+        0,
+        30,
+        150,
+        4
+      ],
+      "textID": 131404
+    },
+    {
+      "id": 9577105,
+      "controlValueList": [
+        1,
+        15,
+        300,
+        1,
+        2,
+        3,
+        5
+      ],
+      "textID": 131405
+    },
+    {
+      "id": 9577106,
+      "textID": 131406
+    },
+    {
+      "id": 9577108,
+      "importanceLevel": 3,
+      "textID": 131408
+    },
+    {
+      "id": 9577109,
+      "textID": 131409
+    },
+    {
+      "id": 9577110,
+      "importanceLevel": 3,
+      "textID": 131410
+    },
+    {
+      "id": 9577202,
+      "importanceLevel": 3,
+      "controlValueList": [
+        10,
+        10,
+        3,
+        1,
+        5,
+        1,
+        7,
+        1,
+        10,
+        1
+      ],
+      "textID": 132602
+    },
+    {
+      "id": 9577203,
+      "importanceLevel": 3,
+      "textID": 132603
+    },
+    {
+      "id": 9577204,
+      "importanceLevel": 3,
+      "textID": 132604
+    },
+    {
+      "id": 9577206,
+      "importanceLevel": 2,
+      "controlValueList": [
+        1,
+        2,
+        10
+      ],
+      "textID": 132606
+    }
+  ]
+}

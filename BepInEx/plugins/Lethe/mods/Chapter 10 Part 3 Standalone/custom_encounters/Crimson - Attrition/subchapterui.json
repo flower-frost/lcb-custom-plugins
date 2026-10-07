@@ -1,0 +1,22 @@
+{
+  "chapterId": 2,
+  "subchapterId": 94263004,
+  "nodeId": 94263004,
+  "storyIdInTheaterData": 0,
+  "isUnlockByUnlockCode": false,
+  "unlockCode": 101,
+  "relatedData": {
+    "chapterId": 2,
+    "subchapterId": 0,
+    "nodeId": 0
+  },
+  "uiConfig": {
+    "customChapterText": "赤红之神 · 血战到底",
+    "chapterTagIconType": "BATTLE",
+    "region": "p",
+    "mapAreaId": 101,
+    "timeLine": "PLAYGROUND",
+    "illustId": "story-id_E041X"
+  },
+  "type": "STAGE_NODE"
+}

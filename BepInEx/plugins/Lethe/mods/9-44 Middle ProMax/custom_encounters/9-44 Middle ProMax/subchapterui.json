@@ -1,0 +1,31 @@
+{
+  "chapterId": 2,
+  "subchapterId": 94244002,
+  "nodeId": 94244002,
+  "storyIdInTheaterData": 0,
+  "isUnlockByUnlockCode": false,
+  "unlockCode": 101,
+  "relatedData": {
+    "chapterId": 2,
+    "subchapterId": 0,
+    "nodeId": 0
+  },
+  "uiConfig": {
+    "customChapterText": "9-44：中指二战 ProMax",
+    "chapterTagIconType": "BATTLE",
+    "region": "p",
+    "mapAreaId": 101,
+    "timeLine": "PLAYGROUND",
+    "illustId": "story-id_E041X",
+    "chapterTitleText": "9-44：中指二战 ProMax",
+    "descriptionText": "首次降到400血触发完整的过人的毅力，随后不锁血；原版完全解放后三回合出招循环，击败全部敌人获胜。无助战与安瓿。",
+    "iconId": "",
+    "bgmId": ""
+  },
+  "type": "STAGE_NODE",
+  "isHidden": false,
+  "requireClearNodeList": [],
+  "requireItemList": [],
+  "rewardList": [],
+  "eventScriptList": []
+}

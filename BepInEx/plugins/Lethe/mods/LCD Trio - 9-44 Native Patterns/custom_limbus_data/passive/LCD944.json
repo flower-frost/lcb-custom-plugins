@@ -1,0 +1,68 @@
+{
+  "list": [
+    {
+      "id": 956901,
+      "controlValueList": [
+        2
+      ],
+      "useUnlock": false
+    },
+    {
+      "id": 956902,
+      "importanceLevel": 3,
+      "useUnlock": false
+    },
+    {
+      "id": 956903,
+      "useUnlock": false
+    },
+    {
+      "id": 956904,
+      "useUnlock": false
+    },
+    {
+      "id": 956909,
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "importanceLevel": 1
+    },
+    {
+      "id": 956911,
+      "useUnlock": false
+    },
+    {
+      "id": 956912,
+      "importanceLevel": 3,
+      "useUnlock": false
+    },
+    {
+      "id": 956913,
+      "useUnlock": false
+    },
+    {
+      "id": 956919,
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "importanceLevel": 1
+    },
+    {
+      "id": 956921,
+      "useUnlock": false
+    },
+    {
+      "id": 956922,
+      "importanceLevel": 3,
+      "useUnlock": false
+    },
+    {
+      "id": 956923,
+      "useUnlock": false
+    },
+    {
+      "id": 956929,
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "importanceLevel": 1
+    }
+  ]
+}

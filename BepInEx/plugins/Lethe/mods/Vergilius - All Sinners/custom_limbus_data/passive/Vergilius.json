@@ -1,0 +1,111 @@
+{
+  "list": [
+    {
+      "id": 950101,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 950102,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 950103,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 950104,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 950105,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 950106,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 950107,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 950108,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 950198,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 951101,
+      "importanceLevel": 1,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 951102,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 951103,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 951104,
+      "controlValueList": [
+        600
+      ],
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 951106,
+      "useUnlock": true,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "id": 951198,
+      "requireIDList": [],
+      "attributeStockCondition": []
+    },
+    {
+      "requireIDList": [],
+      "importanceLevel": 1,
+      "attributeStockCondition": [],
+      "id": 951105
+    },
+    {
+      "requireIDList": [
+        "Modular/TIMING:AfterSlots/LUA:CodexVergilius/LUAMAIN:codex_vergilius_noop()"
+      ],
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "id": 950199
+    },
+    {
+      "requireIDList": [
+        "Modular/TIMING:AfterSlots/LUA:CodexVergilius/LUAMAIN:codex_vergilius_noop()"
+      ],
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "id": 951199
+    },
+    {
+      "attributeStockCondition": [],
+      "id": 951108,
+      "requireIDList": []
+    }
+  ]
+}

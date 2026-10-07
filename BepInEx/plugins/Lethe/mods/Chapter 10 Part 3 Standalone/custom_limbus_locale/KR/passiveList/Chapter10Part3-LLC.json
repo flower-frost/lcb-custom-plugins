@@ -1,0 +1,312 @@
+{
+  "148511": {
+    "id": 148511,
+    "name": "……不可能！",
+    "desc": "关卡开始时，默尔索获得[MeursaultBuffWarderFirstPhase]\n\n回合开始时，对随机罪人施加[GoldenHideWarderFirstPhase] 与[GoldenFabricWarderFirstPhase]\nEncounter Start: Meursault gains [MeursaultBuffWarderFirstPhase]\n\nTurn Start: Random Sinners gain [GoldenHideWarderFirstPhase] and [GoldenFabricWarderFirstPhase]",
+    "flavor": "“那静止与变化的表象……应是神的权能……！”\n\"That which betokeneth stillness and change... is reserved for none but God...!!\"",
+    "summary": "默尔索获得[MeursaultBuffWarderFirstPhase]\n每回合对随机罪人施加[GoldenHideWarderFirstPhase]、[GoldenFabricWarderFirstPhase]\nMeursault gains [MeursaultBuffWarderFirstPhase]\nRandom Sinners gain [GoldenHideWarderFirstPhase] and [GoldenFabricWarderFirstPhase] every turn"
+  },
+  "148501": {
+    "id": 148501,
+    "name": "神的代理人",
+    "desc": "适用[PanicChangeLock] 效果\n回合结束时，若处于恐慌状态，则将理智值变更为30\n\n关卡开始时，\n- 以50%的体力开始\n- 获得2层[UnstableConnection]\n\n第3回合使用强力技能\n- 该回合中被罪人命中时，获得1层[ParryingResultDown] (每名罪人1次)\n\n体力不高于1或第3回合结束时，转换阶段\nApply the [PanicChangeLock] effect\nTurn End: If this unit is in Panic, change SP to 30\n\nEncounter Start:\n- Begin with 50% HP\n- Gain 2 [UnstableConnection]\n\nOn Turn 3, use a powerful Skill\n- During that turn, when hit by a Sinner, gain 1 [ParryingResultDown] (once per Sinner)\n\nWhen this unit's HP drops to 1 or below, or at the end of the turn 3, enter a new Phase",
+    "flavor": "为偏离正道之人定罪的黑神代理人。\nThe Vicar of the Obsidian God who visits punishment upon those who have gone astray.",
+    "summary": "第3回合使用强力技能\n第3回合结束时，转换阶段\nUse a powerful Skill on Turn 3\nChange the phase at the end of Turn 3"
+  },
+  "148502": {
+    "id": 148502,
+    "name": "神圣刑罚烛台",
+    "desc": "回合开始时，<color=#ff6000><mark=#ff000040><b><u>召唤2个刑罚烛台</u></b></mark></color>\n- 每经过1回合，回合开始时召唤的<color=#ff6000><mark=#ff000040><b><u>刑罚烛台数量+1</u></b></mark></color>\n- 场上最多同时存在4个刑罚烛台\n\n场上的刑罚烛台每次被摧毁时，看守获得1层[Vulnerable]\n\n使用技能时，\n- 若主要目标的<color=#ff6000><mark=#ff000040><b><u>速度为1</u></b></mark></color>，则该技能的<color=#ff6000><mark=#ff000040><b><u>所有硬币\n变更为[SuperCoin]，最终威力+2，造成的伤害+100%</u></b></mark></color>\n- 若场上不存在刑罚烛台，则拼点威力-1\nTurn Start: <color=#ff6000><mark=#ff000040><b><u>Summon 2 Candle of Retribution</u></b></mark></color>\n- Summon <color=#ff6000><mark=#ff000040><b><u>+1 more Candle of Retribution</u></b></mark></color> at Turn Start with every passing turn\n- Up to 4 Candles of Retribution can exist simultaneously on the field\n\nEvery time a Candle of Retribution is destroyed, the Warden gains 1 [Vulnerable]\n\nOn Skill Use:\n- <color=#ff6000><mark=#ff000040><b><u>If the main target has 1 Speed, convert all Coins on this unit's Skill into [SuperCoin]s, gain Final Power +2, and deal +100% damage</u></b></mark></color>\n- If there are no Candles of Retribution on the field, Clash Power -1",
+    "flavor": "落于违逆百货命运的罪人头顶的烛台。\nThe candle that smites those sinful ones who dare defy the fate allotted by the department store.",
+    "summary": "每回合召唤刑罚烛台，其被摧毁时获得[Vulnerable]\n若主要目标的速度为1，则强化技能\nSummon Candle of Retribution every turn, gain [Vulnerable] when Candle is destroyed\nIf the main target has 1 Speed, strengthen the Skill"
+  },
+  "148503": {
+    "id": 148503,
+    "name": "泪水浸湿布匹",
+    "desc": "<color=#ff6000><mark=#ff000040><b><u>自身不会因[Sinking] 效果而减少理智值</u></b></mark></color>，\n改为受到等同于应减少数值的忧郁伤害\n\n被罪人命中时，使该罪人的[Sinking] 层数增加1层\n(每名罪人每回合最多2层)\n<color=#ff6000><mark=#ff000040><b><u>This unit does not lose SP from [Sinking] effects</u></b></mark></color>; instead, when [Sinking] effects trigger, this unit takes Gloom damage equal to Sinking Potency\n\nWhen hit by a Sinner, the said Sinner gains +1 [Sinking] Count (2 per turn per Sinner)",
+    "summary": "因[Sinking] 而减少理智值时，改为受到忧郁伤害\n被命中时，使攻击者的[Sinking] 层数增加\nTake Gloom damage from [Sinking] instead of losing SP\nWhen hit, the attacker gains [Sinking] Count"
+  },
+  "148504": {
+    "id": 148504,
+    "name": "完美保存",
+    "desc": "战斗中每累计消耗\n10层自身的[ChargeNoir] 时，获得1级[ChargeNoir] 强度\n\n回合开始时，若自身的[ChargeNoir] 强度低于3级、[ChargeNoir] 层数低于10层，\n则自身的[ChargeNoir] 层数增加5层\n\n[ChargeNoir] 在回合结束时减少1层层数的效果不会触发\nGain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n\nTurn Start: At fewer than 3 [ChargeNoir] Potency and fewer than 10 [ChargeNoir] Count, gain +5 [ChargeNoir] Count\n\nThe \"Turn End: Lose 1 Count\" effect on [ChargeNoir] does not trigger",
+    "flavor": "在西西弗系统中，这份保存被完美地保存着。\nWithin the Sisyphe System, conservation itself is preserved perfectly.",
+    "summary": "累计消耗[ChargeNoir] 层数时，获得[ChargeNoir] 强度\n[ChargeNoir] 层数不会在回合结束时减少\nGain [ChargeNoir] Potency when consuming [ChargeNoir] Count cumulatively\n[ChargeNoir] Count is not lost at Turn End"
+  },
+  "152001": {
+    "id": 152001,
+    "name": "刑罚的拘束",
+    "desc": "回合结束时，下回合对所有罪人施加<color=#ff6000><mark=#ff000040><b><u>2层[Binding]</u></b></mark></color>\n- 转换阶段时，本效果不会生效\nTurn End: Inflict <color=#ff6000><mark=#ff000040><b><u>2 [Binding]</u></b></mark></color> next turn on all Sinners\n- This effect does not trigger after Phase change",
+    "flavor": "罪人，当受束缚。\nLet the sinful one be bound.",
+    "summary": "下回合对所有罪人施加[Binding]\nInflict [Binding] on all Sinners next turn"
+  },
+  "152002": {
+    "id": 152002,
+    "name": "燃起的罪孽",
+    "desc": "被罪人的技能选为次要目标时，\n受到该技能造成的伤害-50%\n\n阵亡时，\n- 所有属性的E.G.O资源+1\n- 最后攻击自身的罪人恢复5点理智值\n· 若该罪人带有[Binding]，则改为恢复10点理智值\n· 若无法确认本效果的适用目标，则改为对理智值最低的罪人生效\nWhen this unit is sub-targeted by a Sinner's Skill, take -50% damage from the said Skill\n\nUpon defeat:\n- Give 1 E.G.O resource for all Affinities\n- The last Sinner to attack this unit heals 5 SP\n  · If the said Sinner has [Binding], heal 10 SP instead\n  · If the \"last Sinner\" to attack this unit cannot be determined, above effects activate for the Sinner that has the lowest SP",
+    "summary": "作为次要目标时，受到的伤害减少\n阵亡时，获得E.G.O资源，攻击者恢复理智值\nTake less damage when sub-targeted\nOn death, give E.G.O resource; heal attacker's SP"
+  },
+  "148611": {
+    "id": 148611,
+    "name": "……不可能！",
+    "desc": "回合开始时，对随机罪人施加[GoldenHideWarderSecondPhase] 与[GoldenFabricWarderSecondPhase]\nTurn Start: Random Sinners gain [GoldenHideWarderSecondPhase] and [GoldenFabricWarderSecondPhase]",
+    "flavor": "“那静止与变化的表象……应是神的权能……！”\n\"That which betokeneth stillness and change... is reserved for none but God...!!\"",
+    "summary": "每回合对随机罪人施加[GoldenHideWarderSecondPhase]、[GoldenFabricWarderSecondPhase]\nRandom Sinners gain [GoldenHideWarderSecondPhase] and [GoldenFabricWarderSecondPhase] every turn"
+  },
+  "148605": {
+    "id": 148605,
+    "name": "告解工具",
+    "desc": "看守通过自身技能效果对罪人施加[ConfessionSecondPhase] 时，\n适用以下效果\n- [RestrainingNailSecondPhase]、[ExecutionNailSecondPhase]、[CeremonialNail]、[MarkingNail] 统称为<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase]</u></b></mark></color>\n- 看守对罪人施加钉或锤钉时，<color=#ff6000><mark=#ff000040><b><u>适用最后施加的效果</u></b></mark></color>，层数相加\n- <color=#ff6000><mark=#ff000040><b><u>锤钉不会变更为钉</u></b></mark></color>\n\n命中罪人时，目标罪人每带有<color=#ff6000><mark=#ff000040><b><u>1层[ConfessionSecondPhase]，\n造成的伤害+3%</u></b></mark></color> (最多27%，分别对各目标适用)\n\n回合开始时，若看守的<color=#ff6000><mark=#ff000040><b><u>体力不高于50%</u></b></mark></color>，\n则所有技能施加的<color=#ff6000><mark=#ff000040><b><u>[ConfessionSecondPhase] 层数+1</u></b></mark></color>\nWhen the Warden inflicts [ConfessionSecondPhase] on Sinners using its Skill effects, apply the following:\n- The following effects are <color=#ff6000><mark=#ff000040><b><u>collectively referred to as [ConfessionSecondPhase]:</u></b></mark></color>\n  · [RestrainingNailSecondPhase]\n  · [ExecutionNailSecondPhase]\n  · [CeremonialNail]\n  · [MarkingNail]\n- When the Warden inflicts Nail[TabExplain] or Hammernail on the Sinners, <color=#ff6000><mark=#ff000040><b><u>only the effect that is inflicted last remains</u></b></mark></color>; however, Stacks between Nail[TabExplain] and Hammernail accumulate\n- <color=#ff6000><mark=#ff000040><b><u>Hammernail does not convert into Nail[TabExplain]</u></b></mark></color>\n\nOn Hit against a Sinner, <color=#ff6000><mark=#ff000040><b><u>deal +3% damage for every [ConfessionSecondPhase] on target</u></b></mark></color> (max 27%, separately for each target)\n\nTurn Start: <color=#ff6000><mark=#ff000040><b><u>If the Warden has 50% or lower HP</u></b></mark></color>, all Skills inflict <color=#ff6000><mark=#ff000040><b><u>+1 more [ConfessionSecondPhase]</u></b></mark></color>",
+    "summary": "根据目标的[ConfessionSecondPhase] 增加造成的伤害\n体力不高于50%时，施加的[ConfessionSecondPhase] 层数增加\nDeal more damage based on [ConfessionSecondPhase] on target\nAt 50%- HP, inflict more [ConfessionSecondPhase]"
+  },
+  "148601": {
+    "id": 148601,
+    "name": "遵循保存的纪律",
+    "desc": "适用[PanicChangeLock] 效果\n回合结束时，若处于恐慌状态，则将理智值变更为30\n\n登场后的首个回合开始时，\n- 将理智值变更为45\n- 获得0层[EncompassingVoiceSecondPhase]、1层[LeaderVoiceSecondPhase]\n- 保留上一阶段的[ChargeNoir] 强度与层数\nApply the [PanicChangeLock] effect\nTurn End: If this unit is in Panic, change SP to 30\n\nFirst Turn Start after entry:\n- Change SP to 45\n- Gain 0 [EncompassingVoiceSecondPhase] and 1 [LeaderVoiceSecondPhase]\n- [ChargeNoir] Potency and Count carry over from the preceding Phase",
+    "summary": "[PanicChangeLock]\n保留上一阶段的[ChargeNoir] 强度与层数\n[PanicChangeLock]\n[ChargeNoir] Potency and Count carry over from the preceding Phase"
+  },
+  "148602": {
+    "id": 148602,
+    "name": "审判之日",
+    "desc": "回合开始时，若带有[SpreadingVoiceSecondPhase]，\n则变更行动模式，使用<color=#ff6000><mark=#ff000040><b><u>强力技能“审判……！宣判……！定罪……！”</u></b></mark></color>\n- 该回合最小速度值与最大速度值+20\n- <color=#ff6000><mark=#ff000040><b><u>看守在该行动模式中拼点失败</u></b></mark></color>时，\n下回合进一步变更行动模式，使用<color=#ff6000><mark=#ff000040><b><u>强力技能“执行死刑”</u></b></mark></color>\n\n每次[SpreadingVoiceSecondPhase]/[EncompassingVoiceSecondPhase] 变更时，\n<color=#ff6000><mark=#ff000040><b><u>恢复45点理智值</u></b></mark></color>，并<color=#ff6000><mark=#ff000040><b><u>获得1层[LeaderVoiceSecondPhase]</u></b></mark></color>\n\n体力不高于50%时，\n结束当前回合(特定技能除外)，若已陷入混乱，则解除混乱\n体力不高于1时，转换阶段\nTurn Start: If this unit has [SpreadingVoiceSecondPhase], gain a new pattern and <color=#ff6000><mark=#ff000040><b><u>use a powerful Skill, \"Judgment... Sentencing... Condemnation!\"</u></b></mark></color>\n- Min & Max Speed +20 for the turn\n- <color=#ff6000><mark=#ff000040><b><u>If the Warden loses the Clash while in this pattern</u></b></mark></color>, gain a changed pattern next turn, and <color=#ff6000><mark=#ff000040><b><u>use a powerful Skill, \"Death Unto the Condemned\"</u></b></mark></color>\n\nEvery time [SpreadingVoiceSecondPhase] and [EncompassingVoiceSecondPhase] are converted, <color=#ff6000><mark=#ff000040><b><u>heal 45 SP</u></b></mark></color> and <color=#ff6000><mark=#ff000040><b><u>gain 1 [LeaderVoiceSecondPhase]</u></b></mark></color>\n\nAt 50% or lower HP, end the turn (excluding certain Skills); if Staggered, recover from Stagger\nAt 1 or lower HP, enter a new Phase",
+    "flavor": "刑罚亦不能赎罪之人……终将在审判之日死去。\nThey who have failed to atone through punishment shall perish on the Day of Judgment.",
+    "summary": "带有[SpreadingVoiceSecondPhase] 时使用强力技能\n此时拼点失败，下回合使用“执行死刑”\nUse a powerful Skill if this unit has [SpreadingVoiceSecondPhase]\nOn Clash Lose in this pattern, use \"Death Unto the Condemned\" next turn"
+  },
+  "148603": {
+    "id": 148603,
+    "name": "泪水浸湿布匹，布匹勒紧脖颈",
+    "desc": "<color=#ff6000><mark=#ff000040><b><u>自身不会因[Sinking] 效果而减少理智值</u></b></mark></color>，\n改为受到等同于应减少数值的忧郁伤害\n\n被罪人命中时，使该罪人的[Sinking] 层数增加1层\n(每名罪人每回合最多2层)\n\n[Breath] 强度最多只能获得20级，\n<color=#ff6000><mark=#ff000040><b><u>超出上限时，恢复等同于超出部分的[Breath] 强度数值的理智值</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>This unit does not lose SP from [Sinking] effects</u></b></mark></color>; instead, this unit takes Gloom damage equal to Sinking Potency\n\nWhen hit by a Sinner, the said Sinner gains +1 [Sinking] Count (2 times per turn per Sinner)\n\nThis unit cannot gain [Breath] Potency past 20; <color=#ff6000><mark=#ff000040><b><u>instead, heal SP equal to excess [Breath] Potency gained</u></b></mark></color>",
+    "summary": "因[Sinking] 而减少理智值时，改为受到忧郁伤害\n被命中时，使攻击者的[Sinking] 层数增加\nTake Gloom damage from [Sinking] instead of losing SP\nWhen hit, the attacker gains [Sinking] Count"
+  },
+  "148604": {
+    "id": 148604,
+    "name": "完美保存",
+    "desc": "战斗中每累计消耗\n10层自身的[ChargeNoir] 时，获得1级[ChargeNoir] 强度\n\n回合开始时，若自身的[ChargeNoir] 强度低于5级、[ChargeNoir] 层数低于10层，\n则自身的[ChargeNoir] 层数增加5层\n\n[ChargeNoir] 在回合结束时减少1层层数的效果不会生效\n\n自身的[ChargeNoir] 强度不低于5/10级时，自身的[ChargeNoir] 层数上限+5/+10\nGain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n\nTurn Start: At fewer than 5 [ChargeNoir] Potency and fewer than 10 [ChargeNoir] Count, gain +5 [ChargeNoir] Count\n\nThe \"Turn End: Lose 1 Count\" effect on [ChargeNoir] does not trigger\n\nAt 5+/10+ [ChargeNoir] Potency, [ChargeNoir] Count max cap +5/+10",
+    "flavor": "在西西弗系统中，这份保存被完美地保存着。\nWithin the Sisyphe System, conservation itself is preserved perfectly.",
+    "summary": "累计消耗[ChargeNoir] 层数时，获得[ChargeNoir] 强度\n[ChargeNoir] 层数不会在回合结束时减少\nGain [ChargeNoir] Potency when consuming [ChargeNoir] Count cumulatively\n[ChargeNoir] Count is not lost at Turn End"
+  },
+  "148711": {
+    "id": 148711,
+    "name": "该死，你们是怎么找到这种漏洞的。",
+    "desc": "回合开始时，对随机罪人施加[GoldenHideWarderThirdPhase] 与[GoldenFabricWarderThirdPhase]\n\n<color=#ff6000><mark=#ff000040><b><u>管理者进行特定操作时，\n神父对随机罪人造成基于其最大体力的伤害，并施加[GoldenNail]</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>体力低于50%时，神父会干涉系统，</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>将自身的体力与理智值恢复至最大值，并移除所有负面效果</u></b></mark></color>\nTurn Start: Random Sinners gain [GoldenHideWarderThirdPhase] and [GoldenFabricWarderThirdPhase]\n\n<color=#ff6000><mark=#ff000040><b><u>When \"the Manager\" takes a certain action, the Chaplain deals damage to a random Sinner based on the said Sinner's max HP and inflicts [GoldenNail] on them</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>At lower than 50% HP, the Chaplain manipulates his status on a system level</u></b></mark></color> to <color=#ff6000><mark=#ff000040><b><u>heal both HP and SP up to max and remove all negative effects from self</u></b></mark></color>",
+    "flavor": "“系统当然不可能始终完美，但我没想到会出现这么严重的错误。啧，得叫维护组了。”\n\"No system's glitch-free all the time, of course, but a bug this bad...? Tsk. Looks like I'll have to call maintenance.\"",
+    "summary": "每回合对随机罪人施加[GoldenHideWarderThirdPhase]、[GoldenFabricWarderThirdPhase]\n体力低于50%时，完全恢复，移除负面效果\nRandom Sinners gain [GoldenHideWarderThirdPhase] and [GoldenFabricWarderThirdPhase] every turn\nWhen reaching lower than 50% HP, fully heal and remove negative effects"
+  },
+  "148705": {
+    "id": 148705,
+    "name": "西西弗系统维护工具",
+    "desc": "神父通过自身技能效果对罪人施加[ConfessionThirdPhase] 时，\n适用以下效果\n- [RestrainingNailThirdPhase]、[ExecutionNailThirdPhase]、[GoldenNail] 统称为\n<color=#ff6000><mark=#ff000040><b><u>[ConfessionThirdPhase]</u></b></mark></color>\n- 神父对罪人施加钉时，<color=#ff6000><mark=#ff000040><b><u>适用最后施加的效果</u></b></mark></color>，层数相加\n- <color=#ff6000><mark=#ff000040><b><u>[RestrainingNailThirdPhase]、[ExecutionNailThirdPhase]\n不会变更为[GoldenNail]</u></b></mark></color>\n\n命中罪人时，目标罪人每带有<color=#ff6000><mark=#ff000040><b><u>1层[ConfessionThirdPhase]，\n造成的伤害+5%</u></b></mark></color> (最多45%，分别对各目标适用)\n\n回合开始时，若神父的<color=#ff6000><mark=#ff000040><b><u>体力不高于50%</u></b></mark></color>，\n则所有技能施加的<color=#ff6000><mark=#ff000040><b><u>[ConfessionThirdPhase] 层数+1</u></b></mark></color>\nWhen the Chaplain inflicts [ConfessionThirdPhase] on Sinners using its Skill effects, apply the following:\n- The following effects are <color=#ff6000><mark=#ff000040><b><u>collectively referred to as [ConfessionThirdPhase]</u></b></mark></color>:\n  · [RestrainingNailThirdPhase]\n  · [ExecutionNailThirdPhase]\n  · [GoldenNail]\n- When the Chaplain inflicts Nail[TabExplain] on the Sinners, <color=#ff6000><mark=#ff000040><b><u>only the effect that is inflicted last remains</u></b></mark></color>; however, Stacks between effects accumulate\n<color=#ff6000><mark=#ff000040><b><u>- [RestrainingNailThirdPhase] and [ExecutionNailThirdPhase] do not convert into [GoldenNail]</u></b></mark></color>\n\nOn Hit against a Sinner, <color=#ff6000><mark=#ff000040><b><u>deal +5% damage for every [ConfessionThirdPhase]</u></b></mark></color> on target (max 45%, separately for each target)\n\nTurn Start: <color=#ff6000><mark=#ff000040><b><u>If the Chaplain has 50% or lower HP</u></b></mark></color>, all Skills inflict <color=#ff6000><mark=#ff000040><b><u>+1 more [ConfessionThirdPhase]</u></b></mark></color>",
+    "flavor": "“根据操作手册……这种时候，必须全都重新调整。都是早就规定好的事项。只要看看这手册上写的……啊，你们那边看不见啊。”\n\"According to the manual... when this happens, everything has to be readjusted. It's all been laid out in the regulations already. You can see it right here in the manual... ah. Right. You can't see this from where you are.\"",
+    "summary": "根据目标的[ConfessionThirdPhase] 增加造成的伤害\n体力不高于50%时，施加的[ConfessionThirdPhase] 层数增加\nDeal more damage based on [ConfessionThirdPhase] on target\nAt 50%- HP, inflict more [ConfessionThirdPhase]"
+  },
+  "148701": {
+    "id": 148701,
+    "name": "“遵循保存的纪律”",
+    "desc": "<color=#ff6000><mark=#ff000040><b><u>拼点次数不低于10次</u></b></mark></color>时，该技能的<color=#ff6000><mark=#ff000040><b><u>拼点威力+(已进行的拼点次数)</u></b></mark></color>\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking] 的<color=#ff6000><mark=#ff000040><b><u>强度最多累积至50级</u></b></mark></color>，<color=#ff6000><mark=#ff000040><b><u>层数最多累积至15层</u></b></mark></color>\n受到[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking] 造成的伤害-50%\n\n适用[PanicChangeLock] 效果，\n<color=#ff6000><mark=#ff000040><b><u>理智值不会降至0以下</u></b></mark></color>\n\n登场后的首个回合开始时，\n- 将理智值变更为45\n- 获得0层[EncompassingVoiceThirdPhase]、1层[LeaderVoiceThirdPhase]\n- 保留上一阶段的[ChargeNoir] 强度与层数\n<color=#ff6000><mark=#ff000040><b><u>At 10+ Clashes</u></b></mark></color>, the said Skill <color=#ff6000><mark=#ff000040><b><u>gains Clash Power by (Clash Count)</u></b></mark></color>\n\nFor [Combustion], [Laceration], [Vibration], [Burst], [Sinking]:\n- <color=#ff6000><mark=#ff000040><b><u>Max Potency cap: 50\n- Max Count cap: 15</u></b></mark></color>\n- Take -50% damage from above effects\n\nApply the [PanicChangeLock] effect, and <color=#ff6000><mark=#ff000040><b><u>this unit's SP does not drop below 0</u></b></mark></color>\n\nFirst Turn Start after entry:\n- Change SP to 45\n- Gain 0 [EncompassingVoiceThirdPhase] and 1 [LeaderVoiceThirdPhase]\n- [ChargeNoir] Potency and Count carry over from the preceding Phase",
+    "summary": "拼点次数不低于10次时，拼点威力增加\n受到[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking] 造成的伤害减少\nAt 10+ Clash Count, gain Clash Power\nTake less damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]"
+  },
+  "148702": {
+    "id": 148702,
+    "name": "“审判之日”",
+    "desc": "回合开始时，若带有[SpreadingVoiceThirdPhase]，则变更行动模式，\n使用<color=#ff6000><mark=#ff000040><b><u>强力技能“真打算破坏西西弗系统？”</u></b></mark></color>\n- 该回合最小速度值与最大速度值+20\n- <color=#ff6000><mark=#ff000040><b><u>神父在该行动模式中拼点失败</u></b></mark></color>时，\n下回合进一步变更行动模式，使用<color=#ff6000><mark=#ff000040><b><u>强力技能“强制退场”</u></b></mark></color>\n\n每次[SpreadingVoiceThirdPhase]/[EncompassingVoiceThirdPhase] 变更时，\n<color=#ff6000><mark=#ff000040><b><u>恢复45点理智值</u></b></mark></color>，并<color=#ff6000><mark=#ff000040><b><u>获得1层[LeaderVoiceThirdPhase]</u></b></mark></color>\nTurn Start: If this unit has [SpreadingVoiceThirdPhase], gain a new pattern and use a <color=#ff6000><mark=#ff000040><b><u>powerful Skill, \"Do you seriously mean to break the Sisyphe System?\"</u></b></mark></color>\n- Min & Max Speed +20 for the turn\n- <color=#ff6000><mark=#ff000040><b><u>If the Chaplain loses the Clash</u></b></mark></color> while in this pattern, gain a changed pattern next turn, and <color=#ff6000><mark=#ff000040><b><u>use a powerful Skill, \"Systemwide Ban\"</u></b></mark></color>\n\nEvery time [SpreadingVoiceThirdPhase] and [EncompassingVoiceThirdPhase] are converted, <color=#ff6000><mark=#ff000040><b><u>heal 45 SP</u></b></mark></color> and <color=#ff6000><mark=#ff000040><b><u>gain 1 [LeaderVoiceThirdPhase]</u></b></mark></color>",
+    "flavor": "受罚了还不反省，那就该受审判。足以让你死的那种。\nIf getting punished still wasn't enough to make you reflect, then I guess it's time for judgment. Enough to kill you, that is.",
+    "summary": "带有[SpreadingVoiceThirdPhase] 时使用强力技能\n此时拼点失败，下回合使用“强制退场”\nUse a powerful Skill if this unit has [SpreadingVoiceThirdPhase]\nOn Clash Lose in this pattern, use \"Systemwide Ban\" next turn"
+  },
+  "148703": {
+    "id": 148703,
+    "name": "泪水浸湿布匹，布匹勒紧脖颈……词儿都想不起来了。",
+    "desc": "<color=#ff6000><mark=#ff000040><b><u>自身不会因[Sinking] 效果而减少理智值</u></b></mark></color>，\n改为受到等同于应减少数值的忧郁伤害\n\n被罪人命中时，使该罪人的[Sinking] 层数增加1层\n(每名罪人每回合最多2层)\n\n[Breath] 强度最多只能获得20级，\n<color=#ff6000><mark=#ff000040><b><u>超出上限时，恢复等同于超出部分的[Breath] 强度数值的理智值</u></b></mark></color>\n\n对罪人触发[VibrationExplosion] 时，若目标罪人<color=#ff6000><mark=#ff000040><b><u>没有混乱阈值</u></b></mark></color>，\n则改为造成等同于目标的[Vibration] 强度一半的<color=#ff6000><mark=#ff000040><b><u>怠惰伤害</u></b></mark></color>，而非混乱伤害 (已混乱的目标除外，分别对各目标适用)\n<color=#ff6000><mark=#ff000040><b><u>This unit does not lose SP from [Sinking] effects</u></b></mark></color>; instead, when [Sinking] effects trigger, this unit takes Gloom damage equal to Sinking Potency\n\nWhen hit by a Sinner, the said Sinner gains +1 [Sinking] Count (2 per turn per Sinner)\n\nThis unit cannot gain [Breath] Potency past 20; <color=#ff6000><mark=#ff000040><b><u>instead, heal SP equal to excess [Breath] Potency gained</u></b></mark></color>\n\nWhen triggering [VibrationExplosion] on Sinners, <color=#ff6000><mark=#ff000040><b><u>if the targeted Sinner does not have a Stagger Threshold</u></b></mark></color>, <color=#ff6000><mark=#ff000040><b><u>deal ([Vibration] Potency on target / 2) Sloth damage</u></b></mark></color> (except Staggered targets; calculated separately for each target)",
+    "flavor": "“也该真的‘祈祷’一下了吧？”\n“About time you started 'praying,' don't you think?”",
+    "summary": "被命中时，使攻击者的[Sinking] 层数增加\n触发[VibrationExplosion] 时，若目标没有混乱阈值，则造成怠惰伤害\nWhen hit, inflict [Sinking] Count on the attacker\nOn [VibrationExplosion], deal Sloth damage if target does not have a Stagger Threshold"
+  },
+  "148704": {
+    "id": 148704,
+    "name": "完美保存",
+    "desc": "战斗中每累计消耗\n10层自身的[ChargeNoir] 时，获得1级[ChargeNoir] 强度\n\n回合开始时，若自身的[ChargeNoir] 强度低于10级、[ChargeNoir] 层数低于10层，\n则自身的[ChargeNoir] 层数增加5层\n\n[ChargeNoir] 在回合结束时减少1层层数的效果不会生效\n\n自身的[ChargeNoir] 强度不低于5/10级时，自身的[ChargeNoir] 层数上限+5/+10\nGain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n\nTurn Start: At fewer than 10 [ChargeNoir] Potency and fewer than 10 [ChargeNoir] Count, gain +5 [ChargeNoir] Count\n\nThe \"Turn End: Lose 1 Count\" effect on [ChargeNoir] does not trigger\n\nAt 5+/10+ [ChargeNoir] Potency, [ChargeNoir] Count max cap +5/+10",
+    "flavor": "在西西弗系统中，这份保存被完美地保存着。\nWithin the Sisyphe System, conservation itself is preserved perfectly.",
+    "summary": "累计消耗[ChargeNoir] 层数时，获得[ChargeNoir] 强度\n[ChargeNoir] 层数不会在回合结束时减少\nGain [ChargeNoir] Potency when consuming [ChargeNoir] Count cumulatively\n[ChargeNoir] Count is not lost at Turn End"
+  },
+  "148706": {
+    "id": 148706,
+    "name": "好，该下班了吧",
+    "desc": "回合结束时，若[ChargeNoir] 强度高于10级，\n则消耗超出部分的[ChargeNoir] 强度，获得等同于消耗数值的\n[Dominion]\n- 本被动效果消耗全部[Dominion] 后，本效果不再触发\n\n自身体力首次<color=#ff6000><mark=#ff000040><b><u>降至不高于33%时，变更行动模式</u></b></mark></color>\n- 消耗所有[Dominion]，获得等同于自身<color=#ff6000><mark=#ff000040><b><u>最大体力\n(25+[Dominion] 层数)%的持久护盾</u></b></mark></color>\n- 永久降低等同于消耗的[Dominion] 层数的防御等级\nTurn End: At more than 10 [ChargeNoir] Potency, consume excess [ChargeNoir] Potency and gain ([ChargeNoir] Potency consumed) [Dominion]\n- This effect does not trigger again after all [Dominion] has been consumed by the effects of this Passive\n\nWhen this unit's HP drops to <color=#ff6000><mark=#ff000040><b><u>33% or lower for the first time in this Encounter, gain a new pattern</u></b></mark></color>\n- Consume all [Dominion] on self and <color=#ff6000><mark=#ff000040><b><u>gain persistent Shield equal to (25 + [Dominion] Stack)% of this unit's max HP</u></b></mark></color>\n- Permanently lose Defense Level equal to [Dominion] Stack consumed",
+    "flavor": "“无论怎么说，N公司都必须拥有西西弗系统。这系统若是崩溃……就得重新回到野蛮的时代。”\n\n“所以，按照操作手册，你们不能离开这百货。没有例外。”\n\"Say what you want, the Sisyphe System is something N Corp. absolutely needs. If this system goes down... we're back to barbarism.\"\n\n\"So, just like the manual says, you don't get to leave this department store. No exceptions.\"",
+    "summary": "[ChargeNoir] 强度超出10级的部分变为[Dominion]\n体力不高于33%时，变更行动模式，获得护盾\nConvert 10 surplus [ChargeNoir] Potency into [Dominion]\nAt 33% or lower HP, change the pattern and gain Shield"
+  },
+  "152201": {
+    "id": 152201,
+    "name": "自欺(mauvaise foi)",
+    "desc": "战斗中每累计消耗10层自身的[ChargeKhaki] 时，获得1级[ChargeKhaki] 强度\n- 回合结束时减少[ChargeKhaki] 层数的效果不会触发\n\n回合结束时，获得等同于自身[ChargeKhaki] 层数的[Breath] 强度 (最多10级)\n回合结束时，获得等同于自身[ChargeKhaki] 强度的[Breath] 层数 (最多5层)\n\n受到[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking] 造成的伤害-60%\n- 受到[Vibration] 造成的混乱伤害-60%\n\n与同一目标拼点时，每进行10次拼点，自身的拼点威力+1",
+    "flavor": "自我欺骗。\n逃离世界。逃离那个充满恐惧与不安的世界，一次又一次地逃离。\n\n将自己钉在原地，借此逃往舞台。登上舞台的演员完全沉浸于角色之中。欺骗自己，蒙蔽自己。"
+  },
+  "152202": {
+    "id": 152202,
+    "name": "华尔兹的节拍，还记得吗？",
+    "desc": "一次拼点中的拼点次数不低于4次时，每进行4次拼点，第3次拼点的胜利者造成的伤害+15% (最多3次)\n- 若赢下该次拼点的技能也赢下了第1次拼点，则最终威力+1",
+    "flavor": "我们一同经历过的。"
+  },
+  "152203": {
+    "id": 152203,
+    "name": "萨特",
+    "desc": "<color=#ff6000><mark color=#ff000040><b><u>每3回合召唤3张西西弗百货设计图</color></mark></b></u>，并获得等同于自身最大体力的护盾\n- 该回合内若已陷入混乱，则解除混乱，且不会陷入混乱\n\n<color=#ff6000><mark color=#ff000040><b><u>用“捕捉”击败西西弗百货设计图时，获得[JeanneDesign]</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>自身的[JeanneDesign] 达到3层时，变更为[JeanneManager]</color></mark></b></u>\n若<color=#ff6000><mark color=#ff000040><b><u>未能用自身的“捕捉”击败任何西西弗百货设计图，</color></mark></b></u>则下回合获得1层[Vulnerable]",
+    "flavor": "西西弗塔的四位巨人之一。\n\n是其中负责设计西西弗系统的建筑师，也是裁缝。按照自身的观点构筑世界的角色、职业，或者某种事物。\n\n量体裁衣般裁剪、钉牢、缝合，一点点堆砌起来的，不会令让娜作呕的场所。\n\n西西弗百货。"
+  },
+  "152204": {
+    "id": 152204,
+    "name": "我啊……",
+    "desc": "以45点理智值开始本关卡\n\n默尔索阵亡时，罪人方战斗失败\n\n<color=#ff6000><mark color=#ff000040><b><u>体力不高于50%时，</color></mark></b></u>不再受到伤害，转换阶段\n- 转换阶段时，移除自身带有的可解除的负面效果",
+    "flavor": "我不希望你到外面去。\n\n小可爱，和我一起去下一个舞台吧。"
+  },
+  "152301": {
+    "id": 152301,
+    "name": "华尔兹的经历，还记得吗？",
+    "desc": "本阶段中不会受到伤害\n\n回合开始时，自身获得1层[JeannePartnerTwo]、1层[JeannePathos]，默尔索获得1层[JeannePartner]、1层[JeanneLogos] (每场战斗1次)\n\n遭受单方面攻击或拼点失败时，发动“也曾有过小小的争执。”技能\n<color=#ff6000><mark color=#ff000040><b><u>在默尔索的上方槽位中生成特定技能</color></mark></b></u>",
+    "flavor": "再次经历，记忆中的华尔兹。"
+  },
+  "152302": {
+    "id": 152302,
+    "name": "恶心(la nausée)",
+    "desc": "默尔索阵亡时，罪人方战斗失败\n\n<color=#ff6000><mark color=#ff000040><b><u>自身的[JeannePathos] 达到100层时，</color></mark></b></u>正在使用的技能结束时，转换阶段\n- 转换阶段时，移除自身带有的可解除的负面效果",
+    "flavor": "头晕了吧？不过，高潮还在后面。"
+  },
+  "152401": {
+    "id": 152401,
+    "name": "他人即地狱(L'enfer, c'est les autres)",
+    "desc": "让娜的体力降至不高于10%时……",
+    "flavor": "我们始终活在被他人目光钉死的地狱里。所以……说出你所有的感情吧，默尔。之后再下判断，也来得及吧？"
+  },
+  "152402": {
+    "id": 152402,
+    "name": "目光：西西弗百货",
+    "desc": "理智值固定为45\n\n回合开始时，召唤西西弗系统设计图 - 红派与西西弗系统设计图 - 黑派，直到两者各有2张\n\n自转换阶段后的第2回合起，将1张设计图变更为裁缝 让娜·萨特形态\n- 优先变更不带有[Vulnerable] 的设计图\n- 上回合变为裁缝 让娜·萨特状态的设计图除外\n- 若已陷入混乱，则解除混乱\n\n变为裁缝 让娜·萨特状态时，使用“至少在这舞台上，一切都已注定。”技能\n- 默尔索的技能与“至少在这舞台上，一切都已注定。”拼点胜利时，自下回合起，该设计图每回合获得5层[Vulnerable]\n\n每次解除裁缝 让娜·萨特形态时，自下回合起，有1张设计图装载让娜的“权限：阻止”技能\n- 装载让娜技能的设计图数量逐次累积增加1张\n\n设计图阵亡时，适用以下效果\n- 让娜的体力减少5%\n- 其他设计图获得1层[JeanneBlueprint]\n- 下回合有1张设计图装载让娜的“权限：目光”技能，替代“权限：阻止”技能",
+    "flavor": "对让娜而言，百货才是自己最能舒适地认识的世界。\n\n虽然被分配了本该保持中立的褐派的工作，但就像你现在看到的……其实，她比任何人都想绚烂地绽放，想在舞台上满怀热情地与你起舞，默尔。\n\n但是……让娜被无数目光、被察言观色的锁链所束缚，没能绚烂地绽放。甚至连想要绽放的心情都无法表露。\n\n我无法消除让娜的恶心……但我会帮助她，让她在这个被抛入的世界中，无须顾虑任何人的眼色，绽放自己，做自己。让她在全心投入时，能暂且忘却头晕。\n\n而这……是城市中的每个人都需要的，并不只限于让娜。即使拒绝，我也认为，这仍是必须给予的机会。"
+  },
+  "152501": {
+    "id": 152501,
+    "name": "服装设计图",
+    "desc": "战斗中<color=#ff6000><mark color=#ff000040><b><u>首次被命中</color></mark></b></u>前，无论自身指定的目标为何，均<color=#ff6000><mark color=#ff000040><b><u>使用装载的“百货设计图”</color></mark></b></u> (每回合1次)\n\n受到基础技能造成的伤害-50%\n\n<color=#ff6000><mark color=#ff000040><b><u>受到E.G.O技能造成的伤害+100%</color></mark></b></u>\n\n被裁缝 让娜·萨特的“捕捉”技能命中时，阵亡",
+    "flavor": "这便是百货的设计图。"
+  },
+  "152502": {
+    "id": 152502,
+    "name": "自我设计图",
+    "desc": "因罪人的技能阵亡时，逐个发放库存最少的属性的E.G.O资源，共5个\n(若至少2种属性的资源并列最少，则随机发放)",
+    "flavor": "未经设计的设计。"
+  },
+  "152601": {
+    "id": 152601,
+    "name": "模式：西西弗百货",
+    "desc": "与同一目标拼点时，每进行10次拼点，自身的拼点威力增加1点\n\n自登场后的下回合起，有1张设计图<color=#ff6000><mark color=#ff000040><b><u>变更为裁缝 让娜·萨特状态</color></mark></b></u>\n- 优先变更不带有[Vulnerable] 的设计图\n- 上回合变为裁缝 让娜·萨特状态的设计图除外\n- 若已陷入混乱，则解除混乱\n\n变为裁缝 让娜·萨特状态时，使用<color=#ff6000><mark color=#ff000040><b><u>“至少在这舞台上，一切都已注定。”技能</color></mark></b></u>\n- 与“至少在这舞台上，一切都已注定。”拼点时，若<color=#ff6000><mark color=#ff000040><b><u>默尔索的技能胜利</color></mark></b></u>，则自下回合起，该设计图<color=#ff6000><mark color=#ff000040><b><u>每回合获得5层[Vulnerable]</color></mark></b></u>\n\n设计图阵亡时，适用以下效果\n- <color=#ff6000><mark color=#ff000040><b><u>让娜的体力减少5%</color></mark></b></u>\n- 其他设计图获得1层[JeanneBlueprint]"
+  },
+  "152602": {
+    "id": 152602,
+    "name": "代谢作用",
+    "desc": "战斗中每累计消耗10层自身的[ChargeRouge] 时，获得1级[ChargeRouge] 强度\n\n自身技能效果减少体力时，体力不会降至1以下",
+    "flavor": "摄取、充能、消耗，再次摄取。单纯的重复，源于渴望。"
+  },
+  "152701": {
+    "id": 152701,
+    "name": "保存",
+    "desc": "战斗中每累计消耗10层自身的[ChargeNoir] 时，获得1级[ChargeNoir] 强度",
+    "flavor": "将力量凝聚、集中，并加以固定。有时不改变比改变需要更大的力量。"
+  },
+  "151701": {
+    "id": 151701,
+    "name": "他者的享乐(la jouissance Autre)",
+    "desc": "回合结束时，[ChargeRouge] 层数不会减少\n战斗中每次触发[Laceration] 效果时，自身的[ChargeRouge] 层数增加1层\n回合开始时，自身每带有1层[ChargeRouge]，恢复2点理智值\nTurn End: Does not lose [ChargeRouge] Count\nGain +1 [ChargeRouge] Count every time [Laceration] effect is activated in an Encounter\nTurn Start: Heal 2 SP for every [ChargeRouge] Count on self",
+    "flavor": "以全身感受到，却无法言说的搏动、本性。一切脉动的总和。\nA throbbing felt through the whole body, yet beyond the reach of words—the totality of every pulsation born of one's very nature.",
+    "summary": "脉动层数增加\nGain Pulsation Count"
+  },
+  "151702": {
+    "id": 151702,
+    "name": "外密(l'extimité)",
+    "desc": "以减少50%体力的状态开始战斗\n关卡开始时，对所有敌人施加[BuffetScruple] (包含后备队员)\n\n使用技能时，若目标<color=#ff6000><mark=#ff000040><b><u>带有[BuffetScruple]</u></b></mark></color>，则理智值减少10点\nStart the Encounter with 50% missing HP\nEncounter Start: Apply [BuffetScruple] on all enemies (including Backup Units)\n\nOn Skill Use, <color=#ff6000><mark=#ff000040><b><u>if target has [BuffetScruple]</u></b></mark></color>, lose 10 SP",
+    "flavor": "……你们明明在我身体的最外侧，却又扎根在我的最深处。\n... You're there at the very edge of my body, and yet somehow, you are also rooted in the deepest part of me.",
+    "summary": "理智值减少\nLose SP"
+  },
+  "151703": {
+    "id": 151703,
+    "name": "自我(le moi)",
+    "desc": "带有[BuffetScruple] 的罪人与特定技能拼点并获胜时，\n<color=#ff6000><mark=#ff000040><b><u>赤红之神获得1层[BuffetDream]</u></b></mark></color>\n当[BuffetDream] 达到5层时，行动模式变更；与变更后的行动模式中的技能拼点并获胜时，战斗胜利\n\n[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking] 的<color=#ff6000><mark=#ff000040><b><u>强度最多累积至50级</u></b></mark></color>，<color=#ff6000><mark=#ff000040><b><u>层数最多累积至15层</u></b></mark></color>\n受到[Combustion]、[Laceration]、[Vibration]、[Burst]、[Sinking] 造成的体力、理智值伤害-50%\n恐慌类型无法变更\n回合结束时，若处于恐慌状态，则将理智值变更为0\nWhen the Sinner who has [BuffetScruple] wins a Clash against a certain Skill, <color=#ff6000><mark=#ff000040><b><u>The Crimson God gains 1 [BuffetDream]</u></b></mark></color>\nWhen The Crimson God reaches 5 [BuffetDream] Stacks, it gains a new pattern; winning the Clash against the Skill in that new pattern will win the Encounter\n\n<color=#ff6000><mark=#ff000040><b><u>Raise max Potency and Count cap</u></b></mark></color> for [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] to <color=#ff6000><mark=#ff000040><b><u>50 and 15</u></b></mark></color>, respectively\n\nTake -50% HP and SP damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]\n- Fixed Panic\n- Turn End: If this unit is in Panic, SP becomes 0",
+    "flavor": "我。看到了水中映出的自己。我拥有完整的身体……\nI saw my reflection in the water. My body, it's been... completed..."
+  },
+  "151704": {
+    "id": 151704,
+    "name": "生命的权能(Pouvoirs de la vie)",
+    "desc": "友方因伤害而陷入混乱时，对该友方使用“存在之缺(le manque-à-être)” (每回合1次)\n友方阵亡时，于下回合开始时召唤带有3层[BuffetRevival] 的赤红之神被撕下的肉块\nIf an ally becomes Staggered due to damage, use the \"Le Manque-à-être\" Skill on the said ally (once per turn)\n\nIf an ally is defeated, summon a Ripped Flesh of the Crimson God that has 3 [BuffetRevival] at the next Turn Start",
+    "flavor": "使其诞生的暴力。红派之神拥有诞生的权能。\n\n死后，意识去往何处？出生之前，意识来自何处？\n\n送它回去，或将它从那里拉出来，都属于同一种暴力的权能。\nThe violence by which things are brought into being. The God of the Rouges possesses the authority of birth.\n\nWhere does consciousness go when we die? And before we are born, from where does it emerge?\n\nTo send it back to that place, or to tear it forth from there... both are workings of the same violent power."
+  },
+  "151705": {
+    "id": 151705,
+    "name": "菲勒斯的享乐(la jouissance phallique)",
+    "desc": "回合开始时，若自身不带有[BuffetRouge]，且自身的[ChargeRouge] 层数不低于15层，则消耗全部[ChargeRouge] 层数，获得3层[BuffetRouge]。每消耗1层[ChargeRouge]，恢复2点理智值\n\n若自身不带有[BuffetRouge]，且自身的[ChargeRouge] 层数不低于10层，则使用技能时消耗10层[ChargeRouge]，硬币威力+2\nTurn Start: If this unit does not have [BuffetRouge] and is at 15+ [ChargeRouge] Count, consume all [ChargeRouge] Count and gain 3 [BuffetRouge]; then, heal 2 SP for every [ChargeRouge] Count consumed\n\nIf this unit does not have [BuffetRouge] and is at 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count on Skill Use to gain Coin Power +2",
+    "flavor": "享受生命的享乐，需要条件。既然有了条件，肉体的快感便有了限度与终点，也必然会失败。\nThere are conditions to tasting the pleasures of life, and as it is with all things conditional, this carnal pleasure is fated to fail.\n\nThe stipulated limits and end have deemed it so.",
+    "summary": "消耗脉动层数，硬币威力增加\nConsume Pulsation Count to gain Coin Power"
+  },
+  "151706": {
+    "id": 151706,
+    "name": "收割(la moisson)",
+    "desc": "攻击结束时，若主要目标的<color=#ff6000><mark=#ff000040><b><u>[BoneNail] 不低于5层</u></b></mark></color>，则对攻击的主要目标使用强力技能\nAttack End: If the main target has <color=#ff6000><mark=#ff000040><b><u>5+ [BoneNail]</u></b></mark></color>, use a powerful Skill against the main target this unit attacked",
+    "flavor": "被推出的附属器官刺入他人，仍在界限之外呼唤着我。\n\n想要回到诞生之处的冲动，是死亡的冲动，还是生命的冲动？\nThe jutting appendage is thrust into another, calling me from beyond the periphery.\n\nIs this compulsion to return to my birthplace an impulse for death, or impulse for life?"
+  },
+  "151707": {
+    "id": 151707,
+    "name": "需要(le besoin)",
+    "desc": "每累计消耗10层[ChargeRouge] 时，脉动强度增加1级\n\n根据自身的[ChargeRouge] 强度，获得以下所有满足条件的效果\n- 1级：对速度低于自身的目标造成的伤害+([ChargeRouge] 强度x20)%\n- 2级：技能的最终威力+1\n- 3级：技能施加的[Laceration] 强度+1\n- 4级：技能的硬币威力+1\n- 5级：自身的[BuffetRouge] 不会减少\nGain 1 Pulsation Potency for every 10 cumulative [ChargeRouge] Count this unit consumes in this Encounter\n\nGain all of the following effects based on [ChargeRouge] Potency on self:\n- 1+: Deal +([ChargeRouge] Potency x 20)% damage if this unit's Speed is faster than the target's\n- 2+: Skill Final Power +1\n- 3+: Skills inflict +1 more [Laceration] Potency\n- 4+: Skill Coin Power +1\n- 5+: Do not lose [BuffetRouge] Stack on self",
+    "flavor": "因为还活着。因为已然诞生。\n如诅咒般降临的，肉体的、必然的，也因此命定的欲望。\nThe destined and inevitable desire of those who live, those who are birthed.\nA curselike need, its inescapability threaded by fate.",
+    "summary": "根据脉动强度强化技能\nEnhance Skills based on Pulsation Potency"
+  },
+  "151708": {
+    "id": 151708,
+    "name": "该给出答案之时",
+    "desc": "满足以下任意1个条件时，变更行动模式\n- 当前体力降至最大体力的25%以下\n- 带有3层[BuffetDream]\nIf any of the following conditions are met, change the pattern\n- Current HP falls below 25% of max HP\n- [BuffetDream] is at 3 Stacks",
+    "flavor": "告诉我……带我走……\nKeep teaching me things... I wanna go with you..."
+  },
+  "152101": {
+    "id": 152101,
+    "name": "愈是空虚，愈将充盈",
+    "desc": "战斗中每累计消耗10层自身的[ChargeRouge] 时，获得1级[ChargeRouge] 强度\n使用技能时，若[ChargeRouge] 强度不低于2/4级，则硬币威力+1/+2\n\n每损失10%体力，攻击等级增加1级(最多5级)，造成的伤害+20%(最多100%)\nGain 1 [ChargeRouge] Potency for every 10 cumulative [ChargeRouge] Count this unit consumes in this Encounter\n\nOn Skill Use, at 2+/4+ [ChargeRouge] Potency, Coin Power +1/+2\n\nGain 1 Offense Level (max 5) and deal +20% damage (max 100%) for every 10% missing HP",
+    "summary": "硬币威力增加\nGain Coin Power"
+  },
+  "152102": {
+    "id": 152102,
+    "name": "瞄准迟缓脖颈的镰刀",
+    "desc": "优先指定速度低于自身的目标\n使用技能时，若自身的速度高于目标，则攻击等级增加等同于双方速度差的数值\n回合开始时，若自身的[ChargeRouge] 强度不低于2级，则使用强力技能\nPrioritize targets with slower Speed than self\n\nOn Skill Use, if this unit's Speed is faster than the target's gain Offense Level equal to the Speed difference\n\nTurn Start: At 2+ [ChargeRouge] Potency, use a powerful Skill",
+    "flavor": "脉动的捕食者瞄准迟缓的脖颈，造成与速度之差相应的致命伤害。\nPulsating predators pursue the slow prey, seeking to sink their fangs into the neck. Their fatality is determined by the speed differential."
+  },
+  "152103": {
+    "id": 152103,
+    "name": "在祂身旁永不冷却的脉动",
+    "desc": "场上存在赤红之神时，回合结束时，自身的[ChargeRouge] 层数不会减少\n\n因被命中而陷入混乱时，若被赤红之神的技能解除混乱，则以技能“以此镰刀回应！”对攻击自身的目标进行单方面攻击\nWhen The Crimson God 【Adulthood】 is on the field, this unit does not lose [ChargeRouge] Count at Turn End\n\nWhen Staggered due to getting hit: When this unit recovers from Stagger due to The Crimson God 【Adulthood】's Skill, use \"With sickles mine I answer your calling!\" as Unopposed Attack against the attacker",
+    "flavor": "呼吸与搏动都不会停止。即使想停，也无法停止。\nAgainst their wishes, neither breathing nor the thumping pulse in their hearts would stop."
+  },
+  "152104": {
+    "id": 152104,
+    "name": "生命的痕迹",
+    "desc": "阵亡时，向敌方发放库存最少的E.G.O资源中随机一种属性的2个资源\nUpon death, grant 2 E.G.O Resource of a random Affinity among least-owned Affinities",
+    "flavor": "某人活着，曾经活过的痕迹。\nTraces left behind by those who live, those who lived."
+  },
+  "152105": {
+    "id": 152105,
+    "name": "降于血肉的恩典",
+    "desc": "<color=#ff6000><mark=#ff000040><b><u>带有[BuffetRouge] 时</u></b></mark></color>，触发以下效果\n- 受到技能造成的伤害-50%\n- 回合开始时，理智值增加至最大值，获得1级[ChargeRouge] 强度，自身的[ChargeRouge] 层数增加5层\n<color=#ff6000><mark=#ff000040><b><u>If this unit has [BuffetRouge]</u></b></mark></color>, apply the following effects:\n- Take -50% damage from Skills\n- Turn Start: Heal SP to max and gain 1 [ChargeRouge]; gain +5 [ChargeRouge] Count",
+    "flavor": "以全身承受那份权能。\nTo receive that divinity whole with one's body."
+  },
+  "151801": {
+    "id": 151801,
+    "name": "再次活过来的肉体",
+    "desc": "[BuffetRevival] 消失时，恢复原本的形态(红派高级员工)。处于赤红之神被撕下的肉块状态时，每剩余10点体力，恢复5点理智值。随后获得2层[ChargeRouge]\n- 若获得的[ChargeRouge] 层数不低于10层，则消耗全部[ChargeRouge] 层数，每消耗5层，下回合获得1层[BuffetRouge]\nWhen [BuffetRevival] expires, return to Le Rouge Senior Staff form; heal 5 SP for every 10 HP that remained while this unit was in Ripped Flesh of the Crimson God form; gain +2 [ChargeRouge] Count\n- If this unit gained 10+ [ChargeRouge] Count, consume all [ChargeRouge] Count; then, gain 1 [BuffetRouge] next turn for every 5 Stacks consumed"
+  },
+  "151802": {
+    "id": 151802,
+    "name": "黏在地面的肉块",
+    "desc": "罪人无法将自身指定为目标\nSinners cannot target this unit"
+  },
+  "151709": {
+    "id": 151709,
+    "name": "既无法推开，也无法握住的手",
+    "desc": "回合开始时，场上每有1名红派高级员工，获得2层[Protection]\n- 每有1名红派高级员工阵亡时，[Protection] 层数减少2层\n\n<color=#ff6000><mark=#ff000040><b><u>红派高级员工全部阵亡</u></b></mark></color>时，适用以下效果\n- 获得2层[Vulnerable]\n- 使用技能时，若目标带有[BuffetScruple]，则硬币威力-1\nTurn Start: Gain 2 [Protection] for every Le Rouge Senior Staff on the field\n- Lose 2 [Protection] every time a Le Rouge Senior Staff is defeated\n\n<color=#ff6000><mark=#ff000040><b><u>If all Le Rouge Senior Staff are defeated</u></b></mark></color>, apply the following effects:\n- Gain 2 [Vulnerable]\n- On Skill Use, if target has [BuffetScruple], Coin Power -1",
+    "flavor": "手……还会握住吗……？\nWill you still... hold my hand?",
+    "summary": "硬币威力减少\nLose Coin Power"
+  }
+}

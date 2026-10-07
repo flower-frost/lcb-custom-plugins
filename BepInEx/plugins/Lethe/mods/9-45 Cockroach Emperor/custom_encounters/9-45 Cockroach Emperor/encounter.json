@@ -1,0 +1,48 @@
+{
+  "id": 94245001,
+  "stageLevel": 60,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 6
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0,
+    "defaultPosZ": 40
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp9_DustPit"
+      },
+      "unitList": [
+        {
+          "unitID": 1339,
+          "unitCount": 1,
+          "unitLevel": 90
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp9_Boss_8"
+      ],
+      "enemyPositionID": 169
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 60,
+  "turnLimit": 999,
+  "questlist": [
+    {
+      "args": [
+        "10"
+      ],
+      "localizeId": 1
+    }
+  ],
+  "rewardList": [],
+  "stageScriptList": [],
+  "includeBoss": 1,
+  "effectiveResistCondition": 1.2,
+  "isBatonPassOn": false
+}

@@ -1,0 +1,3928 @@
+{
+  "list": [
+    {
+      "id": 6105801,
+      "nameID": 6105801,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 1,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105802,
+      "nameID": 6105802,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 2,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105803,
+      "nameID": 6105803,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 3,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105804,
+      "nameID": 6105804,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 4,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105805,
+      "nameID": 6105805,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 5,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105806,
+      "nameID": 6105806,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 6,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105807,
+      "nameID": 6105807,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 7,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105808,
+      "nameID": 6105808,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 8,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105809,
+      "nameID": 6105809,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 9,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105810,
+      "nameID": 6105810,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 10,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105811,
+      "nameID": 6105811,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 11,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105812,
+      "nameID": 6105812,
+      "sdPortrait": 1314,
+      "appearance": "1314_Thumb_FatherAppearance",
+      "characterId": 12,
+      "unitScriptID": "1314",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "panicType": 1078,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9574108
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 451,
+        "incrementByLevel": 35.75
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "maxSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "uniqueAttribute": "SCARLET",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9574101,
+          "number": 1
+        },
+        {
+          "skillId": 9574102,
+          "number": 0
+        },
+        {
+          "skillId": 9574103,
+          "number": 0
+        },
+        {
+          "skillId": 9574104,
+          "number": 0
+        },
+        {
+          "skillId": 9574105,
+          "number": 0
+        },
+        {
+          "skillId": 9574106,
+          "number": 0
+        },
+        {
+          "skillId": 9574107,
+          "number": 0
+        },
+        {
+          "skillId": 9574108,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105901,
+      "nameID": 6105901,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 1,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105902,
+      "nameID": 6105902,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 2,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105903,
+      "nameID": 6105903,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 3,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105904,
+      "nameID": 6105904,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 4,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105905,
+      "nameID": 6105905,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 5,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105906,
+      "nameID": 6105906,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 6,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105907,
+      "nameID": 6105907,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 7,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105908,
+      "nameID": 6105908,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 8,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105909,
+      "nameID": 6105909,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 9,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105910,
+      "nameID": 6105910,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 10,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105911,
+      "nameID": 6105911,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 11,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 6105912,
+      "nameID": 6105912,
+      "sdPortrait": 1306,
+      "appearance": "1306_Thumb_DiscipleAppearance",
+      "characterId": 12,
+      "unitScriptID": "1326",
+      "rank": 3,
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER",
+        "THUMB_FINGER_DISCIPLE_ENEMY"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1068,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [
+        9572605,
+        9572606
+      ],
+      "slotWeightConditionList": "Default2",
+      "hp": {
+        "defaultStat": 384,
+        "incrementByLevel": 18.52
+      },
+      "initBuffList": [],
+      "defCorrection": 2,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          50
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.25
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 9572601,
+          "number": 1
+        },
+        {
+          "skillId": 9572602,
+          "number": 0
+        },
+        {
+          "skillId": 9572603,
+          "number": 0
+        },
+        {
+          "skillId": 9572604,
+          "number": 0
+        },
+        {
+          "skillId": 9572605,
+          "number": 0
+        },
+        {
+          "skillId": 9572606,
+          "number": 0
+        }
+      ]
+    }
+  ]
+}

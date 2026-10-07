@@ -1,0 +1,136 @@
+{
+  "list": [
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511501,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511502,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511503,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511504,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511505,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511506,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511507,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511508,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511509,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511510,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511511,
+      "canVanish": false,
+      "defCorrection": 0
+    },
+    {
+      "isDestroyable": false,
+      "canChangeSpriteOnDestoryed": false,
+      "spreadMpEffectToAbnormality": true,
+      "nameID": 999999,
+      "partType": "BODY",
+      "skillCancelable": false,
+      "id": 9511512,
+      "canVanish": false,
+      "defCorrection": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "chapterId": 2,
+  "subchapterId": 94262003,
+  "nodeId": 94262003,
+  "storyIdInTheaterData": 0,
+  "isUnlockByUnlockCode": false,
+  "unlockCode": 101,
+  "relatedData": {
+    "chapterId": 2,
+    "subchapterId": 0,
+    "nodeId": 0
+  },
+  "uiConfig": {
+    "customChapterText": "管制员 · 独立测试",
+    "chapterTagIconType": "BATTLE",
+    "region": "p",
+    "mapAreaId": 101,
+    "timeLine": "PLAYGROUND",
+    "illustId": "story-id_E041X"
+  },
+  "type": "STAGE_NODE"
+}

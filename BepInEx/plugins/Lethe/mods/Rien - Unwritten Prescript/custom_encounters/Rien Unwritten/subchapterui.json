@@ -1,0 +1,24 @@
+{
+  "chapterId": 2,
+  "subchapterId": 94247001,
+  "nodeId": 94247001,
+  "storyIdInTheaterData": 0,
+  "isUnlockByUnlockCode": false,
+  "unlockCode": 101,
+  "relatedData": {
+    "chapterId": 2,
+    "subchapterId": 0,
+    "nodeId": 0
+  },
+  "uiConfig": {
+    "customChapterText": "里恩 · 未竟之谕",
+    "chapterTitleText": "里恩 · 未竟之谕",
+    "descriptionText": "镜牢演出与7槽；10500体力。未削弱敌方版：所有技能基础威力+5、硬币威力累计+3（本次再+2）；违谕刻痕和独行质询保留，不赠送共享安瓿，无助战。鸿路人格与削弱版不变。 新增可见被动“不可预知的变化无常”：加护提高攻等与攻击减伤，业削弱额外档位；保底+6攻等/20%减伤。",
+    "chapterTagIconType": "BATTLE",
+    "region": "p",
+    "mapAreaId": 101,
+    "timeLine": "PLAYGROUND",
+    "illustId": "story-id_E041X"
+  },
+  "type": "STAGE_NODE"
+}

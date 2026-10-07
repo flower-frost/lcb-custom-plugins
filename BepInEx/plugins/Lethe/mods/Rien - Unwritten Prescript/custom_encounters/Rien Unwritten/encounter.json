@@ -1,0 +1,47 @@
+{
+  "id": 94247001,
+  "stageLevel": 85,
+  "isBatonPassOn": false,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 7
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp9_HouseSpidersRoooftopAshes",
+        "mapSize": 33.33
+      },
+      "unitList": [
+        {
+          "unitID": 9461,
+          "unitCount": 1,
+          "unitLevel": 85
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp9_Boss_10"
+      ],
+      "enemyPositionID": 178,
+      "assistantUnitList": [],
+      "supportUnitList": [],
+      "subUnitList": []
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 85,
+  "turnLimit": 999,
+  "questlist": [
+    {
+      "args": [
+        "10"
+      ],
+      "localizeId": 1
+    }
+  ],
+  "rewardList": [],
+  "stageScriptList": [
+    "10950Mirror"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "chapterId": 2,
+  "subchapterId": 94244001,
+  "nodeId": 94244001,
+  "storyIdInTheaterData": 0,
+  "isUnlockByUnlockCode": false,
+  "unlockCode": 101,
+  "relatedData": {
+    "chapterId": 2,
+    "subchapterId": 0,
+    "nodeId": 0
+  },
+  "uiConfig": {
+    "customChapterText": "9-44：中指二战",
+    "chapterTagIconType": "BATTLE",
+    "region": "p",
+    "mapAreaId": 101,
+    "timeLine": "PLAYGROUND",
+    "illustId": "story-id_E041X",
+    "chapterTitleText": "9-44：中指二战",
+    "descriptionText": "保留原版强度。完整撑过过人的毅力三回合后敌方撤离，我方获胜；无摩西动画、助战或安瓿。",
+    "iconId": "",
+    "bgmId": ""
+  },
+  "type": "STAGE_NODE",
+  "isHidden": false,
+  "requireClearNodeList": [],
+  "requireItemList": [],
+  "rewardList": [],
+  "eventScriptList": []
+}

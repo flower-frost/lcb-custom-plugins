@@ -1,0 +1,56 @@
+{
+  "id": 94244002,
+  "stageLevel": 60,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 6
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0,
+    "defaultPosZ": 40
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp9_Middlefinger",
+        "mapSize": 33
+      },
+      "unitList": [
+        {
+          "unitID": 1341,
+          "unitCount": 1,
+          "unitLevel": 85
+        },
+        {
+          "unitID": 1342,
+          "unitCount": 1,
+          "unitLevel": 65
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp9_Boss_3_2"
+      ],
+      "enemyPositionID": 163
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 60,
+  "turnLimit": 999,
+  "questlist": [
+    {
+      "args": [
+        "10"
+      ],
+      "localizeId": 1
+    }
+  ],
+  "rewardList": [],
+  "stageScriptList": [
+    "1341"
+  ],
+  "includeBoss": 1,
+  "effectiveResistCondition": 1.2,
+  "isBatonPassOn": false
+}

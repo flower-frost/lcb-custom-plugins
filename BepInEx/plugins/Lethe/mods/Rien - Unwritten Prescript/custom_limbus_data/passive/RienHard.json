@@ -1,0 +1,225 @@
+{
+  "list": [
+    {
+      "id": 946192,
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946190,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 946205,
+      "controlValueList": [
+        30
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946204,
+      "importanceLevel": 2,
+      "controlValueList": [
+        15,
+        8,
+        12
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946203,
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946202,
+      "controlValueList": [
+        5,
+        2,
+        3
+      ],
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946201,
+      "importanceLevel": 1,
+      "controlValueList": [
+        10
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946191,
+      "attributeStockCondition": [],
+      "requireIDList": []
+    },
+    {
+      "id": 946106,
+      "controlValueList": [
+        15
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946105,
+      "controlValueList": [
+        5
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946104,
+      "importanceLevel": 2,
+      "controlValueList": [
+        10,
+        8
+      ],
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946103,
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946102,
+      "controlValueList": [
+        3,
+        1,
+        2,
+        4
+      ],
+      "importanceLevel": 3,
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946101,
+      "controlValueList": [
+        45
+      ],
+      "importanceLevel": 1,
+      "attributeStockCondition": [],
+      "requireIDList": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946180,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:OnInit/LUA:RienHard/LUAMAIN:rien_hard_init()",
+        "Modular/TIMING:RoundStart/LUA:RienHard/LUAMAIN:rien_hard_round(1)",
+        "Modular/TIMING:EndBattle/LUA:RienHard/LUAMAIN:rien_hard_pursuit(1)"
+      ],
+      "attributeStockCondition": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946181,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:StartDuel/LUA:RienHard/LUAMAIN:rien_hard_clash(1)",
+        "Modular/TIMING:DefeatDuel/LUA:RienHard/LUAMAIN:rien_hard_defeated()"
+      ],
+      "attributeStockCondition": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946182,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:WhenUse/LUA:RienHard/LUAMAIN:rien_hard_damage(1)"
+      ],
+      "attributeStockCondition": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946280,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:RoundStart/LUA:RienHard/LUAMAIN:rien_hard_round(2)",
+        "Modular/TIMING:EndBattle/LUA:RienHard/LUAMAIN:rien_hard_pursuit(2)"
+      ],
+      "attributeStockCondition": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946281,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:StartDuel/LUA:RienHard/LUAMAIN:rien_hard_clash(2)",
+        "Modular/TIMING:DefeatDuel/LUA:RienHard/LUAMAIN:rien_hard_defeated()"
+      ],
+      "attributeStockCondition": [],
+      "useUnlock": false
+    },
+    {
+      "id": 946282,
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:WhenUse/LUA:RienHard/LUAMAIN:rien_hard_damage(2)"
+      ],
+      "attributeStockCondition": [],
+      "useUnlock": false
+    },
+    {
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:OnInit/LUA:RienSolo/LUAMAIN:rien_solo_init()",
+        "Modular/TIMING:RoundStart/LUA:RienSolo/LUAMAIN:rien_solo_round()",
+        "Modular/TIMING:EndBattle/LUA:RienSolo/LUAMAIN:rien_solo_end()",
+        "Modular/TIMING:DefeatDuel/LUA:RienSolo/LUAMAIN:rien_solo_win()"
+      ],
+      "attributeStockCondition": [],
+      "id": 946183,
+      "useUnlock": false
+    },
+    {
+      "importanceLevel": 3,
+      "requireIDList": [
+        "Modular/TIMING:RoundStart/LUA:RienSolo/LUAMAIN:rien_solo_round()",
+        "Modular/TIMING:EndBattle/LUA:RienSolo/LUAMAIN:rien_solo_end()",
+        "Modular/TIMING:DefeatDuel/LUA:RienSolo/LUAMAIN:rien_solo_win()"
+      ],
+      "attributeStockCondition": [],
+      "id": 946283,
+      "useUnlock": false
+    },
+    {
+      "requireIDList": [],
+      "importanceLevel": 1,
+      "attributeStockCondition": [],
+      "id": 946184,
+      "useUnlock": false
+    },
+    {
+      "requireIDList": [],
+      "importanceLevel": 1,
+      "attributeStockCondition": [],
+      "id": 946284,
+      "useUnlock": false
+    }
+  ]
+}

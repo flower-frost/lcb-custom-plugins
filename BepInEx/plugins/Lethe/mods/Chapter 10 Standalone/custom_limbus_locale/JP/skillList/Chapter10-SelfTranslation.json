@@ -1,0 +1,849 @@
+{
+  "148104": {
+    "id": "148104",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "猛冲",
+        "desc": "[WhenUse] 目标每有4点（[Vibration]+[Sinking]）强度，最终威力+1（最多+3）\n[WhenUse] 自身体力低于50%时，获得以下效果：\n- 此技能额外施加2点[Vibration]强度与2层[Vibration]\n- 最后一枚硬币变为[SuperCoin]；该硬币命中时触发[VibrationExplosion]，随后使目标的[Vibration]层数减少1",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Vibration]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使[Vibration]层数增加1",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148106": {
+    "id": "148106",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "响彻楼层",
+        "desc": "[CantChangeTarget]\n优先以恐慌状态的单位为目标\n持有[ReliefSense]的罪人可以将此技能的攻击目标更改为自身\n[WhenUse] 若目标未持有[ReliefSense]，攻击权重+2\n[WhenUse] 主目标每有4点（[Vibration]+[Sinking]）强度，最终威力+1（最多+4）\n[DefeatDuel] 获得以下效果：\n- 造成的伤害-50%\n- 此技能造成的伤害不会使目标陷入混乱，命中时不触发目标的[Sinking]效果",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使[Sinking]层数增加2",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加等同于[UnresolvedFeelings]层数的[Sinking]强度（最多15）",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "149701": {
+    "id": "149701",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "无力的招引",
+        "desc": "",
+        "flavor": "……牵住我的手。",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "148102": {
+    "id": "148102",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "警告广播",
+        "desc": "[CantChangeTarget]\n- [Wariness]层数与被指定罪人相同的罪人，可以无视速度将此技能的攻击目标更改为自身\n优先以[Wariness]层数最多的单位为目标\n此技能不会触发目标的防御技能\n[EndSkill] 消耗目标的所有[Wariness]",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 造成（目标理智值+45）点理智伤害，并于下回合施加1层[HorribleTerror]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148108": {
+    "id": "148108",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "响彻楼层",
+        "desc": "[CantChangeTarget]\n优先以恐慌状态的单位为目标\n持有[ReliefSense]的罪人可以将此技能的攻击目标更改为自身\n此技能不会触发目标的防御技能\n可无视速度与此技能拼点\n[WhenUse] 攻击权重+3\n- 主目标每有1层[ReliefSense]，上述攻击权重增量减少1\n[WhenUse] 获得以下效果：\n- 主目标每有4点（[Vibration]+[Sinking]）强度，最终威力+1（最多+4）\n- 主目标每有3层[Wariness]，拼点威力+1（最多+3）\n- 造成的伤害增加（目标[Wariness]层数×10）%（最多100%，对每个目标分别计算）\n[DefeatDuel] 造成的伤害-50%；此技能造成的伤害不会使目标陷入混乱，命中时不触发目标的[Sinking]效果",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使[Sinking]层数增加3",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加等同于[UnresolvedFeelings]层数的[Sinking]强度（最多15）",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加等同于[UnresolvedFeelings]层数的[Sinking]强度（最多15）",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148105": {
+    "id": "148105",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "碾压猛冲",
+        "desc": "[WhenUse] 目标每有4点（[Vibration]+[Sinking]）强度，最终威力+1（最多+3）\n[WhenUse] 自身体力低于50%时，获得以下效果：\n- 此技能额外施加2点[Vibration]强度与2层[Vibration]\n- 第2、3枚硬币变为[SuperCoin]；第2枚硬币命中时触发[VibrationExplosion]，随后使目标的[Vibration]层数减少1",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加1点[Vibration]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使[Vibration]层数增加2",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 触发[VibrationExplosion]，随后使目标的[Vibration]层数减少1",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148401": {
+    "id": "148401",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "呃啊……",
+        "desc": "[WhenUse] 目标每有4点[Laceration]，最终威力+1（最多+2）\n[WhenUse] 若目标未持有[Laceration]，造成的伤害-80%，此技能的所有硬币变为[SuperCoin]\n[WinDuel] 随机移除目标的1种正面效果（充能、呼吸除外），随后获得1层[Nutrition]",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加3点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加2层[BloodyMucus]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148409": {
+    "id": "148409",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "吃的……什么都好……",
+        "desc": "[WhenUse] 主目标每有4点[Laceration]，最终威力+1（最多+2）\n[WinDuel] 使自身[ChargeRouge]层数增加3",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 下回合施加2层[Binding]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148411": {
+    "id": "148411",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "不……不要……",
+        "desc": "[CanDuelGuard]\n[SupportProtect]专用技能\n[WhenUse] 获得（自身[ChargeRouge]层数×10）点护盾\n[WinDuel] 使自身[ChargeRouge]层数增加3",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148404": {
+    "id": "148404",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "好……冷……",
+        "desc": "优先以当前体力最低的单位为目标\n目标每损失1%体力，造成的伤害+5%（最多250%）\n[WhenUse] 目标每有4点[Laceration]，最终威力+2（最多+4）\n[WhenUse] 若目标体力低于50%，基础威力+3\n[WinDuel] 随机移除目标的1种正面效果（充能、呼吸除外），获得2层[Nutrition]\n[DefeatDuel] 造成的伤害-80%，此技能造成的伤害不会使目标陷入混乱",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加4点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加2层[BloodyMucus]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148109": {
+    "id": "148109",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "砰！咚！轰隆隆！轰——！",
+        "desc": "此技能不会触发目标的防御技能\n可无视速度与此技能拼点\n[StartBattle] 获得100点护盾\n- 自身每损失1%体力，额外获得4点护盾（最多额外400）\n- 攻击前，若护盾未被击破，每剩余100点护盾，重复使用最后一枚硬币1次（最多3次）\n[WhenUse] 获得以下效果：\n- 主目标每有6点（[Vibration]+[Sinking]）强度，最终威力与硬币威力各+1（各最多+4）\n- 主目标每有2层[Wariness]，拼点威力+1（最多+5）\n- 造成的伤害增加（目标[Wariness]层数×10）%（最多100%，对每个目标分别计算）\n[DefeatDuel] 造成的伤害-75%；此技能造成的伤害不会使目标陷入混乱，命中时不触发目标的[Sinking]效果",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加（[UnresolvedFeelings]层数/2）点[Sinking]（最多15）",
+                "summary": ""
+              },
+              {
+                "desc": "[ReUseOnSucceedAttack] 若目标未持有[ReliefSense]，施加1层[Wariness]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148103": {
+    "id": "148103",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "感谢您……倾听……",
+        "desc": "[CantChangeTarget]\n- [ReliefSense]层数与被指定罪人相同的罪人，可以无视速度将此技能的攻击目标更改为自身\n优先以[ReliefSense]层数最多的单位为目标\n[DefeatDuel] 受到与此技能拼点的技能造成的伤害+150%\n[EndSkill] 移除目标的所有[ReliefSense]",
+        "flavor": "心醉神迷的形态各异，途径与结局亦不相同。唯有那一刻始终如一：心扉敞开，也因此露出了破绽。",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "148403": {
+    "id": "148403",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "噗……呸……",
+        "desc": "[WhenUse] 主目标每有4点[Laceration]，最终威力+1（最多+3）\n[WhenUse] 若主目标未持有[Laceration]，造成的伤害-80%，此技能的所有硬币变为[SuperCoin]",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 随机移除目标的1种正面效果（充能、呼吸除外），获得1层[Nutrition]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148407": {
+    "id": "148407",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "走……开……",
+        "desc": "[WhenUse] 目标每有4点[Laceration]，最终威力+1（最多+2）\n[WinDuel] 使自身[ChargeRouge]层数增加3",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加3点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 下回合施加2层[Binding]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148101": {
+    "id": "148101",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "顾客广播",
+        "desc": "与可拼点的防御技能拼点时，拼点威力+20\n此技能不会触发目标的防御技能\n此技能造成的伤害为0\n[DefeatDuel] 对目标施加10层[Wariness]",
+        "flavor": "请听……聆听那道声音……",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 移除目标的所有[Wariness]，并施加1层[ReliefSense]（每名罪人每回合限1次）",
+                "summary": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "148410": {
+    "id": "148410",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "听见了……那道声音……",
+        "desc": "[WhenUse] 主目标每有6点[Laceration]，硬币威力+1（最多+2）\n[WhenUse] 自身[ChargeRouge]层数低于15时，将其补足至15层；通过此效果每获得5层[ChargeRouge]，下回合获得1层[BuffetFailed]\n[DefeatDuel] 造成的伤害-80%，此技能造成的伤害不会使目标陷入混乱",
+        "flavor": "这座百货商店中栖居着许多声音。此刻响起的，又属于谁？",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 使[Laceration]层数增加3",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "148408": {
+    "id": "148408",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "我……好饿……",
+        "desc": "[WhenUse] 目标每有4点[Laceration]，最终威力+1（最多+2）\n[WinDuel] 使自身[ChargeRouge]层数增加3",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 下回合施加2层[Binding]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148402": {
+    "id": "148402",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "唔呃……",
+        "desc": "[WhenUse] 目标每有4点[Laceration]，最终威力+1（最多+2）\n[WhenUse] 若目标未持有[Laceration]，造成的伤害-80%，此技能的所有硬币变为[SuperCoin]",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 随机移除目标的1种正面效果（充能、呼吸除外），获得1层[Nutrition]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148107": {
+    "id": "148107",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "砰！咚！轰隆隆！",
+        "desc": "可无视速度与此技能拼点\n[StartBattle] 获得100点护盾\n- 自身每损失1%体力，额外获得4点护盾（最多额外200）\n- 攻击前，若护盾未被击破，每剩余100点护盾，重复使用最后一枚硬币1次（最多2次）\n[WhenUse] 主目标每有6点（[Vibration]+[Sinking]）强度，最终威力与硬币威力各+1（各最多+4）\n[DefeatDuel] 获得以下效果：\n- 造成的伤害-75%\n- 此技能造成的伤害不会使目标陷入混乱，命中时不触发目标的[Sinking]效果",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加（[UnresolvedFeelings]层数/3）点[Sinking]（最多10）",
+                "summary": ""
+              },
+              {
+                "desc": "[ReUseOnSucceedAttack] 若目标未持有[ReliefSense]，施加1层[Wariness]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148413": {
+    "id": "148413",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "我……是什么……？",
+        "desc": "[WhenUse] 主目标每有4点[Laceration]，最终威力+1（最多+3）\n[WhenUse] 自身[ChargeRouge]层数不低于10时，消耗10层[ChargeRouge]，硬币威力+2\n[DefeatDuel] 造成的伤害-80%，此技能造成的伤害不会使目标陷入混乱",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加3点[Laceration]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加3点[Laceration]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 下回合施加4层[Binding]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148406": {
+    "id": "148406",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "好饿……好冷……好痛……！",
+        "desc": "优先以当前体力最低的单位为主目标\n目标每损失1%体力，造成的伤害+1%（最多30%）\n[WhenUse] 主目标每有6点[Laceration]，硬币威力+1（最多+2）\n[WhenUse] 若主目标体力低于50%，基础威力+2\n[WhenUse] 自身[ChargeRouge]层数不低于10时，消耗自身所有[ChargeRouge]，硬币威力+2，攻击权重+2\n[DefeatDuel] 造成的伤害-95%，此技能造成的伤害不会使目标陷入混乱",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 使[Laceration]层数增加3",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加6点[Laceration]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标的[Laceration]效果生效1次，随后使其[Laceration]层数减少1",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标的[Laceration]效果生效1次，随后使其[Laceration]层数减少1",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标的[Laceration]效果生效1次，随后使其[Laceration]层数减少1",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148412": {
+    "id": "148412",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "我……想要……",
+        "desc": "自身[Laceration]强度不低于6时，硬币威力+1\n[WhenUse] 主目标每有4点[Laceration]，最终威力+2（最多+4）\n[DefeatDuel] 使自身[ChargeRouge]层数减少2\n[DefeatDuel] 造成的伤害-80%，此技能造成的伤害不会使目标陷入混乱",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 使[Laceration]层数增加2",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  },
+  "148405": {
+    "id": "148405",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "好痛……！身体……不听使唤……",
+        "desc": "优先以当前体力最低的单位为主目标\n目标每损失3%体力，造成的伤害+5%（最多50%）\n[WhenUse] 主目标每有4点[Laceration]，最终威力+2（最多+4）\n[WhenUse] 若主目标体力低于50%，基础威力+2\n[WinDuel] 随机移除主目标的1种正面效果（充能、呼吸除外），获得2层[Nutrition]\n[DefeatDuel] 造成的伤害-80%，此技能造成的伤害不会使目标陷入混乱",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加2点[Laceration]",
+                "summary": ""
+              },
+              {
+                "desc": "[OnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 施加1层[BloodyMucus]",
+                "summary": ""
+              }
+            ]
+          }
+        ],
+        "flavor": ""
+      }
+    ]
+  }
+}

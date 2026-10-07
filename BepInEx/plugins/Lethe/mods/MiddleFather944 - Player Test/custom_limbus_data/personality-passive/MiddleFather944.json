@@ -1,0 +1,820 @@
+{
+  "list": [
+    {
+      "personalityID": 6105501,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105502,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105503,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105504,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105500,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105506,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105507,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105508,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105509,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105510,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105511,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105512,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105601,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105602,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105603,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105604,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105605,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105606,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105607,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105608,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105609,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105610,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105611,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105612,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            134201,
+            134202,
+            132802,
+            132803,
+            132804,
+            134203
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105701,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105702,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105703,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105704,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105705,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105706,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105707,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105708,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105709,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105710,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105711,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    },
+    {
+      "personalityID": 6105712,
+      "battlePassiveList": [
+        {
+          "passiveIDList": [
+            132701,
+            132702,
+            132703,
+            132704,
+            134101,
+            134102,
+            132708
+          ],
+          "level": 1
+        }
+      ],
+      "supporterPassiveList": [
+        {
+          "passiveIDList": [],
+          "level": 3
+        }
+      ]
+    }
+  ]
+}

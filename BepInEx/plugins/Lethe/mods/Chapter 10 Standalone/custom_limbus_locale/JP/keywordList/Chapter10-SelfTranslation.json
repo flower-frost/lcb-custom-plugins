@@ -1,0 +1,107 @@
+{
+  "ChargeRouge": {
+    "name": "搏动",
+    "desc": "- 特殊充能\n- 层数上限：20\n- 对增加或减少充能强度及层数的效果，视为普通充能\n- 回合结束时，层数减少1",
+    "flavor": "血肉的收缩与舒张，鲜血的奔流，以及由此迸发的力量。",
+    "id": "ChargeRouge",
+    "summary": ""
+  },
+  "UnresolvedFeelings": {
+    "name": "层叠拼布",
+    "desc": "- 层数上限：30\n- 防御等级增加等同于层数的数值\n- 被持有[ReliefSense]的目标命中时，减少等同于目标[ReliefSense]层数的层数（每个人格每回合限2次）\n- 使用“感谢您……倾听……”拼点失败时，层数减少5",
+    "flavor": "讽刺的是，重重厚毯将它裹住，也让它再听不进任何声音。",
+    "id": "UnresolvedFeelings",
+    "summary": ""
+  },
+  "Wariness": {
+    "name": "戒备",
+    "desc": "- 层数上限：10\n- 攻击等级与防御等级各降低等同于层数的数值\n- 自身拼点失败时，层数减少3",
+    "flavor": "令人戒备的并非声音的陌生，而是它正在叩响心门。",
+    "id": "Wariness",
+    "summary": ""
+  },
+  "ReliefSense": {
+    "name": "倾听的谢礼",
+    "desc": "- 层数上限：3\n- 回合开始时，层数增加1，恢复10点理智\n- 使用技能攻击本关首领时，造成的伤害增加（层数×50）%；该技能攻击结束后，此效果消失\n- 达到3层时，自身造成的伤害无视[UnresolvedFeelings]提供的防御等级",
+    "flavor": "感谢您……倾听……",
+    "id": "ReliefSense",
+    "summary": ""
+  },
+  "HorribleTerror": {
+    "name": "骇人的无限重播",
+    "desc": "- 层数上限：1\n- 回合开始时，若自身处于E.G.O侵蚀状态，本回合对所有目标造成的伤害-50%\n- 回合结束时，受到50%体力伤害，随后此效果消失（向下取整，此伤害不会使自身陷入混乱）",
+    "flavor": "直到您倾听……直到您真正听见大百货店的广播……一遍……又一遍……请听……",
+    "id": "HorribleTerror",
+    "summary": ""
+  },
+  "HorribleEat": {
+    "name": "重播复重播",
+    "desc": "- 层数上限：15\n- 攻击等级增加等同于层数的数值",
+    "flavor": "广播反复播放，直到所有人都能听见。它化作回声，回声又不断重复，直至共鸣。",
+    "id": "HorribleEat",
+    "summary": ""
+  },
+  "Nutrition": {
+    "name": "夺来的某物",
+    "desc": "- 层数上限：5\n- 回合结束时，下回合使[ChargeRouge]层数增加（本效果层数×2），随后此效果消失\n- 此效果消失时若已达到层数上限，下回合所有部位获得等同于核心体力3%的护盾（此护盾不会在回合结束时消失）",
+    "flavor": "他人手中一切令人渴求之物，本就应当归我所有。这并非掠夺，只是物归原主。",
+    "id": "Nutrition",
+    "summary": ""
+  },
+  "Gourmandise": {
+    "name": "失控的暴走",
+    "desc": "- 初始层数：3\n- 自身每有3点[Laceration]，造成的伤害+5%（最多30%）\n- 所有部位不会陷入混乱，受到的[Laceration]伤害-75%\n- 回合结束时，层数减少1\n- 此效果消失时，消耗所有[ChargeRouge]层数",
+    "flavor": "每一块彼此不属的血肉都在痉挛，企图挣脱身体。讽刺的是，失控的暴走反而将它们维系在一起。",
+    "id": "Gourmandise",
+    "summary": ""
+  },
+  "BuffetSick": {
+    "name": "苦痛囊",
+    "desc": "- 层数上限：30\n- 回合结束时，若[Gourmandise]消失，此效果也随之消失；每有5层，下回合获得1层[Vulnerable]",
+    "flavor": "所有痛苦的感受，都汇入这枚器官。\n当它破裂，理性将被淹没，只剩最纯粹的痛楚。",
+    "id": "BuffetSick",
+    "summary": ""
+  },
+  "SavePlacenta": {
+    "name": "自保",
+    "desc": "- 命脐即将受到敌方单方面攻击时，消耗1层，将该攻击目标改为躯干，随后使用支援防御专用技能\n- 回合结束时，此效果消失",
+    "flavor": "",
+    "id": "SavePlacenta",
+    "summary": ""
+  },
+  "BloodyMucus": {
+    "name": "洗礼[绯红]",
+    "desc": "- 层数上限：5\n- 自身每有3点[Laceration]强度，攻击等级+1（最多+3）\n- 达到层数上限时，受到的[Laceration]伤害翻倍，但不会因[Laceration]伤害死亡\n- 使用基础攻击技能时，使自身[Laceration]层数增加（本效果层数×2）\n- 使用E.G.O技能或防御技能时，本效果层数减少3",
+    "flavor": "“以鲜血为肉身施洗。”",
+    "id": "BloodyMucus",
+    "summary": ""
+  },
+  "DeterioratingBody": {
+    "name": "本能的恋生",
+    "desc": "- 层数上限：5\n- 体力不会低于1\n- 被命中时，层数减少1（每个技能限2次）\n- 回合结束时，层数减少1；此效果消失时，自身死亡",
+    "flavor": "求生的本能如此顽强，但终究，会迎来不得不松手的时刻。",
+    "id": "DeterioratingBody",
+    "summary": ""
+  },
+  "BuffetFailed": {
+    "name": "衰竭",
+    "desc": "- 层数上限：3\n- 每层使最小速度与最大速度各-1\n- 回合开始时，获得1层[Vulnerable]\n- 回合结束时，层数减少1\n（对所有部位生效）",
+    "flavor": "每次爆发之后，都是极限。世界索取的代价，总与爆发的力道和速度相称。",
+    "id": "BuffetFailed",
+    "summary": ""
+  },
+  "EarlyBuffet_LowMorale": {
+    "name": "内在分裂",
+    "desc": "- 畏缩\n- 防御等级-3\n- 攻击等级+3\n- 与持有5层[BloodyMucus]的目标拼点时，拼点威力+2",
+    "flavor": "为什么……？我怎么会……存在于此？我……是什么？",
+    "id": "EarlyBuffet_LowMorale",
+    "summary": ""
+  },
+  "EarlyBuffet_Panic": {
+    "name": "内在分裂",
+    "desc": "- 恐慌\n- 防御等级-5\n- 攻击等级+3\n- 造成的伤害+10%\n- 与持有不低于3层[BloodyMucus]的目标拼点时，拼点威力+3",
+    "flavor": "为什么……？我怎么会……存在于此？我……是什么？",
+    "id": "EarlyBuffet_Panic",
+    "summary": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "chapterId": 2,
+  "subchapterId": 94242001,
+  "nodeId": 94242001,
+  "storyIdInTheaterData": 0,
+  "isUnlockByUnlockCode": false,
+  "unlockCode": 101,
+  "relatedData": {
+    "chapterId": 2,
+    "subchapterId": 0,
+    "nodeId": 0
+  },
+  "uiConfig": {
+    "customChapterText": "9-42：卢西奥与瓦伦希娜",
+    "chapterTagIconType": "BATTLE",
+    "region": "p",
+    "mapAreaId": 101,
+    "timeLine": "PLAYGROUND",
+    "illustId": "story-id_E041X",
+    "chapterTitleText": "",
+    "descriptionText": "",
+    "iconId": "",
+    "bgmId": ""
+  },
+  "type": "STAGE_NODE",
+  "isHidden": false,
+  "requireClearNodeList": [],
+  "requireItemList": [],
+  "rewardList": [],
+  "eventScriptList": []
+}

@@ -1,0 +1,8 @@
+{
+  "CodexMirrorFreeClash": {
+    "id": "CodexMirrorFreeClash",
+    "name": "自由拼点",
+    "desc": "连接攻击技能时，可无视速度值，将敌方攻击技能的目标改为自身。仅在独立 9-42 生效。不会额外增加威力、防御、挑衅或混乱抗性。",
+    "summary": "无视速度值抢夺拼点"
+  }
+}

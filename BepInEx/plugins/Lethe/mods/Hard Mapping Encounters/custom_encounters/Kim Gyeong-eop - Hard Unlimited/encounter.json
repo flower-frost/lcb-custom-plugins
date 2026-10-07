@@ -1,0 +1,88 @@
+{
+  "id": 94254001,
+  "stageLevel": 50,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 7
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0,
+    "defaultPosZ": 10
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp9.5-2_FathomsBackstreetS",
+        "mapSize": 30
+      },
+      "unitList": [
+        {
+          "unitID": 5017,
+          "unitCount": 2,
+          "unitLevel": 50,
+          "isHide": true
+        },
+        {
+          "unitID": 5018,
+          "unitCount": 1,
+          "unitLevel": 50,
+          "isHide": true
+        },
+        {
+          "unitID": 5012,
+          "unitCount": 1,
+          "unitLevel": 66
+        }
+      ],
+      "subUnitList": [
+        {
+          "unitID": 5014,
+          "unitCount": 1,
+          "unitLevel": 60,
+          "isHide": true
+        },
+        {
+          "unitID": 5015,
+          "unitCount": 1,
+          "unitLevel": 50,
+          "isHide": true
+        },
+        {
+          "unitID": 5016,
+          "unitCount": 1,
+          "unitLevel": 50,
+          "isHide": true
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp9_5_Mnestic_Enemy_2",
+        "Battle_Cp9_5_Mnestic_Enemy_1",
+        "Battle_Cp9_5_Mnestic_Boss_1"
+      ],
+      "enemyPositionID": 221,
+      "allyPositionID": 222,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "stageScriptList": [
+    "ExmeLevelBuffConverter",
+    "5012",
+    "5012FirstPhase",
+    "145202",
+    "1450BuffConverter",
+    "1451ChangeMapByStance"
+  ],
+  "recommendedLevel": 60,
+  "uiConfigs": {
+    "recommendSyncLevel": 4
+  },
+  "staminaCost": 0,
+  "turnLimit": 2147483647,
+  "questlist": [],
+  "rewardList": [],
+  "story": {},
+  "isBatonPassOn": true
+}

@@ -1,0 +1,56 @@
+{
+  "id": 94263007,
+  "stageLevel": 65,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "max": 12,
+    "min": 1
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0.0677,
+    "defaultPosY": 0.0677,
+    "defaultPosZ": -10
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp10_C_WardenPhase1"
+      },
+      "unitList": [
+        {
+          "unitID": 1485,
+          "unitCount": 1,
+          "unitLevel": 90
+        }
+      ],
+      "subUnitList": [
+        {
+          "unitID": 1520,
+          "unitCount": 1,
+          "unitLevel": 1
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp10_Boss_2-1",
+        "Battle_Cp10_Boss_7",
+        "Battle_Cp10_Boss_8",
+        "Battle_Cp10_Boss_13"
+      ],
+      "enemyPositionID": 250,
+      "allyPositionID": 279,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 65,
+  "turnLimit": 99,
+  "questlist": [],
+  "rewardList": [],
+  "story": {},
+  "isBatonPassOn": false,
+  "stageScriptList": [
+    "1485",
+    "1485ProduceSystem"
+  ]
+}

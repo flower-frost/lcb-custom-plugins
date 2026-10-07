@@ -1,0 +1,582 @@
+{
+  "9574108": {
+    "id": "9574108",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "预知",
+        "desc": "本技能成功闪避一个技能的所有硬币时，对攻击者使用“解兔”进行单方面攻击\n[WhenUse]<color=#ff6000><mark=#ff000040><b><u> 自身每带有2层[FutureEyeOn]，使本技能的基础威力+1</u></b></mark></color>\n[WhenUse] 使自身[FullReload](每回合最多1次)\n[OnSucceedEvade] 使自身增加3级[Breath]强度(每回合最多2次)\n[OnSucceedEvade] 使自身恢复2点理智值(每回合最多5次)\n[OnDefeatEvade] 使自身失去5点理智值",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9574104": {
+    "id": "9574104",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "解鹿",
+        "desc": "若自身的[Breath]强度不低于6级，则使本技能的硬币威力+1\n目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的硬币威力+1(最多+2)\n[WhenUse] 若自身的理智值不低于0点，则生成1层望\n- 使本技能的基础威力+4\n[WhenUse] 使自身获得3层[Breath]\n[WinDuel] 使自身增加5级[Breath]强度\n[EndSkill] 若本技能生成了望，则消耗自身10点理智值",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度并对其施加3层[Vibration]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标[Switch_Vibration]为[VibrationIgnition]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层"
+              },
+              {
+                "desc": "[CriticalOnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9574101": {
+    "id": "9574101",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "切割攻击",
+        "desc": "若自身的[Breath]强度不低于6级，则使本技能的硬币威力+1\n若目标的[Vibration]强度不低于6级，则使本技能的拼点威力+1",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度并对其施加2层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 对目标造成相当于其[Combustion]强度的暴怒伤害"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9572601": {
+    "id": "9572601",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "巴勒莫之剑",
+        "desc": "若目标的[Vibration]强度不低于6级，则使本技能的拼点威力+1",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9572602": {
+    "id": "9572602",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "纵斩",
+        "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的基础威力+1(最多+2)",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 对目标施加2层[Vibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度并对其施加2层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度并对其施加2层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9574106": {
+    "id": "9574106",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "解象",
+        "desc": "若自身的[Breath]强度不低于6级，则使本技能的硬币威力+1\n目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的硬币威力+1(最多+2)\n[WhenUse] 使自身获得3层[Breath]\n[DefeatDuel] 使本技能造成的最终伤害-50%，且不会触发暴击\n使本技能造成的伤害不会使目标陷入混乱",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "消耗[AccelBullet]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加4级[Combustion]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加4级[Vibration]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "消耗[AccelBullet]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 对目标施加4层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 对目标施加4层[Vibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "消耗[AccelBullet]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标[Switch_Vibration]为[VibrationIgnition]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 对目标造成相当于其[Combustion]强度的暴怒伤害"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层"
+              },
+              {
+                "desc": "[CriticalOnSucceedAttack] 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9574105": {
+    "id": "9574105",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "我很乐意用这颗子弹将你洞穿",
+        "desc": "若自身的[Breath]强度不低于6级，则使本技能的硬币威力+1\n目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的硬币威力+1(最多+2)\n[WhenUse] 使自身获得3层[Breath]",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "消耗[AccelBullet]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度并对其施加2层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "消耗[AccelBullet]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度并对其施加2层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 对目标造成相当于其[Combustion]强度的暴怒伤害"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+              },
+              {
+                "desc": "[CriticalOnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9572603": {
+    "id": "9572603",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "猎人",
+        "desc": "目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的硬币威力+1(最多+2)\n\n[WhenUse] 若目标带有[DuelEdge]，则使本技能的所有硬币转化为[SuperCoin]",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标以[VibrationIgnition][FusionVibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+              },
+              {
+                "desc": "[OnSucceedAttackHead] 下回合使自身获得2层[Agility]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9572606": {
+    "id": "9572606",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "我将守护。",
+        "desc": "[CanDuelGuard]\n[SupportProtect]专用技能\n自身每带有1层[SupportProtect]，使自身受到的伤害-20%\n[WhenUse] 使友方单位恢复8点理智值\n[DefeatDuel] 下回合对自身施加1层[Vulnerable]",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9574103": {
+    "id": "9574103",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "解兔",
+        "desc": "若自身的[Breath]强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的基础威力+1(最多+2)",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度并对其施加3层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度并对其施加3层[Vibration]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标[Switch_Vibration]为[VibrationIgnition]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 对目标造成相当于其[Combustion]强度的暴怒伤害"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标[VibrationExplosion]，并使其[Vibration]层数减少1层"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9574102": {
+    "id": "9574102",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "尖端打击",
+        "desc": "若自身的[Breath]强度不低于6级，则使本技能的硬币威力+1\n[WhenUse] 目标的[Combustion]强度与[Vibration]强度之和每有4级，使本技能的基础威力+1(最多+2)\n[WhenUse] 使自身获得2层[Breath]",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "消耗[AccelBullet]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度并对其施加2层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "消耗[AccelBullet]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度并对其施加2层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9572604": {
+    "id": "9572604",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "解鹿",
+        "desc": "直到使用本技能时，自身不会陷入混乱。\n本回合自身每有1个攻击技能拼点失败，使本技能攻击容量-1（不会低于1）；不再因此降低最终威力。\n[DefeatDuel] 使本技能造成的伤害-90%，且本技能造成的伤害不会使目标陷入混乱。\n不可摧毁硬币自身碎裂后的威力变化仍按原版处理。",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度并对其施加2层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Combustion]强度并对其施加2层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标以[VibrationIgnition][FusionVibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9572605": {
+    "id": "9572605",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "以剑锋测量",
+        "desc": "[DuelCounter]\n若目标的[DuelEdge]层数不低于2层，则使本技能造成的伤害+30%\n\n[WinDuel] 对目标施加1层[DuelEdge]",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Vibration]强度并对其施加2层[Vibration]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "9574107": {
+    "id": "9574107",
+    "levelList": [
+      {
+        "level": 1,
+        "name": "处置",
+        "desc": "\n直到本技能使用时，自身不会陷入混乱\n<color=#ff6000><mark color=#ff000040><b><u>自身每带有1层[FutureEyeOn]，使本技能的基础威力+1，造成的伤害+10%</color></mark></b></u>\n[WhenUse] 若目标现存体力不高于50%，则使本技能造成的伤害+100%\n[WhenUse] 若自身的理智值不低于0点，则生成1层望\n- 使本技能的基础威力+4\n[WhenUse] 使自身获得3层[Breath]\n[WinDuel] 使自身增加5级[Breath]强度\n[DefeatDuel] 使本技能造成的最终伤害-50%，且不会触发暴击\n使本技能造成的伤害不会使目标陷入混乱\n[EnemyKill] 下回合随机对1名罪人施加[TeachersPrey]\n[EndSkill] 使自身[FullReload](每回合最多1次)\n[EndSkill] 若本技能生成了望，则消耗自身10点理智值",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Combustion]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Vibration]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 对目标施加6层[Combustion]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 对目标施加6层[Vibration]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标[Switch_Vibration]为[VibrationIgnition]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "消耗所有[AccelBullet]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标[VibrationExplosion]3次，并使其[Vibration]层数减少3层"
+              },
+              {
+                "desc": "[CriticalOnSucceedAttack] 使目标[VibrationExplosion]2次，并使其[Vibration]层数减少2层"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

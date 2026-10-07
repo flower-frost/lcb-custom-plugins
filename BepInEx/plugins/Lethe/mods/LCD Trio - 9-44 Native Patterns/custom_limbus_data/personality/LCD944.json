@@ -1,0 +1,5836 @@
+{
+  "list": [
+    {
+      "id": 1106901,
+      "nameID": 1106901,
+      "sdPortrait": 1106901,
+      "characterId": 1,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 2106901,
+      "nameID": 2106901,
+      "sdPortrait": 2106901,
+      "characterId": 2,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 3106901,
+      "nameID": 3106901,
+      "sdPortrait": 3106901,
+      "characterId": 3,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 4106901,
+      "nameID": 4106901,
+      "sdPortrait": 4106901,
+      "characterId": 4,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 5106901,
+      "nameID": 5106901,
+      "sdPortrait": 5106901,
+      "characterId": 5,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 6106901,
+      "nameID": 6106901,
+      "sdPortrait": 6106901,
+      "characterId": 6,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 7106901,
+      "nameID": 7106901,
+      "sdPortrait": 7106901,
+      "characterId": 7,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 8106901,
+      "nameID": 8106901,
+      "sdPortrait": 8106901,
+      "characterId": 8,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 9106901,
+      "nameID": 9106901,
+      "sdPortrait": 9106901,
+      "characterId": 9,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 10106901,
+      "nameID": 10106901,
+      "sdPortrait": 10106901,
+      "characterId": 10,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 11106901,
+      "nameID": 11106901,
+      "sdPortrait": 11106901,
+      "characterId": 11,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 12106901,
+      "nameID": 12106901,
+      "sdPortrait": 12106901,
+      "characterId": 12,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "skillId": 40000901,
+          "number": 1
+        },
+        {
+          "skillId": 40000902,
+          "number": 1
+        },
+        {
+          "skillId": 40000903,
+          "number": 1
+        },
+        {
+          "skillId": 40000904,
+          "number": 1
+        },
+        {
+          "skillId": 40000905,
+          "number": 1
+        },
+        {
+          "skillId": 40000906,
+          "number": 1
+        },
+        {
+          "skillId": 40000907,
+          "number": 1
+        },
+        {
+          "skillId": 40000908,
+          "number": 1
+        },
+        {
+          "skillId": 40000909,
+          "number": 1
+        },
+        {
+          "skillId": 40000910,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 1106902,
+      "nameID": 1106902,
+      "sdPortrait": 1106902,
+      "characterId": 1,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 2106902,
+      "nameID": 2106902,
+      "sdPortrait": 2106902,
+      "characterId": 2,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 3106902,
+      "nameID": 3106902,
+      "sdPortrait": 3106902,
+      "characterId": 3,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 4106902,
+      "nameID": 4106902,
+      "sdPortrait": 4106902,
+      "characterId": 4,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 5106902,
+      "nameID": 5106902,
+      "sdPortrait": 5106902,
+      "characterId": 5,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 6106902,
+      "nameID": 6106902,
+      "sdPortrait": 6106902,
+      "characterId": 6,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 7106902,
+      "nameID": 7106902,
+      "sdPortrait": 7106902,
+      "characterId": 7,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 8106902,
+      "nameID": 8106902,
+      "sdPortrait": 8106902,
+      "characterId": 8,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 9106902,
+      "nameID": 9106902,
+      "sdPortrait": 9106902,
+      "characterId": 9,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 10106902,
+      "nameID": 10106902,
+      "sdPortrait": 10106902,
+      "characterId": 10,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 11106902,
+      "nameID": 11106902,
+      "sdPortrait": 11106902,
+      "characterId": 11,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 12106902,
+      "nameID": 12106902,
+      "sdPortrait": 12106902,
+      "characterId": 12,
+      "rank": 3,
+      "appearance": "400010_MosesAppearance",
+      "unitScriptID": "400010",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 20
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.5
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1081,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        7,
+        7,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "defenseSkillIDList": [],
+      "attributeList": [
+        {
+          "skillId": 40001001,
+          "number": 1
+        },
+        {
+          "skillId": 40001002,
+          "number": 1
+        },
+        {
+          "skillId": 40001003,
+          "number": 1
+        },
+        {
+          "skillId": 40001004,
+          "number": 1
+        },
+        {
+          "skillId": 40001005,
+          "number": 1
+        },
+        {
+          "skillId": 40001006,
+          "number": 1
+        },
+        {
+          "skillId": 40001007,
+          "number": 1
+        },
+        {
+          "skillId": 40001008,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 1106903,
+      "nameID": 1106903,
+      "sdPortrait": 1106903,
+      "characterId": 1,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 2106903,
+      "nameID": 2106903,
+      "sdPortrait": 2106903,
+      "characterId": 2,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 3106903,
+      "nameID": 3106903,
+      "sdPortrait": 3106903,
+      "characterId": 3,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 4106903,
+      "nameID": 4106903,
+      "sdPortrait": 4106903,
+      "characterId": 4,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 5106903,
+      "nameID": 5106903,
+      "sdPortrait": 5106903,
+      "characterId": 5,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 6106903,
+      "nameID": 6106903,
+      "sdPortrait": 6106903,
+      "characterId": 6,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 7106903,
+      "nameID": 7106903,
+      "sdPortrait": 7106903,
+      "characterId": 7,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 8106903,
+      "nameID": 8106903,
+      "sdPortrait": 8106903,
+      "characterId": 8,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 9106903,
+      "nameID": 9106903,
+      "sdPortrait": 9106903,
+      "characterId": 9,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 10106903,
+      "nameID": 10106903,
+      "sdPortrait": 10106903,
+      "characterId": 10,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 11106903,
+      "nameID": 11106903,
+      "sdPortrait": 11106903,
+      "characterId": 11,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    },
+    {
+      "id": 12106903,
+      "nameID": 12106903,
+      "sdPortrait": 12106903,
+      "characterId": 12,
+      "rank": 3,
+      "appearance": "400011_EzraAppearance",
+      "unitScriptID": "400011",
+      "unitKeywordList": "SMALL",
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 22
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 0.5
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1082,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 3,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": "Default1",
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "uniqueAttribute": "SCARLET",
+      "defenseSkillIDList": [
+        40001105,
+        40001106
+      ],
+      "attributeList": [
+        {
+          "skillId": 40001101,
+          "number": 1
+        },
+        {
+          "skillId": 40001102,
+          "number": 1
+        },
+        {
+          "skillId": 40001103,
+          "number": 1
+        },
+        {
+          "skillId": 40001104,
+          "number": 1
+        },
+        {
+          "skillId": 40001105,
+          "number": 1
+        },
+        {
+          "skillId": 40001106,
+          "number": 1
+        },
+        {
+          "skillId": 40001107,
+          "number": 1
+        }
+      ]
+    }
+  ]
+}

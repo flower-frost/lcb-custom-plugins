@@ -1,0 +1,2 @@
+# Preserve installed file bytes so manifest SHA-256 values survive a clone/download.
+* -text

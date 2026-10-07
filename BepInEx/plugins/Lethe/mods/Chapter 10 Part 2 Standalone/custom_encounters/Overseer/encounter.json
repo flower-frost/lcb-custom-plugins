@@ -1,0 +1,55 @@
+{
+  "id": 94262003,
+  "stageLevel": 65,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 7
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0.5,
+    "defaultPosZ": 15
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp10_B_B3F_DryingRoom"
+      },
+      "unitList": [
+        {
+          "unitID": 1488,
+          "unitCount": 1,
+          "unitLevel": 65
+        }
+      ],
+      "subUnitList": [
+        {
+          "unitID": 1491,
+          "unitCount": 1,
+          "unitLevel": 60
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp10_Enemy_3"
+      ],
+      "allyPositionID": 254,
+      "enemyPositionID": 256,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 65,
+  "turnLimit": 99,
+  "questlist": [],
+  "rewardList": [],
+  "isBatonPassOn": false,
+  "stageScriptList": [
+    "1488"
+  ],
+  "controlValueList": [
+    6
+  ],
+  "story": {}
+}

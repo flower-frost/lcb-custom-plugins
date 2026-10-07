@@ -1,0 +1,161 @@
+{
+  "list": [
+    {
+      "id": "Thumb942NativeDuelEdge",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Negative",
+      "canBeDespelled": false,
+      "destroyableOnRetreat": true,
+      "destroyableOnDie": true,
+      "maxStack": 20,
+      "list": [
+        {
+          "ability": "DuelEdge"
+        }
+      ],
+      "iconId": "DuelEdge"
+    },
+    {
+      "id": "Thumb942NativeFutureEyeOn",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 30,
+      "canBeDespelled": false,
+      "destroyableOnDie": false,
+      "destroyableOnRetreat": false,
+      "destroyableOnZero": false,
+      "list": [
+        {
+          "ability": "GiveBuffOnRoundStart",
+          "buffData": {
+            "buffKeyword": "FutureEyeOn",
+            "target": "IfAbnormalityAllPartsOrSelf",
+            "stack": 10,
+            "turn": 0,
+            "activeRound": 0
+          }
+        },
+        {
+          "ability": "ParryingResultAdderIfDefaultSkill",
+          "value": 2
+        },
+        {
+          "ability": "FutureEyeOn",
+          "value": 4
+        }
+      ],
+      "iconId": "FutureEyeOn"
+    },
+    {
+      "id": "Thumb942NativeFutureEyeOff",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 30,
+      "canBeDespelled": false,
+      "destroyableOnDie": false,
+      "destroyableOnRetreat": false,
+      "destroyableOnZero": false,
+      "list": [
+        {
+          "ability": "FutureEyeOff",
+          "value": -0.2,
+          "buffData": {
+            "buffKeyword": "FutureEyeOff",
+            "target": "IfAbnormalityAllPartsOrSelf",
+            "stack": 10,
+            "turn": 0,
+            "activeRound": 0
+          }
+        }
+      ],
+      "iconId": "FutureEyeOff"
+    },
+    {
+      "id": "Thumb942NativeLookingFuture",
+      "buffClass": "VolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 10,
+      "canBeDespelled": false,
+      "destroyableOnDie": false,
+      "destroyableOnRetreat": false,
+      "list": [
+        {
+          "ability": "ParryingResultAdderAsStack",
+          "value": 1
+        },
+        {
+          "ability": "CoinScaleAdderDevideByStack",
+          "value": 5
+        },
+        {
+          "ability": "LoseAllStackOnEndSkill"
+        },
+        {
+          "ability": "LoseAllStackOnLoseDuel"
+        }
+      ],
+      "iconId": "LookingFuture"
+    },
+    {
+      "id": "Thumb942NativeObsessionAndGreed",
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Positive",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "destroyableOnDie": false,
+      "destroyableOnRetreat": false,
+      "list": [
+        {
+          "ability": "ObsessionAndGreed",
+          "value": 6
+        },
+        {
+          "ability": "AtkDamageMultiplierViaBuffCheckDevideByStack",
+          "value": 0.03,
+          "buffData": {
+            "buffKeyword": "Breath",
+            "buffOwner": "IfAbnormalityAllPartsOrSelf",
+            "stack": 1,
+            "turn": 0,
+            "limit": 15
+          }
+        },
+        {
+          "ability": "ShinEffect"
+        }
+      ],
+      "iconId": "ObsessionAndGreed"
+    },
+    {
+      "id": "Thumb942NativeAccelBullet",
+      "subIdList": [
+        "Bullet"
+      ],
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "maxStack": 10,
+      "canBeDespelled": false,
+      "destroyableOnDie": false,
+      "destroyableOnRetreat": false,
+      "destroyableOnZero": false,
+      "list": [],
+      "categoryKeywordList": [
+        "BULLET",
+        "RESOURCE"
+      ],
+      "iconId": "AccelBullet"
+    },
+    {
+      "id": "Thumb942NativeTeachersPrey",
+      "buffClass": "VolatileBuff",
+      "buffType": "Negative",
+      "maxStack": 1,
+      "canBeDespelled": false,
+      "destroyableOnDie": false,
+      "destroyableOnRetreat": false,
+      "list": [],
+      "categoryKeywordList": [],
+      "iconId": "TeachersPrey"
+    }
+  ]
+}

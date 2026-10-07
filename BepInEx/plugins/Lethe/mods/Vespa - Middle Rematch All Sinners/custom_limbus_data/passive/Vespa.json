@@ -1,0 +1,27 @@
+{
+  "list": [
+    {
+      "id": 952101,
+      "controlValueList": [
+        2
+      ]
+    },
+    {
+      "id": 952102,
+      "importanceLevel": 3
+    },
+    {
+      "id": 952103,
+      "useUnlock": false
+    },
+    {
+      "id": 952105
+    },
+    {
+      "importanceLevel": 1,
+      "requireIDList": [],
+      "attributeStockCondition": [],
+      "id": 952199
+    }
+  ]
+}

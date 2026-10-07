@@ -1,0 +1,56 @@
+{
+  "id": 94242001,
+  "stageLevel": 60,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 3
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0,
+    "defaultPosZ": 60
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp9_Thumbfinger",
+        "mapSize": 40
+      },
+      "unitList": [
+        {
+          "unitID": 1326,
+          "unitCount": 1,
+          "unitLevel": 65
+        },
+        {
+          "unitID": 1314,
+          "unitCount": 1,
+          "unitLevel": 77
+        }
+      ],
+      "subUnitList": [],
+      "bgmList": [
+        "Battle_Cp9_Boss_1",
+        "Battle_Cp9_Boss_1_2"
+      ],
+      "allyPositionID": 165,
+      "enemyPositionID": 166
+    }
+  ],
+  "staminaCost": 20,
+  "recommendedLevel": 60,
+  "turnLimit": 99,
+  "questlist": [
+    {
+      "args": [
+        "10"
+      ],
+      "localizeId": 1
+    }
+  ],
+  "rewardList": [],
+  "stageScriptList": [],
+  "isBatonPassOn": false,
+  "effectiveResistCondition": 1.2
+}

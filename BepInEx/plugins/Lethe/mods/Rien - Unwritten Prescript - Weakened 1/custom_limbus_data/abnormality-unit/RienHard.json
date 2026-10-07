@@ -1,0 +1,679 @@
+{
+  "list": [
+    {
+      "id": 9471,
+      "originID": 1347,
+      "storyID": 1347,
+      "sdPortrait": "1347",
+      "appearance": "1347_Index_fatherAppearance",
+      "unitKeywordList": [
+        "FINGER",
+        "SMALL",
+        "TRUST_AGENT"
+      ],
+      "associationList": [
+        "INDEX_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "SCARLET",
+      "startActionSlotNum": 7,
+      "maxActionSlotNum": 7,
+      "hp": {
+        "defaultStat": 6760,
+        "incrementByLevel": 44
+      },
+      "phaseIDList": [
+        9471,
+        9472
+      ],
+      "unitScriptID": "1380",
+      "patternID": "1380",
+      "initBuffList": [],
+      "abnormalityPartList": [
+        947101
+      ],
+      "mp": 0,
+      "hasMp": true,
+      "lowMorale": -20,
+      "panic": -45,
+      "panicType": 1097,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 947101,
+          "number": 1
+        },
+        {
+          "skillId": 947102,
+          "number": 1
+        },
+        {
+          "skillId": 947103,
+          "number": 1
+        },
+        {
+          "skillId": 947104,
+          "number": 1
+        },
+        {
+          "skillId": 947105,
+          "number": 1
+        },
+        {
+          "skillId": 947106,
+          "number": 1
+        },
+        {
+          "skillId": 947107,
+          "number": 1
+        },
+        {
+          "skillId": 947108,
+          "number": 1
+        },
+        {
+          "skillId": 947109,
+          "number": 1
+        },
+        {
+          "skillId": 947110,
+          "number": 0
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          947103,
+          947104,
+          947101,
+          947102,
+          947105,
+          947106,
+          947192,
+          947190,
+          947191,
+          947180,
+          947181,
+          947182,
+          947183
+        ]
+      },
+      "defenseSkillIDList": [],
+      "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947107,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947106,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947105,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947104,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947103,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947102,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947101,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947109,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947108,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947106,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947105,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947103,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947102,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947101,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947110,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9472,
+      "originID": 1347,
+      "storyID": 1347,
+      "sdPortrait": "1347",
+      "appearance": "1348_Index_father_Phase2Appearance",
+      "unitKeywordList": [
+        "FINGER",
+        "SMALL",
+        "TRUST_AGENT"
+      ],
+      "associationList": [
+        "INDEX_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "classType": "ZAYIN",
+      "attributeType": "SCARLET",
+      "startActionSlotNum": 7,
+      "maxActionSlotNum": 7,
+      "hp": {
+        "defaultStat": 6760,
+        "incrementByLevel": 44
+      },
+      "initBuffList": [],
+      "abnormalityPartList": [
+        947201
+      ],
+      "mp": 0,
+      "hasMp": true,
+      "lowMorale": -20,
+      "panic": -45,
+      "panicType": 1097,
+      "specialDuelRank": 5,
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 947201,
+          "number": 1
+        },
+        {
+          "skillId": 947202,
+          "number": 1
+        },
+        {
+          "skillId": 947203,
+          "number": 1
+        },
+        {
+          "skillId": 947204,
+          "number": 1
+        },
+        {
+          "skillId": 947205,
+          "number": 1
+        },
+        {
+          "skillId": 947206,
+          "number": 1
+        },
+        {
+          "skillId": 947207,
+          "number": 1
+        },
+        {
+          "skillId": 947208,
+          "number": 1
+        },
+        {
+          "skillId": 947209,
+          "number": 1
+        },
+        {
+          "skillId": 947210,
+          "number": 0
+        },
+        {
+          "skillId": 947211,
+          "number": 0
+        }
+      ],
+      "passiveSet": {
+        "passiveIdList": [
+          947203,
+          947204,
+          947201,
+          947202,
+          947205,
+          947192,
+          947190,
+          947280,
+          947281,
+          947282,
+          947283
+        ]
+      },
+      "defenseSkillIDList": [],
+      "patternList": [
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947209,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947208,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947207,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947205,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947204,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947202,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947201,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947209,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947208,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947207,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947206,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947204,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947203,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            },
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947202,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947210,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "slotList": [
+            {
+              "skillParentList": [
+                {
+                  "skillChildList": [
+                    {
+                      "skillID": 947211,
+                      "chance": 1
+                    }
+                  ],
+                  "chance": 1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

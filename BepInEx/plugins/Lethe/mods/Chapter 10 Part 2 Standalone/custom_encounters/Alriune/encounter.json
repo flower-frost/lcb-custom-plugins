@@ -1,0 +1,57 @@
+{
+  "id": 94262002,
+  "stageLevel": 55,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 7
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0.2,
+    "defaultPosY": 0,
+    "defaultPosZ": -8
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp10_B_4F_LostChildrenCenter"
+      },
+      "unitList": [
+        {
+          "unitID": 1501,
+          "unitCount": 1,
+          "unitLevel": 55
+        },
+        {
+          "unitID": 1502,
+          "unitCount": 2,
+          "unitLevel": 50
+        }
+      ],
+      "subUnitList": [
+        {
+          "unitID": 1502,
+          "unitCount": 1,
+          "unitLevel": 50
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp10_Boss_12"
+      ],
+      "allyPositionID": 257,
+      "enemyPositionID": 259,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 53,
+  "turnLimit": 99,
+  "questlist": [],
+  "rewardList": [],
+  "isBatonPassOn": false,
+  "stageScriptList": [
+    "1501"
+  ],
+  "story": {}
+}

@@ -1,0 +1,54 @@
+{
+  "Thumb942NativeTeachersPrey": {
+    "id": "Thumb942NativeTeachersPrey",
+    "name": "狩猎目标",
+    "desc": "速度值固定为1，成为“拇指 父辈 - 瓦伦希娜”的所有攻击技能指定的目标",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "如果成为伯纳特利家族的目标，将不可避免地被狩猎。"
+  },
+  "Thumb942NativeDuelEdge": {
+    "id": "Thumb942NativeDuelEdge",
+    "name": "决斗高潮",
+    "desc": "- 最大值：20\n- “拇指 子辈 - 卢西奥”与带有本效果的单位拼点时，“拇指 子辈 - 卢西奥”的技能威力提升并且造成的伤害增加\n- 回合结束时，若带有本效果的单位本回合未与“拇指 子辈 - 卢西奥”进行拼点，则解除本效果",
+    "summary": "",
+    "undefined": "-"
+  },
+  "Thumb942NativeFutureEyeOn": {
+    "id": "Thumb942NativeFutureEyeOn",
+    "name": "预知眼",
+    "desc": "- 最大值：30\n- 拼点威力+2\n- 回合开始时，获得10层本效果\n- 回合开始时，恢复(本效果层数/4)点理智值",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "“并非像魔法那样预测未来。这只眼睛更接近于通过分析进入视野的一切，预测即将到来的瞬间的计算机。”"
+  },
+  "Thumb942NativeLookingFuture": {
+    "id": "Thumb942NativeLookingFuture",
+    "name": "加速的未来",
+    "desc": "- 最大值：10\n- 本效果的层数每有1层，拼点威力+1\n- 本效果的层数每有5层，硬币威力+1\n- 技能结束时，解除本效果",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "刀刃越长，碰撞的次数越多，巴勒莫就越会加速。"
+  },
+  "Thumb942NativeFutureEyeOff": {
+    "id": "Thumb942NativeFutureEyeOff",
+    "name": "预知眼 过热",
+    "desc": "- 最大值：30\n- 攻击技能造成的伤害-20%\n- 消耗加速弹的技能的所有硬币转化为不可摧毁的硬币\n- 回合开始时，获得10层本效果\n- 本效果的层数为30层时，转化为“预知眼”",
+    "summary": "",
+    "undefined": "-"
+  },
+  "Thumb942NativeAccelBullet": {
+    "id": "Thumb942NativeAccelBullet",
+    "name": "加速弹",
+    "desc": "- 最大值：10\n- 特殊弹药\n- 特定技能使用时消耗",
+    "summary": "",
+    "undefined": "-"
+  },
+  "Thumb942NativeObsessionAndGreed": {
+    "id": "Thumb942NativeObsessionAndGreed",
+    "name": "心-瓦伦希娜",
+    "desc": "- 上回合自身每拼点失败1次，使自身防御等级+3(最多+6)\n自身的呼吸法 强度每有1级，使自身造成的伤害+3%(最多+15%)",
+    "summary": "",
+    "undefined": "-"
+  }
+}

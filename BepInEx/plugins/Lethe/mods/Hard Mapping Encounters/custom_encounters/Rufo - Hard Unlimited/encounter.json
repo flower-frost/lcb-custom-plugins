@@ -1,0 +1,97 @@
+{
+  "id": 94252001,
+  "stageLevel": 60,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 7
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0,
+    "defaultPosZ": 50
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp9.5-1_LittleFingerCorridor",
+        "mapSize": 22
+      },
+      "unitList": [
+        {
+          "unitID": 5008,
+          "unitCount": 1,
+          "unitLevel": 60
+        },
+        {
+          "unitID": 5009,
+          "unitCount": 1,
+          "unitLevel": 60
+        },
+        {
+          "unitID": 5010,
+          "unitCount": 1,
+          "unitLevel": 60
+        },
+        {
+          "unitID": 5011,
+          "unitCount": 1,
+          "unitLevel": 60
+        },
+        {
+          "unitID": 5006,
+          "unitCount": 1,
+          "unitLevel": 66
+        }
+      ],
+      "subUnitList": [
+        {
+          "unitID": 5008,
+          "unitCount": 1,
+          "unitLevel": 60,
+          "isHide": true
+        },
+        {
+          "unitID": 5009,
+          "unitCount": 1,
+          "unitLevel": 60,
+          "isHide": true
+        },
+        {
+          "unitID": 5010,
+          "unitCount": 1,
+          "unitLevel": 60,
+          "isHide": true
+        },
+        {
+          "unitID": 5011,
+          "unitCount": 1,
+          "unitLevel": 60,
+          "isHide": true
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp9_5_Thread_Enemy",
+        "Battle_Cp9_5_Thread_Boss"
+      ],
+      "enemyPositionID": 192,
+      "allyPositionID": 193,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "staminaType": "ENKEPHALIN_MODULE",
+  "staminaCost": 0,
+  "recommendedLevel": 60,
+  "turnLimit": 2147483647,
+  "questlist": [],
+  "rewardList": [],
+  "story": {},
+  "isBatonPassOn": true,
+  "stageScriptList": [
+    "RingFingerFauvismDocentSharumi"
+  ],
+  "uiConfigs": {
+    "recommendSyncLevel": 4
+  }
+}

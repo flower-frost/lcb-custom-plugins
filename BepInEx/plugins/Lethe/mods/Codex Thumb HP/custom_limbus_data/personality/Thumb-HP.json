@@ -1,0 +1,264 @@
+{
+  "list": [
+    {
+      "id": 10916,
+      "updatedDate": 20260625,
+      "appearance": "10916_Rodion_Thumb_FatherAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNDERBOSS_FIRED",
+        "FINGER",
+        "SMOKE_WAR",
+        "WAR_HERO",
+        "SPIDER_HOUSE_FATHER",
+        "THUMB_LEVEL_MIDDLE_CAPO_UNDERBOSS"
+      ],
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE",
+        "SEVENFAMILIES_CANCELED"
+      ],
+      "skillKeywordList": [
+        "Combustion",
+        "Vibration"
+      ],
+      "unitScriptID": "10916",
+      "characterId": 9,
+      "panicType": 9999,
+      "season": 7,
+      "defenseSkillIDList": [
+        1091604,
+        1091608
+      ],
+      "initBuffList": [
+        {
+          "level": 1,
+          "list": [
+            {
+              "buff": "AccelBullet",
+              "stack": 10
+            },
+            {
+              "buff": "FutureEyeOnRodion",
+              "stack": 30
+            }
+          ]
+        }
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 2971,
+        "incrementByLevel": 3.03
+      },
+      "defCorrection": 0,
+      "minSpeedList": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "AMBER",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          60
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1091601,
+          "number": 3
+        },
+        {
+          "skillId": 1091602,
+          "number": 2
+        },
+        {
+          "skillId": 1091603,
+          "number": 1
+        },
+        {
+          "skillId": 1091605,
+          "number": 0
+        },
+        {
+          "skillId": 1091606,
+          "number": 0
+        },
+        {
+          "skillId": 1091607,
+          "number": 0
+        }
+      ]
+    },
+    {
+      "id": 10716,
+      "updatedDate": 20260625,
+      "appearance": "10716_Heathcliff_Thumb_DiscipleAppearance",
+      "associationList": [
+        "THUMB_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "unitKeywordList": [
+        "SMALL",
+        "FINGER"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Combustion"
+      ],
+      "characterId": 7,
+      "panicType": 9999,
+      "season": 7,
+      "unitScriptID": "10716",
+      "defenseSkillIDList": [
+        1071604,
+        1071605
+      ],
+      "panicSkillOnErosion": 1000104,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "rank": 3,
+      "hp": {
+        "defaultStat": 1396,
+        "incrementByLevel": 2.95
+      },
+      "defCorrection": 2,
+      "minSpeedList": [
+        3,
+        3,
+        4,
+        4
+      ],
+      "maxSpeedList": [
+        5,
+        6,
+        7,
+        7
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnDieAllyAsLevelRatio10"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          55,
+          20
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 1071601,
+          "number": 3
+        },
+        {
+          "skillId": 1071602,
+          "number": 2
+        },
+        {
+          "skillId": 1071603,
+          "number": 1
+        },
+        {
+          "skillId": 1071606,
+          "number": 0
+        }
+      ]
+    }
+  ]
+}

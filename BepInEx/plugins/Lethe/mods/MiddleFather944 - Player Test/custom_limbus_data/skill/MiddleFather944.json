@@ -1,0 +1,2567 @@
+{
+  "list": [
+    {
+      "id": 9554101,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 3,
+          "defaultValue": 11,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpider_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnLoseDuel",
+              "turnLimit": 2,
+              "buffData": {
+                "buffKeyword": "ParryingResultUp",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuelViaBuffCheck_ReinforcedTattooSpider_1_0",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "132707",
+          "iconID": 132707
+        }
+      ],
+      "textID": 132707,
+      "iconID": 132707
+    },
+    {
+      "id": 9554102,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 3,
+          "defaultValue": 13,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpider_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnLoseDuel",
+              "turnLimit": 2,
+              "buffData": {
+                "buffKeyword": "VioletDamageUp",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttack10"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttack10"
+                }
+              ]
+            }
+          ],
+          "actionScript": "132708",
+          "iconID": 132708
+        }
+      ],
+      "textID": 132708,
+      "iconID": 132708
+    },
+    {
+      "id": 9554103,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "HIT",
+          "defType": "COUNTER",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": false,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 3,
+          "defaultValue": 16,
+          "skillMotion": "S5",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "ReuseSkillOnTakeHpDamageDevideByBuffStack",
+              "buffData": {
+                "buffKeyword": "ReinforcedTattooSpider",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "limit": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpider_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 1,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioIfHpRatioBelowOnBeforeAttack_40_50"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealFirstBreakSectionOnSuccessAttack10"
+                }
+              ]
+            }
+          ],
+          "actionScript": "132711",
+          "iconID": 132711
+        }
+      ],
+      "textID": 132711,
+      "iconID": 132711
+    },
+    {
+      "id": 9554104,
+      "skillTier": 3,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": false,
+          "skillLevelCorrection": 4,
+          "defaultValue": 14,
+          "skillMotion": "S6",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "importanceLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "GiveAdditionalHitDmgOnSucceedAttackViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "ReinforcedTattooSpider",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "value": 10
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSuccessAttackTarget10"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSuccessAttackTarget10"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSuccessAttackTarget10"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vulnerable",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "132712",
+          "iconID": 132712
+        }
+      ],
+      "textID": 132712,
+      "iconID": 132712
+    },
+    {
+      "id": 9554105,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 4,
+          "defaultValue": 13,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpider_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnLoseDuel",
+              "turnLimit": 2,
+              "buffData": {
+                "buffKeyword": "Enhancement",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuelViaBuffCheck_ReinforcedTattooSpider_1_0",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "134101",
+          "iconID": 134101
+        }
+      ],
+      "textID": 134101,
+      "iconID": 134101
+    },
+    {
+      "id": 9554106,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 4,
+          "defaultValue": 15,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpider_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnLoseDuel",
+              "turnLimit": 2,
+              "buffData": {
+                "buffKeyword": "VioletDamageUp",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttack15"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttack15"
+                }
+              ]
+            }
+          ],
+          "actionScript": "134102",
+          "iconID": 134102
+        }
+      ],
+      "textID": 134102,
+      "iconID": 134102
+    },
+    {
+      "id": 9554107,
+      "skillTier": 3,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 4,
+          "defaultValue": 18,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "importanceLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "SkillPowerAdderViaBuffDevide",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 3,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1,
+                "limit": 3
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpider_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffAndUseBuffAllStackOnEndSkill_ResentmentSpider",
+              "buffData": {
+                "buffKeyword": "DaughterEducationSpider",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuelViaBuffCheck_ReinforcedTattooSpider_1_0",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "134103",
+          "iconID": 134103
+        }
+      ],
+      "textID": 134103,
+      "iconID": 134103
+    },
+    {
+      "id": 9554108,
+      "skillTier": 2,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 4,
+          "defaultValue": 16,
+          "skillMotion": "S4",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "GiveAdditionalSlashDmgOnSucceedAttackViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "ReinforcedTattooSpider",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "value": 10
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioIfHpRatioBelowOnBeforeAttack_40_50"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveAdditionalSlashDmgOnSucceedAttack",
+                  "value": 15
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "134104",
+          "iconID": 134104
+        }
+      ],
+      "textID": 134104,
+      "iconID": 134104
+    },
+    {
+      "id": 9554109,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "HIT",
+          "defType": "COUNTER",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": false,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 4,
+          "defaultValue": 17,
+          "skillMotion": "S5",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "ReuseSkillOnTakeHpDamageDevideByBuffStack",
+              "buffData": {
+                "buffKeyword": "ReinforcedTattooSpider",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "limit": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpider_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 1,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioIfHpRatioBelowOnBeforeAttack_40_50"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "HealFirstBreakSectionOnSuccessAttack10"
+                }
+              ]
+            }
+          ],
+          "actionScript": "134105",
+          "iconID": 134105
+        }
+      ],
+      "textID": 134105,
+      "iconID": 134105
+    },
+    {
+      "id": 9554110,
+      "skillTier": 3,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": false,
+          "skillLevelCorrection": 5,
+          "defaultValue": 19,
+          "skillMotion": "S6",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "importanceLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "GiveAdditionalSlashDmgOnSucceedAttackViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "ReinforcedTattooSpider",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "value": 10
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalSlashDmgOnSucceedAttack",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalSlashDmgOnSucceedAttack",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalSlashDmgOnSucceedAttack",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Vulnerable",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "134106",
+          "iconID": 134106
+        }
+      ],
+      "textID": 134106,
+      "iconID": 134106
+    },
+    {
+      "id": 9554111,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "CRIMSON",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 5,
+          "defaultValue": 12,
+          "skillMotion": "S1",
+          "specialDuelIndex": 0,
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "GiveMpDmgOnBeforeBehaviourSelf",
+              "value": 10
+            },
+            {
+              "scriptName": "TargetNotBreakOnLoseDuel"
+            },
+            {
+              "scriptName": "GiveBuffOnLoseDuel",
+              "turnLimit": 2,
+              "buffData": {
+                "buffKeyword": "Enhancement",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnBeforeAttackByCoinNum",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttackIfUsableInDuel",
+                  "value": 10
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuelViaBuffCheck_ReinforcedTattooSpider_1_0",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "134107",
+          "iconID": 134107
+        }
+      ],
+      "textID": 134107,
+      "iconID": 134107
+    },
+    {
+      "id": 9554112,
+      "skillTier": 2,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "INDIGO",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 5,
+          "defaultValue": 15,
+          "skillMotion": "S2",
+          "specialDuelIndex": 0,
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "GiveMpDmgOnBeforeBehaviourSelf",
+              "value": 10
+            },
+            {
+              "scriptName": "TargetNotBreakOnLoseDuel"
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioIfHpRatioBelowOnBeforeAttack_40_50"
+            },
+            {
+              "scriptName": "GiveBuffOnBeforeAttackByCoinNum",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 4,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "134108",
+          "iconID": 134108
+        }
+      ],
+      "textID": 134108,
+      "iconID": 134108
+    },
+    {
+      "id": 9554113,
+      "skillTier": 3,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 8,
+          "defaultValue": 20,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "specialDuelIndex": 0,
+          "parryingCloseType": "NEAR",
+          "importanceLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "GiveMpDmgOnBeforeBehaviourSelf",
+              "value": 10
+            },
+            {
+              "scriptName": "TargetNotBreakOnLoseDuel"
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioIfHpRatioBelowOnBeforeAttack_60_50"
+            },
+            {
+              "scriptName": "GiveBuffOnBeforeAttackByCoinNum",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveAdditionalSlashDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveAdditionalSlashDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalPenetrateDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuelViaBuffCheck_ReinforcedTattooSpider_1_0",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "134109",
+          "iconID": 134109
+        }
+      ],
+      "textID": 134109,
+      "iconID": 134109
+    },
+    {
+      "id": 9554114,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "COUNTER",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": false,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 5,
+          "defaultValue": 16,
+          "skillMotion": "S4",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "ReuseSkillOnTakeHpDamageDevideByBuffStack",
+              "buffData": {
+                "buffKeyword": "ReinforcedTattooSpider",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "limit": 1
+              }
+            },
+            {
+              "scriptName": "GiveMpDmgOnBeforeBehaviourSelf",
+              "value": 10
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioIfHpRatioBelowOnBeforeAttack_40_50"
+            },
+            {
+              "scriptName": "GiveBuffOnBeforeAttackByCoinNum",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "134110",
+          "iconID": 134110
+        }
+      ],
+      "textID": 134110,
+      "iconID": 134110
+    },
+    {
+      "id": 9554201,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 2,
+          "defaultValue": 4,
+          "skillMotion": "S1",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "SkillPowerAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 5,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 2
+              }
+            },
+            {
+              "scriptName": "TargetNotBreakOnLoseDuel"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSuccessAttackTarget3"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSuccessAttackTarget3"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 3
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuelViaBuffCheck_ReinforcedTattooSpiderDaughter_1_0",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "132801",
+          "iconID": 132801
+        }
+      ],
+      "textID": 132801,
+      "iconID": 132801
+    },
+    {
+      "id": 9554202,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "CRIMSON",
+          "atkType": "HIT",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 2,
+          "defaultValue": 4,
+          "skillMotion": "S2",
+          "viewType": "BATTLE",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "SkillPowerAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 5,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 2
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpiderDaughter_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSuccessAttackTarget5"
+                },
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttack5"
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 3,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSuccessAttackTarget5"
+                },
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttack5"
+                },
+                {
+                  "scriptName": "RerollOnSAViaBuffCheckUpto3",
+                  "buffData": {
+                    "buffKeyword": "GotACompliment",
+                    "target": "",
+                    "buffOwner": "Self",
+                    "stack": 4,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "132802",
+          "iconID": 132802
+        }
+      ],
+      "textID": 132802,
+      "iconID": 132802
+    },
+    {
+      "id": 9554203,
+      "skillTier": 2,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "SCARLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 2,
+          "defaultValue": 5,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "HeatingWireSkill",
+              "buffData": {
+                "buffKeyword": "HeatingWireOnSpider",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpiderDaughter_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 1,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnEndBehaviourIfHasBuffStackAndTurn_GotACompliment_2_0",
+              "buffData": {
+                "buffKeyword": "VioletDamageUp",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 1
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "132803",
+          "iconID": 132803
+        }
+      ],
+      "textID": 132803,
+      "iconID": 132803
+    },
+    {
+      "id": 9554204,
+      "skillTier": 2,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "INDIGO",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 2,
+          "defaultValue": 4,
+          "skillMotion": "S4",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "HeatingWireSkill",
+              "buffData": {
+                "buffKeyword": "HeatingWireOnSpider",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "CoinScaleAdderViaBuffCheck",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "",
+                "buffOwner": "Target",
+                "stack": 4,
+                "turn": 0,
+                "activeRound": 0,
+                "value": 1
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpiderDaughter_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 1,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "TargetNotBreakOnLoseDuel"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 5
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuelViaBuffCheck_ReinforcedTattooSpiderDaughter_1_0",
+                  "buffData": {
+                    "buffKeyword": "Binding",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 2,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "132804",
+          "iconID": 132804
+        }
+      ],
+      "textID": 132804,
+      "iconID": 132804
+    },
+    {
+      "id": 9554205,
+      "skillTier": 3,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "ATTACK",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 2,
+          "defaultValue": 5,
+          "skillMotion": "S5",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "importanceLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "HeatingWireSkill",
+              "buffData": {
+                "buffKeyword": "HeatingWireOnSpider",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpiderDaughter_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 1,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioIfHpRatioBelowOnStartTurn_60_40"
+            },
+            {
+              "scriptName": "GiveBuffByProb132805_Paralysis_1_0",
+              "buffData": {
+                "buffKeyword": "GotACompliment",
+                "buffOwner": "Self",
+                "stack": 5,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "TargetNotBreakOnLoseDuel"
+            },
+            {
+              "scriptName": "GiveBuffAndUseBuffAllStackOnEndSkill_ResentmentSpiderDaughter",
+              "buffData": {
+                "buffKeyword": "GotACompliment",
+                "target": "Self",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuel",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 5
+                },
+                {
+                  "scriptName": "DamageFirstBreakSectionOnSuccessAttackIfUsableInDuel",
+                  "value": 5
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 2,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 3,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "132805",
+          "iconID": 132805
+        }
+      ],
+      "textID": 132805,
+      "iconID": 132805
+    },
+    {
+      "id": 9554206,
+      "skillTier": 1,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "SLASH",
+          "defType": "COUNTER",
+          "targetNum": 1,
+          "skillTargetType": "RANDOM",
+          "canTeamKill": false,
+          "canDuel": false,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 2,
+          "defaultValue": 5,
+          "skillMotion": "S6",
+          "viewType": "ENCOUNTER",
+          "parryingCloseType": "NEAR",
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "HeatingWireSkill",
+              "buffData": {
+                "buffKeyword": "HeatingWireOnSpider",
+                "buffOwner": "Self",
+                "stack": 0,
+                "turn": 0
+              }
+            },
+            {
+              "scriptName": "ReuseSkillOnTakeHpDamageDevideByBuffStack",
+              "buffData": {
+                "buffKeyword": "ReinforcedTattooSpiderDaughter",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "limit": 2
+              }
+            },
+            {
+              "scriptName": "GiveBuffOnSucceedAttackIfHasBuffStackAndTurnOnStartTurn_ReinforcedTattooSpiderDaughter_1_0",
+              "buffData": {
+                "buffKeyword": "Laceration",
+                "target": "Target",
+                "buffOwner": "Self",
+                "stack": 1,
+                "turn": 0,
+                "activeRound": 0
+              }
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioIfHpRatioBelowOnStartTurn_40_40"
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 2,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Laceration",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 1,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "HealFirstBreakSectionOnSuccessAttack10"
+                }
+              ]
+            }
+          ],
+          "actionScript": "132806",
+          "iconID": 132806
+        }
+      ],
+      "textID": 132806,
+      "iconID": 132806
+    },
+    {
+      "id": 9554115,
+      "skillTier": 3,
+      "skillType": "SKILL",
+      "skillData": [
+        {
+          "attributeType": "VIOLET",
+          "atkType": "PENETRATE",
+          "defType": "ATTACK",
+          "targetNum": 11,
+          "skillTargetType": "FRONT",
+          "canTeamKill": false,
+          "canDuel": true,
+          "canChangeTarget": true,
+          "skillLevelCorrection": 8,
+          "defaultValue": 20,
+          "skillMotion": "S3",
+          "viewType": "ENCOUNTER",
+          "specialDuelIndex": 0,
+          "parryingCloseType": "NEAR",
+          "importanceLevel": 3,
+          "abilityScriptList": [
+            {
+              "scriptName": "EmptyBody"
+            },
+            {
+              "scriptName": "GiveMpDmgOnBeforeBehaviourSelf",
+              "value": 10
+            },
+            {
+              "scriptName": "TargetNotBreakOnLoseDuel"
+            },
+            {
+              "scriptName": "AttackDmgUpByRatioIfHpRatioBelowOnBeforeAttack_60_50"
+            },
+            {
+              "scriptName": "GiveBuffOnBeforeAttackByCoinNum",
+              "buffData": {
+                "buffKeyword": "Combustion",
+                "target": "IfAbnormalityAllPartsOrSelf",
+                "buffOwner": "",
+                "stack": 2,
+                "turn": 0,
+                "activeRound": 0
+              }
+            }
+          ],
+          "coinList": [
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 0,
+                    "turn": 3,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveAdditionalSlashDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                },
+                {
+                  "scriptName": "GiveAdditionalSlashDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttack",
+                  "buffData": {
+                    "buffKeyword": "Combustion",
+                    "target": "Target",
+                    "buffOwner": "",
+                    "stack": 10,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            },
+            {
+              "operatorType": "ADD",
+              "grade": 2,
+              "color": "GREY",
+              "scale": 1,
+              "abilityScriptList": [
+                {
+                  "scriptName": "SuperCoin"
+                },
+                {
+                  "scriptName": "GiveAdditionalPenetrateDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                },
+                {
+                  "scriptName": "GiveAdditionalHitDmgOnSucceedAttackIfUsableInDuel",
+                  "value": 10
+                },
+                {
+                  "scriptName": "GiveBuffOnSucceedAttackIfUsableInDuelViaBuffCheck_ReinforcedTattooSpider_1_0",
+                  "buffData": {
+                    "buffKeyword": "Paralysis",
+                    "target": "Target",
+                    "buffOwner": "Self",
+                    "stack": 5,
+                    "turn": 0,
+                    "activeRound": 0
+                  }
+                }
+              ]
+            }
+          ],
+          "actionScript": "134109",
+          "iconID": 134109
+        }
+      ],
+      "textID": 134109,
+      "iconID": 134109
+    }
+  ]
+}

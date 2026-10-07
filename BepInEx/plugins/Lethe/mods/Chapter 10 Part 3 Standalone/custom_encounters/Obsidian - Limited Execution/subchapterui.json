@@ -1,0 +1,23 @@
+{
+  "chapterId": 2,
+  "subchapterId": 94263006,
+  "nodeId": 94263006,
+  "storyIdInTheaterData": 0,
+  "isUnlockByUnlockCode": false,
+  "unlockCode": 101,
+  "relatedData": {
+    "chapterId": 2,
+    "subchapterId": 0,
+    "nodeId": 0
+  },
+  "uiConfig": {
+    "customChapterText": "黑神 · 裁决变奏 [无混乱保护]",
+    "chapterTagIconType": "BATTLE",
+    "region": "p",
+    "mapAreaId": 101,
+    "timeLine": "PLAYGROUND",
+    "illustId": "story-id_E041X",
+    "descriptionText": "全阶段技能硬币威力+1；Shift+Delete对所有人均不减威力。P键惩罚与选金钉槽追伤取消；满层金钉改为直接命中伤害10%的反伤。搏动／停止仅作标记，保留特殊技能按标记降威与接取拼点。死刑执行、强制退场、Shift+Delete：额外百分比伤害整招最多15%最大体力；我方拼赢后追伤仍生效，拼赢者获得15%临时护盾。看守“审判…！宣告…！定罪…！”与牧师“西西弗系统”：引爆各自阶段的处刑钉时，每层1%最大体力追伤；我方拼赢后追伤仍生效，拼赢者按该钉数量获得临时护盾，并取消本招第五币新施加的拘束钉／Exception。这五个技能给予的护盾均于下回合开始时消失，伤害由护盾正常承受。其他Exception一次扣当前体力15%。普通伤害保留。最后一条血首次33%时锁住血量并结束回合，下一回合出牌时解除临时锁血并沿用原版收尾循环；从该节点起每轮至少2层守护。无剧情助战与出战限制。\n我方混乱时，额外百分比扣血仍照常生效。"
+  },
+  "type": "STAGE_NODE"
+}

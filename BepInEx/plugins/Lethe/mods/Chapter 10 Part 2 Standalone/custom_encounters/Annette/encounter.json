@@ -1,0 +1,43 @@
+{
+  "id": 94262001,
+  "stageLevel": 48,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 7
+  },
+  "battleCameraInfo": {
+    "defaultPosX": -0.97,
+    "defaultPosY": 0.87,
+    "defaultPosZ": 25
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp10RPG_3F_RepairRoom"
+      },
+      "unitList": [
+        {
+          "unitID": 1495,
+          "unitCount": 1,
+          "unitLevel": 48
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp10_Enemy_2"
+      ],
+      "allyPositionID": 254,
+      "enemyPositionID": 255,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 45,
+  "turnLimit": 99,
+  "questlist": [],
+  "rewardList": [],
+  "isBatonPassOn": false,
+  "stageScriptList": [],
+  "story": {}
+}

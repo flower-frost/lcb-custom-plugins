@@ -1,0 +1,42 @@
+{
+  "id": 94262006,
+  "stageLevel": 64,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "min": 1,
+    "max": 7
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0,
+    "defaultPosZ": 30
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp10_B_B2F_DyeingRoom"
+      },
+      "unitList": [
+        {
+          "unitID": 1519,
+          "unitCount": 1,
+          "unitLevel": 64
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp10_Enemy_5"
+      ],
+      "enemyPositionID": 258,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 64,
+  "turnLimit": 99,
+  "questlist": [],
+  "rewardList": [],
+  "isBatonPassOn": false,
+  "stageScriptList": [],
+  "story": {}
+}

@@ -1,0 +1,304 @@
+{
+  "list": [
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511501
+      ],
+      "id": 9510501,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511502
+      ],
+      "id": 9510502,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511503
+      ],
+      "id": 9510503,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511504
+      ],
+      "id": 9510504,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511505
+      ],
+      "id": 9510505,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511506
+      ],
+      "id": 9510506,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511507
+      ],
+      "id": 9510507,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511508
+      ],
+      "id": 9510508,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511509
+      ],
+      "id": 9510509,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511510
+      ],
+      "id": 9510510,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511511
+      ],
+      "id": 9510511,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    },
+    {
+      "maxActionSlotNum": 1,
+      "overridePersonalityId": 10101,
+      "passiveSet": {
+        "passiveIdList": []
+      },
+      "unitScriptID": "ShadowAbnormality",
+      "startActionSlotNum": 1,
+      "classType": "ZAYIN",
+      "unitKeywordList": [
+        "SHADOW_ENEMY",
+        "SMALL"
+      ],
+      "isOriginNormalEnemy": true,
+      "hasMp": true,
+      "attributeType": "VIOLET",
+      "panic": -45,
+      "abnormalityPartList": [
+        9511512
+      ],
+      "id": 9510512,
+      "lowMorale": -20,
+      "egoList": [],
+      "patternID": "PickLikeAPlayerHighest"
+    }
+  ]
+}

@@ -1,0 +1,1912 @@
+{
+  "schemaVersion": 2,
+  "snapshotDate": "2026-10-07",
+  "createdAt": "2026-10-07T17:03:08.9794793+08:00",
+  "scope": "Custom plugins and locally authored encounter/personality mods only. Third-party mods and edited third-party packages excluded. Custom DLLs retain their existing compatibility code.",
+  "dllCount": 14,
+  "modCount": 21,
+  "encounterCount": 27,
+  "payloadFileCount": 272,
+  "sourceFilesUnchanged": true,
+  "gameRuntimeTested": false,
+  "includedMods": [
+    "9-42 Lucio Valencia",
+    "9-43 Ring Rematch",
+    "9-44 Middle ProMax",
+    "9-44 Middle Rematch",
+    "9-45 Cockroach Emperor",
+    "Chapter 10 Part 2 Standalone",
+    "Chapter 10 Part 3 Standalone",
+    "Chapter 10 Standalone",
+    "Codex Thumb HP",
+    "Hard Mapping Encounters",
+    "Identity Arena",
+    "LCD Trio - 9-44 Native Patterns",
+    "MiddleFather944 - Player Test",
+    "Obsidian God - All Sinners",
+    "Rien - Hong Lu Mapping",
+    "Rien - Shared Ampoules",
+    "Rien - Unwritten Prescript",
+    "Rien - Unwritten Prescript - Weakened 1",
+    "Thumb Family 9-42 - All Sinners",
+    "Vergilius - All Sinners",
+    "Vespa - Middle Rematch All Sinners"
+  ],
+  "excludedThirdPartyMods": [
+    "325",
+    "LCD Encounter",
+    "LeiHeng",
+    "luciovalencinaawesome",
+    "Reception of the Purple Tear",
+    "Reflectrial Rien Encounter",
+    "ReflectrialLeiHeng",
+    "Reversed 9-45",
+    "The Yellow Harpoon - Meursault",
+    "The Yellow Harpoon - Meursault (Nerfed)",
+    "valencia",
+    "valencia lucio",
+    "Vergilius Encounter",
+    "Vergilius Encounter - Solo"
+  ],
+  "encounters": [
+    {
+      "mod": "9-42 Lucio Valencia",
+      "id": 94242001,
+      "title": "9-42：卢西奥与瓦伦希娜"
+    },
+    {
+      "mod": "9-43 Ring Rematch",
+      "id": 94243001,
+      "title": "9-43：环指二战"
+    },
+    {
+      "mod": "9-44 Middle ProMax",
+      "id": 94244002,
+      "title": "9-44：中指二战 ProMax"
+    },
+    {
+      "mod": "9-44 Middle Rematch",
+      "id": 94244001,
+      "title": "9-44：中指二战"
+    },
+    {
+      "mod": "9-45 Cockroach Emperor",
+      "id": 94245001,
+      "title": "9-45：蜚蠊皇帝"
+    },
+    {
+      "mod": "Chapter 10 Part 2 Standalone",
+      "id": 94262002,
+      "title": "？？？ · 失童中心独立测试"
+    },
+    {
+      "mod": "Chapter 10 Part 2 Standalone",
+      "id": 94262001,
+      "title": "改衣师安妮特 · 独立测试"
+    },
+    {
+      "mod": "Chapter 10 Part 2 Standalone",
+      "id": 94262005,
+      "title": "古老海洋的黑之丝 · 独立测试"
+    },
+    {
+      "mod": "Chapter 10 Part 2 Standalone",
+      "id": 94262004,
+      "title": "黑派品牌经理 · 独立测试"
+    },
+    {
+      "mod": "Chapter 10 Part 2 Standalone",
+      "id": 94262003,
+      "title": "管制员 · 独立测试"
+    },
+    {
+      "mod": "Chapter 10 Part 2 Standalone",
+      "id": 94262006,
+      "title": "油灰 · 独立测试"
+    },
+    {
+      "mod": "Chapter 10 Part 3 Standalone",
+      "id": 94263004,
+      "title": "赤红之神 · 血战到底"
+    },
+    {
+      "mod": "Chapter 10 Part 3 Standalone",
+      "id": 94263003,
+      "title": "赤红之神 · 吱咿的记忆"
+    },
+    {
+      "mod": "Chapter 10 Part 3 Standalone",
+      "id": 94263005,
+      "title": "赤红之神 · 无忆死战"
+    },
+    {
+      "mod": "Chapter 10 Part 3 Standalone",
+      "id": 94263006,
+      "title": "黑神 · 裁决变奏 [无混乱保护]"
+    },
+    {
+      "mod": "Chapter 10 Part 3 Standalone",
+      "id": 94263007,
+      "title": "黑神 · 裁决变奏 [混乱保护]"
+    },
+    {
+      "mod": "Chapter 10 Part 3 Standalone",
+      "id": 94263002,
+      "title": "黑神 · 无减威力"
+    },
+    {
+      "mod": "Chapter 10 Part 3 Standalone",
+      "id": 94263001,
+      "title": "黑神 · 全员解法"
+    },
+    {
+      "mod": "Chapter 10 Standalone",
+      "id": 94260001,
+      "title": "三楼经理 · 广播室"
+    },
+    {
+      "mod": "Chapter 10 Standalone",
+      "id": 94260002,
+      "title": "绯红之神 · 未成之生"
+    },
+    {
+      "mod": "Hard Mapping Encounters",
+      "id": 94254001,
+      "title": "Kim Gyeong-eop - Hard Unlimited"
+    },
+    {
+      "mod": "Hard Mapping Encounters",
+      "id": 94255001,
+      "title": "Lei Heng - Hard Unlimited"
+    },
+    {
+      "mod": "Hard Mapping Encounters",
+      "id": 94253001,
+      "title": "Ricardo - Hard Unlimited"
+    },
+    {
+      "mod": "Hard Mapping Encounters",
+      "id": 94252001,
+      "title": "Rufo - Hard Unlimited"
+    },
+    {
+      "mod": "Identity Arena",
+      "id": 95100501,
+      "title": "人格对战实验室 / Identity Arena"
+    },
+    {
+      "mod": "Rien - Unwritten Prescript",
+      "id": 94247001,
+      "title": "里恩 · 未竟之谕"
+    },
+    {
+      "mod": "Rien - Unwritten Prescript - Weakened 1",
+      "id": 94247002,
+      "title": "里恩 · 未竟之谕（削弱版 1）"
+    }
+  ],
+  "readmeSha256": "b356578f0b773d8e0171bfb634818566d30cc88674daa569c5c76c840f2c9f90",
+  "files": [
+    {
+      "path": "BepInEx/plugins/BattleDirector/BattleDirector.dll",
+      "bytes": 60928,
+      "sha256": "3cc82c952ea226583f18832cc220063d256acab4143b1eefdccd2b79dc4d2183",
+      "plugins": [
+        {
+          "guid": "local.lcb.battle-director",
+          "name": "Battle Director",
+          "version": "1.7.2"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/Chapter10Part3/Chapter10Part3.dll",
+      "bytes": 140288,
+      "sha256": "24d66c56ee3e1b19724e0bcabd7bcb8df9c3febcc5760246429c23342d5094d4",
+      "plugins": [
+        {
+          "guid": "local.chapter10part3.encounters",
+          "name": "Chapter 10 Part 3 Encounters and Obsidian Mapping",
+          "version": "0.1.6"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/DisableFriendlySupport/DisableFriendlySupport.dll",
+      "bytes": 6144,
+      "sha256": "0fc26f5ac07bccd32bcf9c286e987dda201f8b69401e9728a4fbba0b9bd9d388",
+      "plugins": [
+        {
+          "guid": "local.lcb.disable-friendly-bench-support",
+          "name": "Disable Friendly Bench Support",
+          "version": "1.0.1"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/EnemyLevelHealthTuner/EnemyLevelHealthTuner.dll",
+      "bytes": 20480,
+      "sha256": "1f214f9e2966bbef3b3416c09442469caf2ed4629b2e97adc39b9cdebf5838ac",
+      "plugins": [
+        {
+          "guid": "local.lcb.enemy-level-health",
+          "name": "Enemy Level & Health Tuner",
+          "version": "0.1.0"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/IdentityArena/IdentityArena.dll",
+      "bytes": 101376,
+      "sha256": "3a9bcbf09711fc83c4a510094d5129ef2b90df745103a9e293f2c0ebdf4a2c08",
+      "plugins": [
+        {
+          "guid": "local.lcb.identity-arena",
+          "name": "Identity Arena / 人格对战实验室",
+          "version": "0.5.1"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/IdentityLevelRestore/IdentityLevelRestore.dll",
+      "bytes": 6656,
+      "sha256": "b3c7e0dd08f071acba006745892dc2da64d5439c2dd25a9f279182d4e10ba183",
+      "plugins": [
+        {
+          "guid": "local.lcb.selected-identity-levels",
+          "name": "Selected Identity Level Restore",
+          "version": "1.0.1"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/Lcd944Mappings/Lcd944Mappings.dll",
+      "bytes": 28672,
+      "sha256": "bef7dbf5edb623854739e24cbbd028e3555305db8564e1475a71ec542e0d114d",
+      "plugins": [
+        {
+          "guid": "local.lcd944.player-mappings",
+          "name": "LCD Trio - 9-44 Native Patterns",
+          "version": "0.1.0"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/MiddleFamilyPresentation/MiddleFamilyPresentation.dll",
+      "bytes": 10752,
+      "sha256": "5eef0c603548ca2812bb6eb6a5096514f2194cf2d90535a1814f2250ab3ae81b",
+      "plugins": [
+        {
+          "guid": "local.middlefamily944.presentation",
+          "name": "Middle Family Levels and Selection Art",
+          "version": "1.0.0"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/MiddleFather944/MiddleFather944.dll",
+      "bytes": 95232,
+      "sha256": "f8c5765c3c04de54f0ee0f36272143bd9f4f4d59df14c1f863bcf91303d9294d",
+      "plugins": [
+        {
+          "guid": "local.middlefather944.mapping",
+          "name": "Middle Father 9-44 Mapping - EXPERIMENTAL",
+          "version": "0.2.13"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/RienHard/RienHard.dll",
+      "bytes": 43008,
+      "sha256": "22294633208278497ca7d097ea54fb3ea9917d97d8f73cbaca6914f3ccd5e71a",
+      "plugins": [
+        {
+          "guid": "private.rien.hard",
+          "name": "Rien - Unwritten Prescript",
+          "version": "1.2.6"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/ThumbFamily942/ThumbFamily942.dll",
+      "bytes": 40448,
+      "sha256": "4fe641f74583f5acabb13af797467cbe5331e16caea2b67a85705add875fcdf7",
+      "plugins": [
+        {
+          "guid": "local.thumbfamily942.mapping",
+          "name": "Thumb Family 9-42 Mapping",
+          "version": "0.1.5"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/UpdateCompatibility/UpdateCompatibility.dll",
+      "bytes": 13824,
+      "sha256": "b6f163ca3940a65216c34c60b8428064d2fa308ffa22cf7af0132faf936af96a",
+      "plugins": [
+        {
+          "guid": "local.lcb.update-compatibility-20260929",
+          "name": "Local Update Compatibility",
+          "version": "1.0.1"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/VergiliusMappings/VergiliusMappings.dll",
+      "bytes": 38400,
+      "sha256": "0aaa1b8c8fb2abcc116de8d3f6d65a94bde13cf960a7ed24a3d35df68e139ea2",
+      "plugins": [
+        {
+          "guid": "private.partial.commands",
+          "name": "Partial Commands - Empty Slots",
+          "version": "1.2.1"
+        },
+        {
+          "guid": "private.vergilius.mappings",
+          "name": "Vergilius - All Sinners",
+          "version": "1.1.2"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/VespaMappings/VespaMappings.dll",
+      "bytes": 9216,
+      "sha256": "d48c07e5fbfe0c033884e071c18a7c98a06d090bc687fcb9ded7f8686612b643",
+      "plugins": [
+        {
+          "guid": "private.vespa.mappings",
+          "name": "Vespa - Middle Rematch All Sinners",
+          "version": "1.0.2"
+        }
+      ]
+    },
+    {
+      "path": "BepInEx/plugins/IdentityArena/catalog.json",
+      "bytes": 57488,
+      "sha256": "a4057f795bd93cba3523e4fbc2b01102a43dc3e1246d4e58d9b4092730c318ad",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/IdentityArena/stage-catalog.json",
+      "bytes": 4540626,
+      "sha256": "cf7dfbc240326a8804b1faa265791d456f872c590a614b903c709b438727de9b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-42 Lucio Valencia/custom_buffs/CodexMirrorFreeClash.txt",
+      "bytes": 21,
+      "sha256": "1f603d9a88b83678c47c8a367623213a7d07b9ff384f5a993d434abe630f9aaa",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-42 Lucio Valencia/custom_encounters/9-42 Lucio Valencia/encounter.json",
+      "bytes": 1065,
+      "sha256": "f7aff7a25bb8d6c29f6e3a16c5e90bca918a9546d62971b5f288dd25d372b3c7",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-42 Lucio Valencia/custom_encounters/9-42 Lucio Valencia/subchapterui.json",
+      "bytes": 724,
+      "sha256": "3290c9ffa2fdd0507fcd2262f39fd0c660dd031be9e065b21cbe1ba8f9a0087c",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-42 Lucio Valencia/custom_limbus_data/buff/CodexMirrorFreeClash.json",
+      "bytes": 372,
+      "sha256": "486edc48ad12546744aae7f701bdaf63ddb8fa06ebc1d13778b42aea77930e1e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-42 Lucio Valencia/custom_limbus_locale/EN/bufList/CodexMirrorFreeClash.json",
+      "bytes": 336,
+      "sha256": "262070bf80b4bcd22d01efe4574e16a6165051b9fb7ad16df7c4af2ffa3878fe",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-43 Ring Rematch/custom_encounters/9-43 Ring Rematch/encounter.json",
+      "bytes": 1147,
+      "sha256": "b95f10f809fa9ebda4e38392bf38dcc92bf5c7bbdb0e585daf679214b39d8f01",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-43 Ring Rematch/custom_encounters/9-43 Ring Rematch/subchapterui.json",
+      "bytes": 799,
+      "sha256": "3a17f1cbfc160390c8e8c40b9dec43c736c7fdda0e477f5df2fbee6f545fdca3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-44 Middle ProMax/custom_encounters/9-44 Middle ProMax/encounter.json",
+      "bytes": 962,
+      "sha256": "2ceb7dff115f36993195a011076a8e704861f6dc9f01ff75e8b82c19ed3eb5a9",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-44 Middle ProMax/custom_encounters/9-44 Middle ProMax/subchapterui.json",
+      "bytes": 876,
+      "sha256": "86708d9adbe91d3324ec1eb58c5075ac693731b7ba6e9f1ba469e4aeb55e4779",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-44 Middle Rematch/custom_encounters/9-44 Middle Rematch/encounter.json",
+      "bytes": 962,
+      "sha256": "7a0805dea22b57344434963be9fcc1b86fe570d888354972d33fdbf112d658d9",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-44 Middle Rematch/custom_encounters/9-44 Middle Rematch/subchapterui.json",
+      "bytes": 826,
+      "sha256": "2aa2287b73eee061f421af2107737107465f69f4f78dd7d226736860f6853fa7",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-45 Cockroach Emperor/custom_encounters/9-45 Cockroach Emperor/encounter.json",
+      "bytes": 819,
+      "sha256": "9f63ae794c5f3ccb115b28b710dafd31c17c636ade55ecf4134a131948c15644",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/9-45 Cockroach Emperor/custom_encounters/9-45 Cockroach Emperor/subchapterui.json",
+      "bytes": 808,
+      "sha256": "3668b24898e391fcf703b3ff28360a4cbdedbba6fb1ad8ee886320981ecd773e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/使用说明.md",
+      "bytes": 2784,
+      "sha256": "4797d1ecbfd06dae695c9ca57861f18702b233adaf331d5c366451c0d3bc6b45",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Alriune/encounter.json",
+      "bytes": 1056,
+      "sha256": "b3b399127db52cd92c813365688bea2ceac944a71c01b75833952ecc11e623d8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Alriune/subchapterui.json",
+      "bytes": 488,
+      "sha256": "2c14c0799691823299a7a77525037305f2bc484d8d08e6f025c8d0dd8df294bd",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Annette/encounter.json",
+      "bytes": 811,
+      "sha256": "a1159280adbab1bfbe538777c7cd943170575a04d90bff0f17d6b7ab2f93d782",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Annette/subchapterui.json",
+      "bytes": 485,
+      "sha256": "7594a12aff89092c57408838db445623dc6ea220ec1b43646be9b0398d7bd848",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Blackthread/encounter.json",
+      "bytes": 857,
+      "sha256": "203d2bb78e13e8a75c1fadebe62c86c3dfc0bc973d0e147704a3656317b2279b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Blackthread/subchapterui.json",
+      "bytes": 491,
+      "sha256": "15b75b700b9a4ff95810a379aa86da554e2d193bdccaca6196a84597451f3765",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Le Noir Manager/encounter.json",
+      "bytes": 1085,
+      "sha256": "a54169f17c1a79f95d70e9e848f4fb878397bb1c92292ec2c92aab12bcac89f2",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Le Noir Manager/subchapterui.json",
+      "bytes": 485,
+      "sha256": "656d60eb17ed1fd4d9588831e598bb8a18a8f33e7861eaa8f532b319710e10b6",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Overseer/encounter.json",
+      "bytes": 985,
+      "sha256": "3f4151dada1787e73c2357269740322fb18f672b52c990731aa613355853f879",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Overseer/subchapterui.json",
+      "bytes": 476,
+      "sha256": "328cbb2a53d654480d48d34133ffb27610b3dc159b181dd3d9bb8b74fd5c6acb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Putty/encounter.json",
+      "bytes": 775,
+      "sha256": "a43fc68d33dbcbcd05567c46e28fb6598bca7a374263dc48f17cdc1455750346",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_encounters/Putty/subchapterui.json",
+      "bytes": 473,
+      "sha256": "5e131485f567b5fda82da7c08d3b3fa719810d122aaba90492d455e42336d432",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/EN/abnormalityCotentData/Chapter10Part2-LLC.json",
+      "bytes": 1677,
+      "sha256": "cddc2692bc2115c14367367e18811e96dc2fb7d841e0baa7648926cae382fbe3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/EN/battleSpeechBubbleText/Chapter10Part2-LLC.json",
+      "bytes": 13115,
+      "sha256": "ea69548042829cc6340dd31e8c82047463cd16861aa5c9599407916a1feb9d44",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/EN/bufList/Chapter10Part2-LLC.json",
+      "bytes": 30165,
+      "sha256": "f7655feaecca1f7ac56000fe45b5d2f85658d514afe1d622c578d08b5374ab74",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/EN/enemyList/Chapter10Part2-LLC.json",
+      "bytes": 1413,
+      "sha256": "a7f23d1c4bbb5f3d66f4bb207b3559f3664eac71447eceb519c997dd91aa47d1",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/EN/keywordList/Chapter10Part2-LLC.json",
+      "bytes": 30093,
+      "sha256": "0e178cff7d03e25779c9874a494c19be8d17968d667356a80bdfaa37bc882932",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/EN/panicInfo/Chapter10Part2-LLC.json",
+      "bytes": 2524,
+      "sha256": "deec20cbf7335c515eaea2a18e42885f4c8fd5d26fef8ce1d8ed405d70955ea1",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/EN/passiveList/Chapter10Part2-LLC.json",
+      "bytes": 17212,
+      "sha256": "de45092232f9beed9a0c3a1a95e90a18be0d558d43c4b3aecf364b7f99bb7897",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/EN/skillList/Chapter10Part2-LLC.json",
+      "bytes": 62822,
+      "sha256": "cffb395771839f7d1c1fe912d2e490412a7dc3e8b7d7884b219c5d7de6d6245e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/JP/abnormalityCotentData/Chapter10Part2-LLC.json",
+      "bytes": 1677,
+      "sha256": "cddc2692bc2115c14367367e18811e96dc2fb7d841e0baa7648926cae382fbe3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/JP/battleSpeechBubbleText/Chapter10Part2-LLC.json",
+      "bytes": 13115,
+      "sha256": "ea69548042829cc6340dd31e8c82047463cd16861aa5c9599407916a1feb9d44",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/JP/bufList/Chapter10Part2-LLC.json",
+      "bytes": 30165,
+      "sha256": "f7655feaecca1f7ac56000fe45b5d2f85658d514afe1d622c578d08b5374ab74",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/JP/enemyList/Chapter10Part2-LLC.json",
+      "bytes": 1413,
+      "sha256": "23eb28bda9c1376f0299854d3f0b504b6abfb33af7cb77aa192169c205f9f674",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/JP/keywordList/Chapter10Part2-LLC.json",
+      "bytes": 30093,
+      "sha256": "301aebfe9739336228ce497c13e764d0ead2d874698b81ab260f06e2e66f51a2",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/JP/panicInfo/Chapter10Part2-LLC.json",
+      "bytes": 2524,
+      "sha256": "deec20cbf7335c515eaea2a18e42885f4c8fd5d26fef8ce1d8ed405d70955ea1",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/JP/passiveList/Chapter10Part2-LLC.json",
+      "bytes": 17212,
+      "sha256": "eb8ed37952e8ef5fdfd8f1240d17cc2e4cacf3f8e0f7a2b4a268f5c4dd817f50",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/JP/skillList/Chapter10Part2-LLC.json",
+      "bytes": 62822,
+      "sha256": "cffb395771839f7d1c1fe912d2e490412a7dc3e8b7d7884b219c5d7de6d6245e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/KR/abnormalityCotentData/Chapter10Part2-LLC.json",
+      "bytes": 1677,
+      "sha256": "cddc2692bc2115c14367367e18811e96dc2fb7d841e0baa7648926cae382fbe3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/KR/battleSpeechBubbleText/Chapter10Part2-LLC.json",
+      "bytes": 13115,
+      "sha256": "ea69548042829cc6340dd31e8c82047463cd16861aa5c9599407916a1feb9d44",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/KR/bufList/Chapter10Part2-LLC.json",
+      "bytes": 30165,
+      "sha256": "f7655feaecca1f7ac56000fe45b5d2f85658d514afe1d622c578d08b5374ab74",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/KR/enemyList/Chapter10Part2-LLC.json",
+      "bytes": 1413,
+      "sha256": "23eb28bda9c1376f0299854d3f0b504b6abfb33af7cb77aa192169c205f9f674",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/KR/keywordList/Chapter10Part2-LLC.json",
+      "bytes": 30093,
+      "sha256": "301aebfe9739336228ce497c13e764d0ead2d874698b81ab260f06e2e66f51a2",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/KR/panicInfo/Chapter10Part2-LLC.json",
+      "bytes": 2524,
+      "sha256": "deec20cbf7335c515eaea2a18e42885f4c8fd5d26fef8ce1d8ed405d70955ea1",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/KR/passiveList/Chapter10Part2-LLC.json",
+      "bytes": 17212,
+      "sha256": "eb8ed37952e8ef5fdfd8f1240d17cc2e4cacf3f8e0f7a2b4a268f5c4dd817f50",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 2 Standalone/custom_limbus_locale/KR/skillList/Chapter10Part2-LLC.json",
+      "bytes": 62822,
+      "sha256": "cffb395771839f7d1c1fe912d2e490412a7dc3e8b7d7884b219c5d7de6d6245e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Crimson - Attrition/encounter.json",
+      "bytes": 1201,
+      "sha256": "66547ae1964bd1b26c86f919294707c662fb974b35475c695786b15d3c2dc6e0",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Crimson - Attrition/subchapterui.json",
+      "bytes": 479,
+      "sha256": "01574c9e505d926a147c93dd6f27ad869dfc91e42989cbd5fe1fc1ba6b19efb3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Crimson - Memory/encounter.json",
+      "bytes": 1201,
+      "sha256": "1c8e3bd03bae47bfcb311a634e6de6d953e92e6d280b01f67dc024b9fa134f30",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Crimson - Memory/subchapterui.json",
+      "bytes": 482,
+      "sha256": "7fdfe46588fe953567dc4bca4977c0dd5ea2330df12d58aae51b49b87e16f104",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Crimson - No Memories/encounter.json",
+      "bytes": 1201,
+      "sha256": "0cc978ba3776b63669e1758c1426a93b8ec1d85f4f8f7b33756e43cbbf3bab1e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Crimson - No Memories/README.txt",
+      "bytes": 2794,
+      "sha256": "4900eff30aaa384b327579e072b35c6e02c14ca8f1d6658c0b772a77a1891134",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Crimson - No Memories/subchapterui.json",
+      "bytes": 479,
+      "sha256": "f054aaa0ba3be2e011860c1464a887f57594a217511fc7c775c4929870b2a2d7",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Obsidian - Limited Execution/encounter.json",
+      "bytes": 1130,
+      "sha256": "a9fb08b83a6df44d0e320fa49ae6f935aabb5597e39f26690f81626757ed6f47",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Obsidian - Limited Execution/subchapterui.json",
+      "bytes": 1647,
+      "sha256": "2b8c2c0cbf29b5cad266184544a3baf0688e91a32fc482aece318e16b40d8fab",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Obsidian - Limited Execution Protected/encounter.json",
+      "bytes": 1130,
+      "sha256": "9ae5639d90be9e3ec0011b61d1b4e3dffb32146f714140e4f12dc5ae948885e4",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Obsidian - Limited Execution Protected/subchapterui.json",
+      "bytes": 1695,
+      "sha256": "391b9b39d304826f52c507ee0c46a3e3fe165ab674509adfee274783a79a5466",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Obsidian - No Concession/encounter.json",
+      "bytes": 1074,
+      "sha256": "9167add962266ea518795b20c5db1e65bb440ebe007540c726bed545b0885ad5",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Obsidian - No Concession/subchapterui.json",
+      "bytes": 473,
+      "sha256": "cd4ab76796a5c534865ae739074e52e45ad8c1e557da9c72e4649eedc75b91f5",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Obsidian - Shared Answer/encounter.json",
+      "bytes": 1074,
+      "sha256": "4394f6f1be48b7574b0444f2d6f427aa54f7b7dcbf862e119ee41b2afaf59b82",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_encounters/Obsidian - Shared Answer/subchapterui.json",
+      "bytes": 473,
+      "sha256": "7f2f47500af0ba9cf45e8528c9b12b841bd56cee973fd6eb77c240c3c1ae590c",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/EN/battleSpeechBubbleText/Chapter10Part3-LLC.json",
+      "bytes": 20723,
+      "sha256": "90392ddac95de395a79fe1d71558af6b49cba7beee36eb870e75d62626fc2e6b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/EN/bufList/Chapter10Part3-LLC.json",
+      "bytes": 50218,
+      "sha256": "1c17efa7a6040a988f51eda8722d786a44d7b30fb3d7cb91499b7f4d9893dea3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/EN/enemyList/Chapter10Part3-LLC.json",
+      "bytes": 2062,
+      "sha256": "d973609569a1ce99ce36cd431d8ae394c6f4b0c1c1b42c4cc223800c66423dab",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/EN/keywordList/Chapter10Part3-LLC.json",
+      "bytes": 53008,
+      "sha256": "7fa2d873488a4d485da775044cd6cd7a56aa507df7073213e97dd57712a8aa0f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/EN/panicInfo/Chapter10Part3-LLC.json",
+      "bytes": 3810,
+      "sha256": "a8ac4e4e1560b012278262a8242918ee505aee26091e4e5330fdc199e153ff24",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/EN/passiveList/Chapter10Part3-LLC.json",
+      "bytes": 52486,
+      "sha256": "a8c97d56acf1aa42c098a058705777fb98400515dd8578efb49592c516eaa83f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/EN/skillList/Chapter10Part3-LLC.json",
+      "bytes": 104813,
+      "sha256": "3c77a78cbb14d39ef2e16c2653262d37cc0397e7dbe1b6d983c78b69c761193a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/EN/stageNodeText/Obsidian-Limited-Execution-Protected.json",
+      "bytes": 1289,
+      "sha256": "5ab4c83a471000fa16ffe6755411ddd5edadb5963724a9992f380191f06a3945",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/EN/stageNodeText/Obsidian-Limited-Execution.json",
+      "bytes": 1241,
+      "sha256": "3cae681d2e50ed77dd254626865daa4207cbe9ddb5ada4cf42b87bb89509b36d",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/JP/battleSpeechBubbleText/Chapter10Part3-LLC.json",
+      "bytes": 20723,
+      "sha256": "90392ddac95de395a79fe1d71558af6b49cba7beee36eb870e75d62626fc2e6b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/JP/bufList/Chapter10Part3-LLC.json",
+      "bytes": 50218,
+      "sha256": "1c17efa7a6040a988f51eda8722d786a44d7b30fb3d7cb91499b7f4d9893dea3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/JP/enemyList/Chapter10Part3-LLC.json",
+      "bytes": 2062,
+      "sha256": "d973609569a1ce99ce36cd431d8ae394c6f4b0c1c1b42c4cc223800c66423dab",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/JP/keywordList/Chapter10Part3-LLC.json",
+      "bytes": 53008,
+      "sha256": "7fa2d873488a4d485da775044cd6cd7a56aa507df7073213e97dd57712a8aa0f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/JP/panicInfo/Chapter10Part3-LLC.json",
+      "bytes": 3810,
+      "sha256": "a8ac4e4e1560b012278262a8242918ee505aee26091e4e5330fdc199e153ff24",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/JP/passiveList/Chapter10Part3-LLC.json",
+      "bytes": 52486,
+      "sha256": "a8c97d56acf1aa42c098a058705777fb98400515dd8578efb49592c516eaa83f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/JP/skillList/Chapter10Part3-LLC.json",
+      "bytes": 104813,
+      "sha256": "3c77a78cbb14d39ef2e16c2653262d37cc0397e7dbe1b6d983c78b69c761193a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/JP/stageNodeText/Obsidian-Limited-Execution-Protected.json",
+      "bytes": 1289,
+      "sha256": "5ab4c83a471000fa16ffe6755411ddd5edadb5963724a9992f380191f06a3945",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/JP/stageNodeText/Obsidian-Limited-Execution.json",
+      "bytes": 1241,
+      "sha256": "3cae681d2e50ed77dd254626865daa4207cbe9ddb5ada4cf42b87bb89509b36d",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/KR/battleSpeechBubbleText/Chapter10Part3-LLC.json",
+      "bytes": 20723,
+      "sha256": "90392ddac95de395a79fe1d71558af6b49cba7beee36eb870e75d62626fc2e6b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/KR/bufList/Chapter10Part3-LLC.json",
+      "bytes": 50218,
+      "sha256": "1c17efa7a6040a988f51eda8722d786a44d7b30fb3d7cb91499b7f4d9893dea3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/KR/enemyList/Chapter10Part3-LLC.json",
+      "bytes": 2062,
+      "sha256": "d973609569a1ce99ce36cd431d8ae394c6f4b0c1c1b42c4cc223800c66423dab",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/KR/keywordList/Chapter10Part3-LLC.json",
+      "bytes": 53008,
+      "sha256": "7fa2d873488a4d485da775044cd6cd7a56aa507df7073213e97dd57712a8aa0f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/KR/panicInfo/Chapter10Part3-LLC.json",
+      "bytes": 3810,
+      "sha256": "a8ac4e4e1560b012278262a8242918ee505aee26091e4e5330fdc199e153ff24",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/KR/passiveList/Chapter10Part3-LLC.json",
+      "bytes": 52486,
+      "sha256": "a8c97d56acf1aa42c098a058705777fb98400515dd8578efb49592c516eaa83f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/KR/skillList/Chapter10Part3-LLC.json",
+      "bytes": 104813,
+      "sha256": "3c77a78cbb14d39ef2e16c2653262d37cc0397e7dbe1b6d983c78b69c761193a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/KR/stageNodeText/Obsidian-Limited-Execution-Protected.json",
+      "bytes": 1289,
+      "sha256": "5ab4c83a471000fa16ffe6755411ddd5edadb5963724a9992f380191f06a3945",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Part 3 Standalone/custom_limbus_locale/KR/stageNodeText/Obsidian-Limited-Execution.json",
+      "bytes": 1241,
+      "sha256": "3cae681d2e50ed77dd254626865daa4207cbe9ddb5ada4cf42b87bb89509b36d",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/使用说明.md",
+      "bytes": 1284,
+      "sha256": "b85b8036d4a3f1b95b511809447f0d9e7a33f64417b10f98e4cfaac59b18802f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_encounters/3F Floor Manager/encounter.json",
+      "bytes": 833,
+      "sha256": "7a2dfe5673e4bc229cbb46e1090a715a5ef6935e318c8bd9a9d346525bfa99d8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_encounters/3F Floor Manager/subchapterui.json",
+      "bytes": 476,
+      "sha256": "4be40c7b993adfe9761b74f0b80e97fdd3b6741b7f23208bf950c137b8ed63b0",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_encounters/The Crimson God/encounter.json",
+      "bytes": 962,
+      "sha256": "b22e869aa55a414cd80a91504db5be8ebf26face59a9c8b2174ea4c10973a741",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_encounters/The Crimson God/subchapterui.json",
+      "bytes": 479,
+      "sha256": "eaa9552f542c550557d7149b360eb95d2165fd4d91b4ea936f43880241e2b23c",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/EN/bufList/Chapter10-SelfTranslation.json",
+      "bytes": 6044,
+      "sha256": "72dd52a199e1e7eb0fe002f0eac4379f5cc8188240571fc0eb5ade607412193a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/EN/enemyList/Chapter10-SelfTranslation.json",
+      "bytes": 432,
+      "sha256": "03e03980592c90d9077e81b411f88445903ebe8496a77f8675aebf474e329d98",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/EN/keywordList/Chapter10-SelfTranslation.json",
+      "bytes": 6044,
+      "sha256": "72dd52a199e1e7eb0fe002f0eac4379f5cc8188240571fc0eb5ade607412193a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/EN/passiveList/Chapter10-SelfTranslation.json",
+      "bytes": 4988,
+      "sha256": "923f1875df4b7256a8c66693e687771dfc6302ecc4ad0462ac25cdbce44a61d2",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/EN/skillList/Chapter10-SelfTranslation.json",
+      "bytes": 27775,
+      "sha256": "1e9a27b7923d752c0a08fcb6c0adc8e3c700694dd599e1d1360b1a3ab8cec396",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/JP/bufList/Chapter10-SelfTranslation.json",
+      "bytes": 6044,
+      "sha256": "72dd52a199e1e7eb0fe002f0eac4379f5cc8188240571fc0eb5ade607412193a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/JP/enemyList/Chapter10-SelfTranslation.json",
+      "bytes": 432,
+      "sha256": "03e03980592c90d9077e81b411f88445903ebe8496a77f8675aebf474e329d98",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/JP/keywordList/Chapter10-SelfTranslation.json",
+      "bytes": 6044,
+      "sha256": "72dd52a199e1e7eb0fe002f0eac4379f5cc8188240571fc0eb5ade607412193a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/JP/passiveList/Chapter10-SelfTranslation.json",
+      "bytes": 4988,
+      "sha256": "923f1875df4b7256a8c66693e687771dfc6302ecc4ad0462ac25cdbce44a61d2",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/JP/skillList/Chapter10-SelfTranslation.json",
+      "bytes": 27775,
+      "sha256": "1e9a27b7923d752c0a08fcb6c0adc8e3c700694dd599e1d1360b1a3ab8cec396",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/KR/bufList/Chapter10-SelfTranslation.json",
+      "bytes": 6044,
+      "sha256": "72dd52a199e1e7eb0fe002f0eac4379f5cc8188240571fc0eb5ade607412193a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/KR/enemyList/Chapter10-SelfTranslation.json",
+      "bytes": 432,
+      "sha256": "03e03980592c90d9077e81b411f88445903ebe8496a77f8675aebf474e329d98",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/KR/keywordList/Chapter10-SelfTranslation.json",
+      "bytes": 6044,
+      "sha256": "72dd52a199e1e7eb0fe002f0eac4379f5cc8188240571fc0eb5ade607412193a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/KR/passiveList/Chapter10-SelfTranslation.json",
+      "bytes": 4988,
+      "sha256": "923f1875df4b7256a8c66693e687771dfc6302ecc4ad0462ac25cdbce44a61d2",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Chapter 10 Standalone/custom_limbus_locale/KR/skillList/Chapter10-SelfTranslation.json",
+      "bytes": 27775,
+      "sha256": "1e9a27b7923d752c0a08fcb6c0adc8e3c700694dd599e1d1360b1a3ab8cec396",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Codex Thumb HP/说明.md",
+      "bytes": 342,
+      "sha256": "04652f945439e2ead63bd67a32413482e65d94224c4cfe336e9048b99dd99525",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Codex Thumb HP/custom_limbus_data/personality/Thumb-HP.json",
+      "bytes": 5317,
+      "sha256": "f9061a83108671e0c48b5ed759b9ee5e75d11185427b1735dc91a1515d5c2565",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Hard Mapping Encounters/custom_encounters/Kim Gyeong-eop - Hard Unlimited/encounter.json",
+      "bytes": 1767,
+      "sha256": "71d1a869bea13df2bded08d8512c58f5d9d1f27441b6aa980ce9dc8127480d1b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Hard Mapping Encounters/custom_encounters/Kim Gyeong-eop - Hard Unlimited/subchapterui.json",
+      "bytes": 482,
+      "sha256": "a55f39cb95eedb33b97387e7835b598a96b023339a63933860390ed143db0be5",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Hard Mapping Encounters/custom_encounters/Lei Heng - Hard Unlimited/encounter.json",
+      "bytes": 932,
+      "sha256": "05a9e01889bca1d2905f5cd0866e0ab05457625f1141503c2131d2268b3dd633",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Hard Mapping Encounters/custom_encounters/Lei Heng - Hard Unlimited/subchapterui.json",
+      "bytes": 476,
+      "sha256": "a49b29ff727a21bb56baf75ae6a4b422e8b1df9882722e2686e86f075af4042a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Hard Mapping Encounters/custom_encounters/Ricardo - Hard Unlimited/encounter.json",
+      "bytes": 1337,
+      "sha256": "59c884532a7f3ce05945ac354cf8a2472b84bb29dc26fddf2e360c3f8a71e89b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Hard Mapping Encounters/custom_encounters/Ricardo - Hard Unlimited/subchapterui.json",
+      "bytes": 475,
+      "sha256": "24778cef28db405982eee4ef57807aad55ad636339492af6c0116ad68e4bf88b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Hard Mapping Encounters/custom_encounters/Rufo - Hard Unlimited/encounter.json",
+      "bytes": 1938,
+      "sha256": "3ef329ad1ab3ca17ad000e3636d5040a103241b583ac51c70398ccbcaea26078",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Hard Mapping Encounters/custom_encounters/Rufo - Hard Unlimited/subchapterui.json",
+      "bytes": 472,
+      "sha256": "ef21417879cea4e9883c43294e35ac146e44969377c5690ace23cd39af2d434f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Identity Arena/custom_encounters/Identity Arena/encounter.json",
+      "bytes": 936,
+      "sha256": "6ad5a79024ef41ca4e3ff2de3ce948032cab468af20f1e615a87d6a1b85b570b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Identity Arena/custom_encounters/Identity Arena/subchapterui.json",
+      "bytes": 509,
+      "sha256": "d5cd74d19930a642655c2b9ef690015dddbea439ee725f7037146579fd2b82dc",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Identity Arena/custom_limbus_data/abnormality-part/Arena.json",
+      "bytes": 3549,
+      "sha256": "9fa3b3c63948d46efdd7a14fd0d051fc7c6fac866f27503254c539ce27a73b16",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Identity Arena/custom_limbus_data/abnormality-unit/Arena.json",
+      "bytes": 7425,
+      "sha256": "e9b6dd75cc4c66dcfdc357b59b7b77a5e7d8dc51b369e1764ee739895a54fdc1",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/LCD Trio - 9-44 Native Patterns/使用说明.txt",
+      "bytes": 2401,
+      "sha256": "d46046442a2e1f260d3af28ada21f41e062b4f69cd38d291fc72ff7f99d82a02",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/LCD Trio - 9-44 Native Patterns/custom_limbus_data/passive/LCD944.json",
+      "bytes": 1168,
+      "sha256": "9a82bee44e1554accaa91aff5c202cc04fabdd0d66f4b1be1e4a5444ff490bd4",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/LCD Trio - 9-44 Native Patterns/custom_limbus_data/personality/LCD944.json",
+      "bytes": 124581,
+      "sha256": "71bd2623c7b320e32382446e2fc6ab275146f077da9090ad00c22646b82192b3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/LCD Trio - 9-44 Native Patterns/custom_limbus_data/personality-passive/LCD944.json",
+      "bytes": 13854,
+      "sha256": "86737977d2b9db4fffa079d7133914a430323809635416ae25f707ccd3d56e1e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/LCD Trio - 9-44 Native Patterns/custom_limbus_locale/EN/passiveList/LCD944.json",
+      "bytes": 5119,
+      "sha256": "de8a5ec20caeb3c3d6bf1f86f6f29572959dc98a04112028befc155980c58294",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/LCD Trio - 9-44 Native Patterns/custom_limbus_locale/EN/personalityList/LCD944.json",
+      "bytes": 11613,
+      "sha256": "c7493104cf113c86fcfd03d328879a941fccd2444ac0e1afe137237cc53527e9",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/MiddleFather944 - Player Test/MF944-OWNED.txt",
+      "bytes": 75,
+      "sha256": "d2f4e035096651426fd7174be4657b6ca7934b45e7017a61f0afe1912df28df8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/MiddleFather944 - Player Test/custom_limbus_data/personality/MiddleFather944.json",
+      "bytes": 132124,
+      "sha256": "d515d2a9219510c8efda00507a916a98ea8da5518c9b96703601627598e5000e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/MiddleFather944 - Player Test/custom_limbus_data/personality-passive/MiddleFather944.json",
+      "bytes": 14791,
+      "sha256": "b1aff0043f4dd3b466efa5375183cc61c01be63dedf5f68f7e7bf493f35cfb2b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/MiddleFather944 - Player Test/custom_limbus_data/skill/MiddleFather944.json",
+      "bytes": 75833,
+      "sha256": "6224399d4c29b1d51d200ef5e15c41e26900b7379698ed32636575381a070b84",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/MiddleFather944 - Player Test/custom_limbus_locale/EN/personalityList/MiddleFather944.json",
+      "bytes": 12459,
+      "sha256": "5a3f7be453c7c91530664c712686123e547bf1d6029191889d8b2f3ffd8ea9a8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/MiddleFather944 - Player Test/custom_limbus_locale/JP/personalityList/MiddleFather944.json",
+      "bytes": 12459,
+      "sha256": "5a3f7be453c7c91530664c712686123e547bf1d6029191889d8b2f3ffd8ea9a8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/MiddleFather944 - Player Test/custom_limbus_locale/KR/personalityList/MiddleFather944.json",
+      "bytes": 12459,
+      "sha256": "5a3f7be453c7c91530664c712686123e547bf1d6029191889d8b2f3ffd8ea9a8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_data/assistant/ObsidianCandles.json",
+      "bytes": 2111,
+      "sha256": "116e8ae4031bf34363ac31810c7b6b3e4d5473bcc49d93bc9dfeddc8d000e89b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_data/passive/Obsidian.json",
+      "bytes": 104,
+      "sha256": "6e76c18ab30f3df261e96d317e3133ba316eee66d8844d0314aff1155f2487ba",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_data/personality/Obsidian.json",
+      "bytes": 50566,
+      "sha256": "179162df415cb9d85a90204d2448a075eb49a45873a832884e11b61b81dcda50",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_data/personality-passive/Obsidian.json",
+      "bytes": 5515,
+      "sha256": "866ce15c692d703d84e48191ca9ce588b30b13681a59790c1a026345151bb4b6",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_locale/EN/enemyList/ObsidianCandles.json",
+      "bytes": 69,
+      "sha256": "61c7e833958e4119357feebfbdd504754785346b24a1e48e17e84d8e2e5b6644",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_locale/EN/passiveList/Obsidian.json",
+      "bytes": 1017,
+      "sha256": "87eacddf0c7c3f291eece6ac9e472f6aabe3581e7416a7d96208b931bf026fa5",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_locale/EN/personalityList/Obsidian.json",
+      "bytes": 2631,
+      "sha256": "711be10348e4393c71319367f550d6aa515fb3449aeb8b81beab5403ac575cef",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_locale/JP/enemyList/ObsidianCandles.json",
+      "bytes": 69,
+      "sha256": "657c53526fb765d3dc8f4620b553c380ddcf69c9f175d466e9505d3177733197",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_locale/JP/passiveList/Obsidian.json",
+      "bytes": 1017,
+      "sha256": "87eacddf0c7c3f291eece6ac9e472f6aabe3581e7416a7d96208b931bf026fa5",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_locale/JP/personalityList/Obsidian.json",
+      "bytes": 2631,
+      "sha256": "4944055cf916c557cc02ba3dc0499496c1c3f43a496c1d64d8ab87a1031421e9",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_locale/KR/enemyList/ObsidianCandles.json",
+      "bytes": 69,
+      "sha256": "657c53526fb765d3dc8f4620b553c380ddcf69c9f175d466e9505d3177733197",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_locale/KR/passiveList/Obsidian.json",
+      "bytes": 1017,
+      "sha256": "87eacddf0c7c3f291eece6ac9e472f6aabe3581e7416a7d96208b931bf026fa5",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Obsidian God - All Sinners/custom_limbus_locale/KR/personalityList/Obsidian.json",
+      "bytes": 2631,
+      "sha256": "d8a4fe2c070a939936f1bd29e735739191632c034584283bb16e8ac183cf084f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/安装与使用说明.md",
+      "bytes": 1065,
+      "sha256": "aa522dcf41ab2a18ad0854945d56b4d8d6f0ac1a4802c7d0a3fab802b0d3b94c",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/custom_limbus_data/passive/RienMapped.json",
+      "bytes": 5191,
+      "sha256": "3f2658dee3f092fa7ab593991dd62956111aec53dcc834457d637970cc1602a0",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/custom_limbus_data/personality/RienMapped.json",
+      "bytes": 4084,
+      "sha256": "5f6e3d5f2fac37d02dd995a87f63070b51f85cc53ac87310bbacf873fdfbd611",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/custom_limbus_data/personality-passive/RienMapped.json",
+      "bytes": 576,
+      "sha256": "096b65a0f7d04a703e2feddcb637c5e3c9383d95c03383bae177dd341d8bd66f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/custom_limbus_data/skill/RienMapped.json",
+      "bytes": 79997,
+      "sha256": "9b4e6a686f0002223976ce6fa83760eaac91207c18c5a0b862e0ccfeac870c62",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/custom_limbus_locale/EN/passiveList/RienMapped.json",
+      "bytes": 20217,
+      "sha256": "17eb3bb33c28f76cbed28f874c0fd62916a82030e4931d28ce5110c457ffbfb3",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/custom_limbus_locale/EN/personalityList/RienMapped.json",
+      "bytes": 268,
+      "sha256": "5831041d5f59148c30c369cd71db16670531f23314a691e89de5611839efbb2f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/custom_limbus_locale/EN/skillList/RienMapped.json",
+      "bytes": 34990,
+      "sha256": "bdbc78e0852b0c5b673a3744927f85578944c9e863c278ca760acf35383fc057",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/modular_lua/RienMapped.lua",
+      "bytes": 4885,
+      "sha256": "8d375b31a08f313edf13f6a8ad3205c04bb4df574eef2dc0d8aec0aac4d9dcde",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Hong Lu Mapping/modular_lua/RienMappedSolo.lua",
+      "bytes": 3694,
+      "sha256": "6ed36519ba7179892c34134a18690d960709ed4f609ec91a55812b3593181709",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Shared Ampoules/custom_buffs/CodexRienSharedAmpoule.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Shared Ampoules/custom_limbus_data/buff/RienAmpoule.json",
+      "bytes": 250,
+      "sha256": "2fb80344cca26c8b7259dbff7aad14cd58af87ae45a5a77d824e0aa529791203",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Shared Ampoules/custom_limbus_locale/EN/bufList/RienAmpoule.json",
+      "bytes": 731,
+      "sha256": "888aed129e915b4279a18c812e3cfefb9c0eae2ad7be4a88af744c187452d61d",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Shared Ampoules/custom_limbus_locale/EN/keywordList/RienAmpoule.json",
+      "bytes": 265,
+      "sha256": "89beafbb01e453663160d67b5953166fb72eee2493abc837d819aa2e38fa0b3b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/20260915-加强说明.md",
+      "bytes": 803,
+      "sha256": "0bec5084379f175d58c15ef8b58683be0dfdf1982e6d3388be2e9105a6adb266",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/里恩-技能改动清单.md",
+      "bytes": 10283,
+      "sha256": "6512106b51ca18c6f3c0ca71237dd060b220d2687bb4582791fc9f503a460e60",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_buffs/CodexRienDebt.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_buffs/CodexRienInquiry.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_encounters/Rien Unwritten/encounter.json",
+      "bytes": 820,
+      "sha256": "4f1e165d3fa59c330af8ae6eeccf437bafc553557410ba43ded770b3923cef24",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_encounters/Rien Unwritten/subchapterui.json",
+      "bytes": 923,
+      "sha256": "777d9a0e5b3fc6d6165c66019f502b4f03d65b36323f6ef677ddeaea538a625a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_data/abnormality-part/RienHard.json",
+      "bytes": 3629,
+      "sha256": "fce1f9f93664e9aae162776e7c66b6f60bdbb4b8e397d346242f2b597fdadc43",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_data/abnormality-unit/RienHard.json",
+      "bytes": 15418,
+      "sha256": "650ed062dfc8307ad792f71fc39d094bea0dff98a8dbfb3f25f4fc4b8d313ba9",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_data/buff/RienHard.json",
+      "bytes": 447,
+      "sha256": "36ea867e7454ec7d44c43c024f0ec0c516bcc55fba776df42c9eaa4686c4ab2a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_data/passive/RienHard.json",
+      "bytes": 5323,
+      "sha256": "631e706992a893d1657b12afe13f43a8a9545c0ab7b161d901b2c12caf27d4e9",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_data/skill/RienHard.json",
+      "bytes": 79997,
+      "sha256": "f7aac83622d93f7277aae1b81fd2752fdc2e717a031865da35356f0cd6355f48",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_locale/EN/bufList/RienHard.json",
+      "bytes": 789,
+      "sha256": "b4c3f271f7600b827faf57608d81498644a543468caa93c0bc3d0ca96052211b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_locale/EN/enemyList/RienHard.json",
+      "bytes": 174,
+      "sha256": "36f909385b36eee83dd1eff97fffbed40271c1e23015cc854760a51a8ab10071",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_locale/EN/keywordList/RienHard.json",
+      "bytes": 789,
+      "sha256": "b4c3f271f7600b827faf57608d81498644a543468caa93c0bc3d0ca96052211b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_locale/EN/passiveList/RienHard.json",
+      "bytes": 22321,
+      "sha256": "c92ff0fdc1fc489aabaeb2c6cb2fd2b73219c95698ea31da94d2e62805e6ae10",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_locale/EN/skillList/RienHard.json",
+      "bytes": 35739,
+      "sha256": "506fab92c843b67b62eda72fd555e6709662c0ca750e23132329a37f6f1a7e83",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_limbus_locale/EN/stageNodeText/RienHard.json",
+      "bytes": 62,
+      "sha256": "bc466c8e633644139e9b52989ba17f3d08cd8578126689dbb152bbe82ba0853c",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_sprites/buffIcon_CodexRienDebt.png",
+      "bytes": 803870,
+      "sha256": "71c32ec874a18dbc3c3877572c0acef7358fba724b40e8bf63acc7749e2cd0dd",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/custom_sprites/buffIcon_CodexRienInquiry.png",
+      "bytes": 1018645,
+      "sha256": "a05fb6958abf923fe229baa4844d70263c58c22561c386d309571f8d0e84e931",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/modular_lua/RienHard.lua",
+      "bytes": 4957,
+      "sha256": "2810d968a4e3dd3edb23423524158bc873f0501d7a6384e27830cab5c5c4de55",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript/modular_lua/RienSolo.lua",
+      "bytes": 3803,
+      "sha256": "519b04ae1c895f4f3f66b2c93d981ee4b1a9c45d42ba2ca5e73d33df4e7e390d",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/里恩-技能改动清单.md",
+      "bytes": 4486,
+      "sha256": "8c23c76f97840bea50ab2f493e164cf7b87841927fd5b48a700182d0424ce9fe",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/里恩-削弱版1与本次安装说明.md",
+      "bytes": 4486,
+      "sha256": "8c23c76f97840bea50ab2f493e164cf7b87841927fd5b48a700182d0424ce9fe",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_encounters/Rien Unwritten Weak/encounter.json",
+      "bytes": 820,
+      "sha256": "660cd1c63a8c2df6a03870598a9eeeba2eb3478e4da3914e5433e3fa40af2417",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_encounters/Rien Unwritten Weak/subchapterui.json",
+      "bytes": 725,
+      "sha256": "6809e24e4f053805256c1d5692c9d5a668ff19d04690ff50abb350a221e4cd98",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_limbus_data/abnormality-part/RienHard.json",
+      "bytes": 3629,
+      "sha256": "50d981e36afa588b657a2c2b621e0b225b2372f6f74ba3e2a76bbbda9d4deda6",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_limbus_data/abnormality-unit/RienHard.json",
+      "bytes": 15382,
+      "sha256": "44eba578a8eecebaf78809e91df0ea58e3b3ab6d645003c2e1dfb4925c3ecce8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_limbus_data/passive/RienHard.json",
+      "bytes": 4566,
+      "sha256": "1d3e42d1270626f654515a9f778061715c911adb467663b07b52a1dbb5273a16",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_limbus_data/skill/RienHard.json",
+      "bytes": 79988,
+      "sha256": "bad36190a0e979c19be5598bf91c79edd8abc19ce85833cd3d0226693dd1e2d1",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_limbus_locale/EN/enemyList/RienHard.json",
+      "bytes": 208,
+      "sha256": "7e75b13708a78ab7bc348209ca1c0ee1099af9a2cac9bccd672041cac859d035",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_limbus_locale/EN/passiveList/RienHard.json",
+      "bytes": 18704,
+      "sha256": "af6cdeb6a9f41f64e69cdbea3a3ca9c06290b1f147cbe0bb1ea3bfb3a586434a",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_limbus_locale/EN/skillList/RienHard.json",
+      "bytes": 34953,
+      "sha256": "51b223d48b73089579997e9f16b90c92111f4feee0a9516126f6be73ec195aea",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/custom_limbus_locale/EN/stageNodeText/RienHard.json",
+      "bytes": 79,
+      "sha256": "1c928410e5e017c12eb626ff1e1486547111494cc68db96908d6e09d825d0b94",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/modular_lua/RienSoloWeak.lua",
+      "bytes": 3823,
+      "sha256": "c2b56bd90e9892e39078baec1fee12ee64a920b912f724a5cbbb06f60c463002",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Rien - Unwritten Prescript - Weakened 1/modular_lua/RienWeak.lua",
+      "bytes": 4957,
+      "sha256": "6ade0dce767b2937dcf64491a5a61c85dcf58ecce106733848e82c65dc292984",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/README-安装与机制.md",
+      "bytes": 3226,
+      "sha256": "7f9a598032ce8d1ce724058f0867e20c91490201ed056444739ae175788ae272",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_data/buff/Thumb942.json",
+      "bytes": 3932,
+      "sha256": "08a458722ba25824513d393a6cbd66d8be46f76fe13131a726ebb6d638b852fe",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_data/passive/Thumb942.json",
+      "bytes": 1542,
+      "sha256": "ca28696f1e148ff9f6a99309d85d1f5a0acf99f1c3743cd183ec41a80b51e550",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_data/personality/Thumb942.json",
+      "bytes": 79681,
+      "sha256": "c09d8dab9af8a07156862383094860b725cbe630a5161e6628ca67b5aaad5581",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_data/personality-passive/Thumb942.json",
+      "bytes": 9943,
+      "sha256": "bc096e08995cdd2a9ef1ac14871e6151090d049f60ea9058cb10a8b3eddfe4f5",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_data/skill/Thumb942.json",
+      "bytes": 52572,
+      "sha256": "ebdf176921b33d3ebfc0eff2f09121f8b89b93e31162f3272ba23f6a086bbc15",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/EN/bufList/Thumb942.json",
+      "bytes": 2606,
+      "sha256": "8a1edd19447b4dcb0130da79339ee3ac5a7c48757e95b9f212e0bf2dc1eb037e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/EN/passiveList/Thumb942.json",
+      "bytes": 7141,
+      "sha256": "bc81cd8ee8a2a61157be6afdede38bee8d221c5c8d99049601f663a4148bafc8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/EN/personalityList/Thumb942.json",
+      "bytes": 5079,
+      "sha256": "6a64cfbb572806e3d1487a230f60bd8f9e867affe223f9bbe740a6d0d064e74e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/EN/skillList/Thumb942.json",
+      "bytes": 19414,
+      "sha256": "da506ea00e59d045c07a155e1aefaa5a6e453f9f2b95dc7b1e95dcf15b400159",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/JP/bufList/Thumb942.json",
+      "bytes": 2606,
+      "sha256": "8a1edd19447b4dcb0130da79339ee3ac5a7c48757e95b9f212e0bf2dc1eb037e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/JP/passiveList/Thumb942.json",
+      "bytes": 7141,
+      "sha256": "bc81cd8ee8a2a61157be6afdede38bee8d221c5c8d99049601f663a4148bafc8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/JP/personalityList/Thumb942.json",
+      "bytes": 5079,
+      "sha256": "6a64cfbb572806e3d1487a230f60bd8f9e867affe223f9bbe740a6d0d064e74e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/JP/skillList/Thumb942.json",
+      "bytes": 19414,
+      "sha256": "da506ea00e59d045c07a155e1aefaa5a6e453f9f2b95dc7b1e95dcf15b400159",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/KR/bufList/Thumb942.json",
+      "bytes": 2606,
+      "sha256": "8a1edd19447b4dcb0130da79339ee3ac5a7c48757e95b9f212e0bf2dc1eb037e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/KR/passiveList/Thumb942.json",
+      "bytes": 7141,
+      "sha256": "bc81cd8ee8a2a61157be6afdede38bee8d221c5c8d99049601f663a4148bafc8",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/KR/personalityList/Thumb942.json",
+      "bytes": 5079,
+      "sha256": "6a64cfbb572806e3d1487a230f60bd8f9e867affe223f9bbe740a6d0d064e74e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Thumb Family 9-42 - All Sinners/custom_limbus_locale/KR/skillList/Thumb942.json",
+      "bytes": 19414,
+      "sha256": "da506ea00e59d045c07a155e1aefaa5a6e453f9f2b95dc7b1e95dcf15b400159",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vergilius - All Sinners/使用说明.md",
+      "bytes": 1307,
+      "sha256": "a0930661f550748c1d06c976be36b37b42544986b6ab04354f25efd7b4cfb92f",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vergilius - All Sinners/custom_limbus_data/passive/Vergilius.json",
+      "bytes": 2215,
+      "sha256": "c3a47444498ae6594db5e76a89194a5feadddf124e2719a8536d10ddf2f6f69e",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vergilius - All Sinners/custom_limbus_data/personality/Vergilius.json",
+      "bytes": 146635,
+      "sha256": "09b2235f0a9bfc73cbf9fe674a1a9963c117f97493e97e2a02042f1344ee359b",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vergilius - All Sinners/custom_limbus_data/personality-passive/Vergilius.json",
+      "bytes": 22207,
+      "sha256": "11093b19e5652d2c2fbd18685cd20c82f2697eae47af439aae7fa4c426f6f955",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vergilius - All Sinners/custom_limbus_locale/EN/passiveList/Vergilius.json",
+      "bytes": 5903,
+      "sha256": "ee9ab0563e4d3e532a154cbaee800b83f76b50601acfe6a14672840a2c119d18",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vergilius - All Sinners/custom_limbus_locale/EN/personalityList/Vergilius.json",
+      "bytes": 12891,
+      "sha256": "a216cd01a46340387c8612c80a01d4d75c5650799dd4c6b2cd3c5726e61ae055",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vergilius - All Sinners/modular_lua/CodexVergilius.lua",
+      "bytes": 36,
+      "sha256": "d2bcb6ef350fdad2ef978d80df51320a6682edc99758d939fba66da99e0d9024",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/使用说明.md",
+      "bytes": 925,
+      "sha256": "e47917948d89bb5f3ac1bc60b84bc56a138772821883d90f0eca259d6008d8c1",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_limbus_data/passive/Vespa.json",
+      "bytes": 372,
+      "sha256": "7ad2aa73b8edb00107ed3c8282aee793115d16bbc95dbeb2d475d74fc1ff5834",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_limbus_data/personality/Vespa.json",
+      "bytes": 43219,
+      "sha256": "8ca71165c363b17b4683263ddfb86af15cbbc83aacfc1469a0fd02dcd5745959",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_limbus_data/personality-passive/Vespa.json",
+      "bytes": 4546,
+      "sha256": "999ccefdeaadc570c5b414c02b60d035f2f5fe0043cb68d27c3ed303d73eafd2",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_limbus_locale/EN/passiveList/Vespa.json",
+      "bytes": 2516,
+      "sha256": "a0b7580cc7b1a1444d25cd5e0ff41692838ddab530a3e47c3557f85e59a3efa2",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_limbus_locale/EN/personalityList/Vespa.json",
+      "bytes": 3597,
+      "sha256": "c3f12157b14899f33230b84f4a47d1d1b52f2d667fa3fb3014013dc7a0e6c5c0",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_10104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_1104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_11104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_12104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_2104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_3104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_4104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_5104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_6104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_7104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_8104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/cg_9104900.png",
+      "bytes": 591291,
+      "sha256": "0fe3593906bc96997d60d58f799a2238f7728dbc35093e10279ada244baefb73",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_10104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_1104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_11104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_12104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_2104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_3104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_4104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_5104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_6104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_7104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_8104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    },
+    {
+      "path": "BepInEx/plugins/Lethe/mods/Vespa - Middle Rematch All Sinners/custom_sprites/profile_9104900.png",
+      "bytes": 92739,
+      "sha256": "2559c70e74c5cef263a78a302359f4e824ee779ab47accc8da879b970f9e01fb",
+      "plugins": []
+    }
+  ]
+}

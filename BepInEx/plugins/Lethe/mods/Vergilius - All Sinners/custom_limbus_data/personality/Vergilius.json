@@ -1,0 +1,7564 @@
+{
+  "list": [
+    {
+      "id": 1104800,
+      "nameID": 1104800,
+      "sdPortrait": 9999,
+      "characterId": 1,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 1104801,
+      "nameID": 1104801,
+      "sdPortrait": 9999,
+      "characterId": 1,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 1104802,
+      "nameID": 1104802,
+      "sdPortrait": 9999,
+      "characterId": 1,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 1104803,
+      "nameID": 1104803,
+      "sdPortrait": 9999,
+      "characterId": 1,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 2104800,
+      "nameID": 2104800,
+      "sdPortrait": 9999,
+      "characterId": 2,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 2104801,
+      "nameID": 2104801,
+      "sdPortrait": 9999,
+      "characterId": 2,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 2104802,
+      "nameID": 2104802,
+      "sdPortrait": 9999,
+      "characterId": 2,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 2104803,
+      "nameID": 2104803,
+      "sdPortrait": 9999,
+      "characterId": 2,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 3104800,
+      "nameID": 3104800,
+      "sdPortrait": 9999,
+      "characterId": 3,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 3104801,
+      "nameID": 3104801,
+      "sdPortrait": 9999,
+      "characterId": 3,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 3104802,
+      "nameID": 3104802,
+      "sdPortrait": 9999,
+      "characterId": 3,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 3104803,
+      "nameID": 3104803,
+      "sdPortrait": 9999,
+      "characterId": 3,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 4104800,
+      "nameID": 4104800,
+      "sdPortrait": 9999,
+      "characterId": 4,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 4104801,
+      "nameID": 4104801,
+      "sdPortrait": 9999,
+      "characterId": 4,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 4104802,
+      "nameID": 4104802,
+      "sdPortrait": 9999,
+      "characterId": 4,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 4104803,
+      "nameID": 4104803,
+      "sdPortrait": 9999,
+      "characterId": 4,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 5104800,
+      "nameID": 5104800,
+      "sdPortrait": 9999,
+      "characterId": 5,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 5104801,
+      "nameID": 5104801,
+      "sdPortrait": 9999,
+      "characterId": 5,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 5104802,
+      "nameID": 5104802,
+      "sdPortrait": 9999,
+      "characterId": 5,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 5104803,
+      "nameID": 5104803,
+      "sdPortrait": 9999,
+      "characterId": 5,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 6104800,
+      "nameID": 6104800,
+      "sdPortrait": 9999,
+      "characterId": 6,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 6104801,
+      "nameID": 6104801,
+      "sdPortrait": 9999,
+      "characterId": 6,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 6104802,
+      "nameID": 6104802,
+      "sdPortrait": 9999,
+      "characterId": 6,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 6104803,
+      "nameID": 6104803,
+      "sdPortrait": 9999,
+      "characterId": 6,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 7104800,
+      "nameID": 7104800,
+      "sdPortrait": 9999,
+      "characterId": 7,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 7104801,
+      "nameID": 7104801,
+      "sdPortrait": 9999,
+      "characterId": 7,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 7104802,
+      "nameID": 7104802,
+      "sdPortrait": 9999,
+      "characterId": 7,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 7104803,
+      "nameID": 7104803,
+      "sdPortrait": 9999,
+      "characterId": 7,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 8104800,
+      "nameID": 8104800,
+      "sdPortrait": 9999,
+      "characterId": 8,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 8104801,
+      "nameID": 8104801,
+      "sdPortrait": 9999,
+      "characterId": 8,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 8104802,
+      "nameID": 8104802,
+      "sdPortrait": 9999,
+      "characterId": 8,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 8104803,
+      "nameID": 8104803,
+      "sdPortrait": 9999,
+      "characterId": 8,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 9104800,
+      "nameID": 9104800,
+      "sdPortrait": 9999,
+      "characterId": 9,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 9104801,
+      "nameID": 9104801,
+      "sdPortrait": 9999,
+      "characterId": 9,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 9104802,
+      "nameID": 9104802,
+      "sdPortrait": 9999,
+      "characterId": 9,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 9104803,
+      "nameID": 9104803,
+      "sdPortrait": 9999,
+      "characterId": 9,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 10104800,
+      "nameID": 10104800,
+      "sdPortrait": 9999,
+      "characterId": 10,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 10104801,
+      "nameID": 10104801,
+      "sdPortrait": 9999,
+      "characterId": 10,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 10104802,
+      "nameID": 10104802,
+      "sdPortrait": 9999,
+      "characterId": 10,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 10104803,
+      "nameID": 10104803,
+      "sdPortrait": 9999,
+      "characterId": 10,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 11104800,
+      "nameID": 11104800,
+      "sdPortrait": 9999,
+      "characterId": 11,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 11104801,
+      "nameID": 11104801,
+      "sdPortrait": 9999,
+      "characterId": 11,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 11104802,
+      "nameID": 11104802,
+      "sdPortrait": 9999,
+      "characterId": 11,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 11104803,
+      "nameID": 11104803,
+      "sdPortrait": 9999,
+      "characterId": 11,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 12104800,
+      "nameID": 12104800,
+      "sdPortrait": 9999,
+      "characterId": 12,
+      "rank": 3,
+      "appearance": "9999_VergiliusAppearance",
+      "unitKeywordList": [],
+      "associationList": null,
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 11000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "maxSpeedList": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 999901
+        },
+        {
+          "number": 3,
+          "skillId": 999902
+        },
+        {
+          "number": 2,
+          "skillId": 999903
+        },
+        {
+          "number": 2,
+          "skillId": 999904
+        },
+        {
+          "number": 2,
+          "skillId": 999905
+        },
+        {
+          "number": 0,
+          "skillId": 999906
+        },
+        {
+          "number": 0,
+          "skillId": 999907
+        },
+        {
+          "number": 0,
+          "skillId": 999908
+        },
+        {
+          "number": 0,
+          "skillId": 999909
+        }
+      ]
+    },
+    {
+      "id": 12104801,
+      "nameID": 12104801,
+      "sdPortrait": 9999,
+      "characterId": 12,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 12104802,
+      "nameID": 12104802,
+      "sdPortrait": 9999,
+      "characterId": 12,
+      "rank": 3,
+      "appearance": "400012_Vergilius_EgoAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 3500,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 0,
+          "skillId": 40001201
+        },
+        {
+          "number": 0,
+          "skillId": 40001202
+        },
+        {
+          "number": 0,
+          "skillId": 40001203
+        },
+        {
+          "number": 0,
+          "skillId": 40001204
+        },
+        {
+          "number": 0,
+          "skillId": 40001205
+        },
+        {
+          "number": 6,
+          "skillId": 40001206
+        },
+        {
+          "number": 4,
+          "skillId": 40001207
+        },
+        {
+          "number": 1,
+          "skillId": 40001208
+        },
+        {
+          "number": 1,
+          "skillId": 40001209
+        }
+      ]
+    },
+    {
+      "id": 12104803,
+      "nameID": 12104803,
+      "sdPortrait": 9999,
+      "characterId": 12,
+      "rank": 3,
+      "appearance": "400012_VergiliusAppearance",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY"
+      ],
+      "panicType": 9997,
+      "lowMorale": -46,
+      "panic": -46,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 7000,
+        "incrementByLevel": 0
+      },
+      "initBuffList": [],
+      "defCorrection": 0,
+      "minSpeedList": [
+        6,
+        6,
+        6,
+        6
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "uniqueAttribute": "CRIMSON",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "MentalConditionUnknown"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 1
+          },
+          {
+            "type": "BLACK",
+            "value": 1
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "number": 3,
+          "skillId": 40001201
+        },
+        {
+          "number": 3,
+          "skillId": 40001202
+        },
+        {
+          "number": 2,
+          "skillId": 40001203
+        },
+        {
+          "number": 2,
+          "skillId": 40001204
+        },
+        {
+          "number": 2,
+          "skillId": 40001205
+        },
+        {
+          "number": 0,
+          "skillId": 40001206
+        },
+        {
+          "number": 0,
+          "skillId": 40001207
+        },
+        {
+          "number": 0,
+          "skillId": 40001208
+        },
+        {
+          "number": 0,
+          "skillId": 40001209
+        }
+      ]
+    }
+  ]
+}

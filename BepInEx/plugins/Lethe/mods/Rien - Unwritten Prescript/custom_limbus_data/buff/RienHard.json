@@ -1,0 +1,22 @@
+{
+  "list": [
+    {
+      "id": "CodexRienDebt",
+      "iconId": "CodexRienDebt",
+      "maxStack": 6,
+      "canBeDespelled": false,
+      "buffClass": "NonvolatileBuff",
+      "buffType": "Neutral",
+      "list": []
+    },
+    {
+      "list": [],
+      "buffClass": "NonvolatileBuff",
+      "id": "CodexRienInquiry",
+      "maxStack": 2,
+      "buffType": "Neutral",
+      "iconId": "CodexRienInquiry",
+      "canBeDespelled": false
+    }
+  ]
+}

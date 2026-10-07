@@ -1,0 +1,110 @@
+{
+  "list": [
+    {
+      "id": 9631520,
+      "hp": {
+        "defaultStat": 59,
+        "incrementByLevel": 0
+      },
+      "minSpeedList": [
+        1
+      ],
+      "mp": 0,
+      "defCorrection": 0,
+      "level": 1,
+      "initBuffList": [],
+      "patternID": "Assistant",
+      "maxActionSlotNum": 1,
+      "panic": -45,
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 2
+          },
+          {
+            "type": "HIT",
+            "value": 2
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 2
+          },
+          {
+            "type": "SCARLET",
+            "value": 2
+          },
+          {
+            "type": "AMBER",
+            "value": 2
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 2
+          },
+          {
+            "type": "AZURE",
+            "value": 2
+          },
+          {
+            "type": "INDIGO",
+            "value": 2
+          },
+          {
+            "type": "VIOLET",
+            "value": 2
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "panicType": 9996,
+      "appearance": "1520_Warder_Candle_AAppearance",
+      "associationList": [],
+      "sdPortrait": 1520,
+      "mentalConditionInfo": {
+        "min": [],
+        "add": []
+      },
+      "maxSpeedList": [
+        1
+      ],
+      "hasMp": false,
+      "attributeList": [],
+      "nameID": 1520,
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "breakSection": {
+        "sectionList": []
+      },
+      "originID": 1520,
+      "lowMorale": -20,
+      "passiveSet": {
+        "passiveIdList": [
+          152001,
+          152002
+        ]
+      },
+      "startActionSlotNumList": [
+        1
+      ],
+      "unitKeywordList": [
+        "SMALL",
+        "NONE_BLOOD"
+      ]
+    }
+  ]
+}

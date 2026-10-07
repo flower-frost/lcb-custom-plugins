@@ -1,0 +1,22 @@
+{
+  "chapterId": 2,
+  "subchapterId": 94263003,
+  "nodeId": 94263003,
+  "storyIdInTheaterData": 0,
+  "isUnlockByUnlockCode": false,
+  "unlockCode": 101,
+  "relatedData": {
+    "chapterId": 2,
+    "subchapterId": 0,
+    "nodeId": 0
+  },
+  "uiConfig": {
+    "customChapterText": "赤红之神 · 吱咿的记忆",
+    "chapterTagIconType": "BATTLE",
+    "region": "p",
+    "mapAreaId": 101,
+    "timeLine": "PLAYGROUND",
+    "illustId": "story-id_E041X"
+  },
+  "type": "STAGE_NODE"
+}

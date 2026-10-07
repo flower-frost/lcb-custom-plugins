@@ -1,0 +1,431 @@
+{
+  "GoldenHideWarderFirstPhase": {
+    "id": "GoldenHideWarderFirstPhase",
+    "name": "搏动",
+    "desc": "- 回合开始时，1名随机罪人获得本效果\n- 拼点威力+1，受到的伤害-25%\n- 回合结束时，本效果消失\n- Turn Start: A random Sinner gains this effect\n- Clash Power +1, take -25% damage\n- Turn End: This effect expires",
+    "summary": "拼点威力增加，受到的伤害减少\nGain Clash Power, take less damage",
+    "flavor": "生命的权能。变化与诞生的意志。\nThe domain of life. The will of change and birth."
+  },
+  "GoldenFabricWarderFirstPhase": {
+    "id": "GoldenFabricWarderFirstPhase",
+    "name": "止步",
+    "desc": "- 回合开始时，1名随机罪人获得本效果\n- 最终威力+1，造成的伤害+15%\n- 回合结束时，本效果消失\n- Turn Start: A random Sinner gains this effect\n- Final Power +1, deal +15% damage\n- Turn End: This effect expires",
+    "summary": "最终威力与造成的伤害增加\nGain Final Power, deal more damage",
+    "flavor": "死亡的权能。保存与止步的冲动。\nThe domain of death. The urge for conservation and stillness."
+  },
+  "MeursaultBuffWarderFirstPhase": {
+    "id": "MeursaultBuffWarderFirstPhase",
+    "name": "局外人",
+    "desc": "- 本次战斗中，若至少有1名其他友方存活，则默尔索的体力值不会降至1以下\n- 与看守拼点时：\n· 拼点威力+1\n· 造成的伤害+(自身已损失的体力值百分比/2)%(最多20%)\n· 拼点胜利时，从数量最少的E.G.O资源中随机挑选属性，各获得1个资源，共获得2个\n- 受到会使自身陷入混乱的伤害时，不会陷入混乱，并移除对应的混乱阈值。随后，下回合获得1层攻击威力提升(每场战斗无触发次数限制)\n- 无法撤退\nMeursault's HP cannot drop below 1 as long as there is 1 or more surviving allies in this Encounter\n- When Clashing against the Warden:\n · Clash Power +1\n · Deal +(missing HP percentage on self / 2)% damage (max 20%)\n · On Clash Win, gain 1 E.G.O resource for each of the 2 least-owned Affinities\n- When taking damage that would Stagger this unit, does not get Staggered and remove the corresponding Stagger Threshold; and gain 1 Attack Power Up next turn (no activation cap)\n- Cannot Retreat",
+    "summary": "与看守拼点时，拼点威力与造成的伤害增加\n不会陷入混乱，其他友方存活时不会阵亡\nGain Clash Power and deal more damage when Clashing with the Warden\nCannot be Staggered, cannot be defeated when there are other surviving allies",
+    "flavor": "无论在百货店还是都市，我都格格不入，都是异物吗。\nWas I an alien, a foreign element in both the department store and the City?"
+  },
+  "UnstableConnection": {
+    "id": "UnstableConnection",
+    "name": "不稳定的显现",
+    "desc": "- 最大值：2\n- 回合开始时，获得(本效果的层数 x 4)层拼点威力下降与易损\n- 回合结束时，恢复(45 - 当前理智值)/2点理智值(向下取整)，并使本效果的层数减少1层\n- Max Stack: 2\n- Turn Start: Gain (Stack x 4) Clash Power Down and Fragile\n- Turn End: Heal ((45 - current SP) / 2) SP (rounded down); then, lose 1 Stack",
+    "summary": "回合开始时，获得拼点威力下降与易损\n回合结束时，恢复理智值\nGain Clash Power Down and Fragile at Turn Start\nHeal SP at Turn End",
+    "flavor": "“唉。偏偏这种时候连接出了……”\n\"*sigh* Bad time for connection issues...\""
+  },
+  "Dominion": {
+    "id": "Dominion",
+    "name": "西西弗系统保存",
+    "desc": "- 最大值：25\n- 造成的伤害+(本效果的层数)%(最多25%)\n- 受到的伤害-(本效果的层数)%(最多25%)\n- Max Stack: 25\n- Deal +(Stack)% damage (max 25%)\n- Take -(Stack)% damage (max 25%)",
+    "summary": "造成的伤害增加，受到的伤害减少\nDeal more and take less damage",
+    "flavor": "“因为是从别的区来的吗？我真不明白，怎么就这么不懂呢。西西弗之塔一旦倒塌，那些叫什么《女巫之槌》的家伙就……唉。”\n\n“局外人都这样吧。既不关心N公司的情况，也不关心世道如何。唉……算了，算了。那就看看你们究竟能坚持到哪一步吧。”\n\"Is it because you're from another District or something? How do you people still not get it? If Sisyphe Tower goes down, those Malleus Maleficarum or whatever they're called are going to—*sigh*\"\n\n\"Same old strangers and outsiders, I suppose. You people don't give two hoots what happens to N Corp. or what the world is coming to. Ugh... never mind. Now let's see just how far you're willing to take this.\""
+  },
+  "BlackStigmata": {
+    "id": "BlackStigmata",
+    "name": "罪恶感",
+    "desc": "- 若目标具有理智值，则使其恐慌类型变更为“罪恶感”\n- 若目标不具有理智值，则使其受到速度值高于自身的目标造成的伤害+10%\n- 回合结束时，本效果的层数减少1层\n- 本效果不叠加，而是刷新\n- 对部分具有理智值但无法变更恐慌类型的敌方单位，适用不具有理智值的目标所受效果\n\n※ 罪恶感的恐慌效果\n- 士气低落：最小速度值与最大速度值-1，受到速度值高于自身的目标造成的伤害+10%\n- 恐慌：最小速度值与最大速度值-2，受到速度值高于自身的目标造成的伤害+15%\n- SP Units: Panic Type changes to \"Compunction\"\n- Non-SP Units: Take +10% damage from targets with faster Speed than self\n- Turn End: Lose 1 Stack\n- This effect is not cumulative; inflicting it will replace the current value with the inflicted value\n- Apply the \"Units without SP\" conditional to certain enemies that have SP but cannot change their Panic Types\n\n※ Compunction Panic Effect:\n- Low Morale: Min & Max Speed -1; take +10% damage from targets with faster Speed than this unit's\n- Panic: Min & Max Speed -2; take +15% damage from targets with faster Speed than this unit's",
+    "summary": "最小速度值与最大速度值减少\n受到速度值高于自身的目标造成的伤害增加\nLose Min & Max Speed\nTake more damage from targets with faster Speed than self",
+    "flavor": "‘你感到罪恶正沿着脊背攀爬。’\n\"You feel your sins crawling on your back.\""
+  },
+  "BlackStigmata_Main": {
+    "id": "BlackStigmata_Main",
+    "name": "罪恶感",
+    "desc": "- 若目标具有理智值，则使其恐慌类型变更为“罪恶感”\n- 回合结束时，本效果的层数减少1层\n- SP Units: Change their Panic Type to \"Compunction\"\n- Turn End: Lose 1 Stack",
+    "summary": "恐慌类型变更为“罪恶感”\nChange Panic Type to \"Compunction\"",
+    "flavor": "‘你感到罪恶正沿着脊背攀爬。’\n\"You feel your sins crawling on your back.\""
+  },
+  "BlackStigmata_Sub": {
+    "id": "BlackStigmata_Sub",
+    "name": "罪恶感",
+    "desc": "- 若目标不具有理智值，则使其受到速度值高于自身的目标造成的伤害+10%\n- 回合结束时，本效果的层数减少1层\n- Non-SP Units: Take +10% damage from targets with faster Speed than self\n- Turn End: Lose 1 Stack",
+    "summary": "受到速度值高于自身的目标造成的伤害增加\nTake more damage from targets with faster Speed than self",
+    "flavor": "‘你感到罪恶正沿着脊背攀爬。’\n\"You feel your sins crawling on your back.\""
+  },
+  "BlackStigmata_LowMorale": {
+    "id": "BlackStigmata_LowMorale",
+    "name": "罪恶感",
+    "desc": "- 士气低落\n- 最小速度值与最大速度值-1，受到速度值高于自身的目标造成的伤害+10%\n- Low Morale\n- Min & Max Speed -1; take +10% damage from targets with faster Speed than self",
+    "summary": "最小速度值与最大速度值减少\n受到速度值高于自身的目标造成的伤害增加\nLose Min & Max Speed\nTake more damage from targets with faster Speed than self",
+    "flavor": "‘你感到罪恶正沿着脊背攀爬。’\n\"You feel your sins crawling on your back.\""
+  },
+  "BlackStigmata_Panic": {
+    "id": "BlackStigmata_Panic",
+    "name": "罪恶感",
+    "desc": "- 恐慌\n- 最小速度值与最大速度值-2，受到速度值高于自身的目标造成的伤害+15%\n- Panic\n- Min & Max Speed -2; take +15% damage from targets with faster Speed than self",
+    "summary": "最小速度值与最大速度值减少\n受到速度值高于自身的目标造成的伤害增加\nLose Min & Max Speed\nTake more damage from targets with faster Speed than self",
+    "flavor": "‘你感到罪恶正沿着脊背攀爬。’\n\"You feel your sins crawling on your back.\""
+  },
+  "GoldenHideWarderSecondPhase": {
+    "id": "GoldenHideWarderSecondPhase",
+    "name": "搏动",
+    "desc": "- 回合开始时，1名随机罪人获得本效果\n- 若带有本效果的罪人与看守的<color=#ff6000><mark=#ff000040><b><u>“执行死刑”</u></b></mark></color>技能<color=#ff6000><mark=#ff000040><b><u>拼点并获胜</u></b></mark></color>，则获得<color=#ff6000><mark=#ff000040><b><u>最大体力值的250%的护盾</u></b></mark></color>(看守的“执行死刑”攻击结束时，从该罪人的护盾中扣除通过本效果获得的护盾值)\n- 拼点威力+2，受到的伤害-25%\n- 回合结束时，本效果消失\n- Turn Start: A random Sinner gains this effect\n- On Clash Win, if the Sinner who has this effect <color=#ff6000><mark=#ff000040><b><u>won the Clash</u></b></mark></color> against the Warden's <color=#ff6000><mark=#ff000040><b><u>\"Death Unto the Condemned\"</u></b></mark></color> Skill, gain <color=#ff6000><mark=#ff000040><b><u>Shield equal to 250% of the Sinner's max HP</u></b></mark></color> (Shield gained from this effect is removed from the Sinner's total Shield at Attack End of the Warden's \"Death Unto the Condemned\")\n- Clash Power +2, take -25% damage\n- Turn End: This effect expires",
+    "summary": "拼点威力增加，受到的伤害减少\n与“执行死刑”拼点胜利时，获得护盾\nGain Clash Power and take less damage\nOn Clash Win against \"Death Unto the Condemned\", gain Shield",
+    "flavor": "生命的权能。变化与诞生的意志。\nThe domain of life. The will of change and birth."
+  },
+  "GoldenFabricWarderSecondPhase": {
+    "id": "GoldenFabricWarderSecondPhase",
+    "name": "止步",
+    "desc": "- 回合开始时，1名随机罪人获得本效果\n- 最终威力+2，造成的伤害+25%\n- 回合结束时，本效果消失\n- Turn Start: A random Sinner gains this effect\n- Final Power +2, deal +25% damage\n- Turn End: This effect expires",
+    "summary": "最终威力与造成的伤害增加\nGain Final Power, deal more damage",
+    "flavor": "死亡的权能。保存与止步的冲动。\nThe domain of death. The urge for conservation and stillness."
+  },
+  "MeursaultBuffWarderSecondPhase": {
+    "id": "MeursaultBuffWarderSecondPhase",
+    "name": "局外人",
+    "desc": "- 本次战斗中，若至少有1名其他友方存活，则默尔索的体力值不会降至1以下\n- 最小速度值与最大速度值+1\n- 与看守拼点时：\n· 拼点威力+2\n· 造成的伤害+(自身已损失的体力值百分比/2)%(最多40%)\n· 拼点胜利时，从数量最少的E.G.O资源中随机挑选属性，各获得1个资源，共获得3个\n- 受到会使自身陷入混乱的伤害时，不会陷入混乱，并移除对应的混乱阈值。随后，下回合获得2层攻击威力提升(每场战斗无触发次数限制)\n- 无法撤退\n- Meursault's HP cannot drop below 1 as long as there is 1 or more surviving allies in this Encounter\n- Min & Max Speed +1\n- When Clashing against the Warden:\n · Clash Power +2\n · Deal +(missing HP percentage on self / 2)% damage (max 40%)\n · On Clash Win, gain 1 E.G.O resource for each of the 3 least-owned Affinities\n- When taking damage that would Stagger this unit, does not get Staggered and remove the corresponding Stagger Threshold; and gain 2 Attack Power Up next turn (no activation cap)\n- Cannot Retreat",
+    "summary": "与看守拼点时，拼点威力与造成的伤害增加\n不会陷入混乱，其他友方存活时不会阵亡\nGain Clash Power and deal more damage when Clashing with the Warden\nCannot be Staggered, cannot be defeated when there are other surviving allies",
+    "flavor": "无论在百货店还是都市，我都格格不入，都是异物吗。\nWas I an alien, a foreign element in both the department store and the City?"
+  },
+  "EncompassingVoiceSecondPhase": {
+    "id": "EncompassingVoiceSecondPhase",
+    "name": "黑神的声音",
+    "desc": "- 最大值：100\n- 回合开始时，每带有20层本效果，获得1层攻击等级提升(最多4层)\n- 通过自身的技能效果消耗或获得保存层数时，本效果的层数增加对应数值(每回合最多40层，包括超出保存层数上限所获得的数值)\n- 回合结束时，本效果的层数增加10层\n- 层数达到100层时，下回合变更为“黑神的权能”\n- Max Stack: 100\n- Turn Start: Gain 1 Offense Level Up for every 20 Stacks (max 4)\n- Gain Stack equal to Preservation Count this unit consumes or gains due to its Skill effects (max 40 per turn; this effect's Stack is gained regardless of Preservation's max Count)\n- Turn End: Gain 10 Stacks\n- At 100 Stacks, convert this effect into \"Divinity of the Obsidian God\" next turn",
+    "summary": "根据层数增加攻击等级\n层数达到最大值时，变更为“黑神的权能”\nGain Offense Level based on Stack\nAt max Stack, converted into \"Divinity of the Obsidian God\"",
+    "flavor": "宣讲保存律法的声音。\n再也不能重返野蛮。\nA voice preaching the Rule of Conservation.\nThere can be no return to barbarism."
+  },
+  "EncompassingVoiceThirdPhase": {
+    "id": "EncompassingVoiceThirdPhase",
+    "name": "黑神的声音",
+    "desc": "- 最大值：100\n- 回合开始时，每带有20层本效果，获得1层攻击等级提升(最多4层)\n- 通过自身的技能效果消耗或获得保存层数时，本效果的层数增加对应数值(每回合最多40层，包括超出保存层数上限所获得的数值)\n- 回合结束时，本效果的层数增加10层\n- 层数达到100层时，下回合变更为“黑神的权能”\n- Max Stack: 100\n- Turn Start: Gain 1 Offense Level Up for every 20 Stacks (max 4)\n- Gain Stack equal to Preservation Count this unit consumes or gains due to its Skill effects (max 40 per turn; this effect's Stack is gained regardless of Preservation's max Count)\n- Turn End: Gain 10 Stacks\n- At 100 Stacks, convert this effect into \"Divinity of the Obsidian God\" next turn",
+    "summary": "根据层数增加攻击等级\n层数达到最大值时，变更为“黑神的权能”\nGain Offense Level based on Stack\nAt max Stack, converted into \"Divinity of the Obsidian God\"",
+    "flavor": "宣讲保存律法的声音。\n再也不能重返野蛮。\nA voice preaching the Rule of Conservation.\nThere can be no return to barbarism."
+  },
+  "SpreadingVoiceSecondPhase": {
+    "id": "SpreadingVoiceSecondPhase",
+    "name": "黑神的权能",
+    "desc": "- 最大值：100\n- 回合开始时，每带有20层本效果，获得1层攻击等级提升与1层防御等级提升(各最多4层)\n- 所有技能的硬币变更为不可摧毁硬币\n- 层数降至0层时，下回合变更为“黑神的声音”\n- Max Stack: 100\n- Turn Start: Gain 1 Offense Level Up and 1 Defense Level Up for every 20 Stacks (max 4 respectively)\n- Convert all Skill Coins into Unbreakable Coins\n- At 0 Stacks, convert this effect into \"Voice of the Obsidian God\" next turn",
+    "summary": "所有技能的硬币变更为不可摧毁硬币\n根据层数增加攻击等级与防御等级\nConvert all Skill Coins into Unbreakable Coins\nGain Offense Level and Defense Level based on Stack",
+    "flavor": "黑神。在西西弗系统中掌管创造与时间。\nThe Obsidian God—He whose domain is creation and time itself within the Sisyphe System."
+  },
+  "SpreadingVoiceThirdPhase": {
+    "id": "SpreadingVoiceThirdPhase",
+    "name": "黑神的权能",
+    "desc": "- 最大值：100\n- 回合开始时，每带有20层本效果，获得1层攻击等级提升与1层防御等级提升(各最多4层)\n- 所有技能的硬币变更为不可摧毁硬币(截除硬币除外)\n- 层数降至0层时，下回合变更为“黑神的声音”\n- Max Stack: 100\n- Turn Start: Gain 1 Offense Level Up and 1 Defense Level Up for every 20 Stacks (max 4 respectively)\n- Convert all Skill Coins into Unbreakable Coins (excluding Excision Coins)\n- At 0 Stacks, convert this effect into \"Voice of the Obsidian God\" next turn",
+    "summary": "所有技能的硬币变更为不可摧毁硬币(截除硬币除外)\n根据层数增加攻击等级与防御等级\nConvert all Skill Coins into Unbreakable Coins (excluding Excision Coins)\nGain Offense Level and Defense Level based on Stack",
+    "flavor": "黑神。在西西弗系统中掌管创造与时间。\nThe Obsidian God—He whose domain is creation and time itself within the Sisyphe System."
+  },
+  "LeaderVoiceSecondPhase": {
+    "id": "LeaderVoiceSecondPhase",
+    "name": "西西弗刑罚的看守",
+    "desc": "- 最大值：5\n- 每带有1层本效果，攻击等级+1，防御等级+2\n- 本效果的层数不低于3层时，通过技能施加的钉[刑罚]与钉[赎罪]的施加量+1\n- Max Stack: 5\n- Offense Level +1 and Defense Level +2 for every Stack\n- At 3+ Stacks, inflict +1 more \"Nail [Punishment]\" and \"Nail [Penance]\" using Skills",
+    "summary": "根据层数增加攻击等级与防御等级\n层数不低于3层时，钉[刑罚]与钉[赎罪]的施加量增加\nGain Offense Level and Defense Level based on Stack\nAt 3+ Stack, inflict more \"Nail [Punishment]\" and \"Nail [Penance]\"",
+    "flavor": "看守会现身于不遵循旨意行事的人面前。因为这便是系统。\nThe Warden appears before those who refuse to act as intended. For that is how the system works."
+  },
+  "ConfessionSecondPhase": {
+    "id": "ConfessionSecondPhase",
+    "name": "告解的证明",
+    "desc": "- 以下效果统称为“告解的证明”\n· 锤钉[定罪]\n· 锤钉[审判]\n· 钉[刑罚]\n· 钉[赎罪]\n- The following effects are collectively referred to as \"Proof of Confession\":\n · Hammernail [Condemnation]\n · Hammernail [Judgment]\n · Nail [Punishment]\n · Nail [Penance]",
+    "summary": "看守施加的钉与锤钉的统称\nCollectively refers to \"Nails\" and \"Hammernails\" the Warden inflicts",
+    "flavor": "按你的罪业钉入钉子，以此证明已经赎罪。\nDrive in as many nails as thy sins demand, and prove thy repentance."
+  },
+  "LeaderVoiceThirdPhase": {
+    "id": "LeaderVoiceThirdPhase",
+    "name": "西西弗刑罚的神父",
+    "desc": "- 最大值：5\n- 每带有1层本效果，攻击等级+2，防御等级+3\n- 本效果的层数不低于3层时，通过技能施加的钉[Console] 的施加量+1\n- Max Stack: 5\n- Offense Level +2 and Defense Level +3 for every Stack\n- At 3+ Stacks, inflict +1 more \"Nail [Console]\" using Skills",
+    "summary": "根据层数增加攻击等级与防御等级\n层数不低于3层时，钉[Console] 的施加量增加\nGain Offense Level and Defense Level based on Stack\nAt 3+ Stack, inflict more \"Nail [Console]\"",
+    "flavor": "神父会现身于不遵循旨意行事的人面前。因为这便是系统。\nThe Chaplain appears before those who refuse to act as intended. For that is how the system works."
+  },
+  "ConfessionThirdPhase": {
+    "id": "ConfessionThirdPhase",
+    "name": "〜",
+    "desc": "- 以下效果统称为〜\n· 钉[Exception]\n· 钉[Breakpoint]\n· 钉[Console]\n- The following effects are collectively referred to as \"〜\":\n· Nail [Exception]\n· Nail [Breakpoint]\n· Nail [Console]",
+    "summary": "神父施加的钉的统称\nCollectively refers to \"Nails\" the Chaplain inflicts",
+    "flavor": "“我算是看清楚了。你们就是不该存在于这个系统中的异物。所以……现在我也得看看手册了。律法与规则里可是无所不包的。”\n\"Now I'm sure of it. You're all foreign elements that shouldn't be allowed into this system. I guess it's time I actually checked the manual. There's nothing the laws and rules don't account for.\""
+  },
+  "ExecutionNailSecondPhase": {
+    "id": "ExecutionNailSecondPhase",
+    "name": "锤钉[审判]",
+    "desc": "- 最大值：9\n- 因“审判……！宣判……！定罪……！”触发本效果时，受到<color=#ff6000><mark=#ff000040><b><u>最大体力值的(本效果的层数 x 5)%的固定伤害</u></b></mark></color>(最少10点)\n· 若战斗开始时装备了守备技能，则受到的伤害减半，且不会因本效果阵亡或陷入混乱\n- Max Stack: 9\n- If this effect is triggered by \"Judgment... Sentencing... Condemnation!\", <color=#ff6000><mark=#ff000040><b><u>take fixed damage equal to (Stack x 5%) of max HP</u></b></mark></color> (min 10)\n · Combat Start: If this unit has equipped a Defense Skill, halve damage taken and this unit cannot be killed or Staggered by this effect",
+    "summary": "触发时，受到固定伤害\n装备守备技能时，受到的伤害减半且不会阵亡\nWhen activated, take fixed damage\nWhen Defense Skill is equipped, halve damage taken and this unit cannot be killed",
+    "flavor": "此物是钉，却又非钉，而是宣告审判之锤。\nFor this is a nail, yet no nail. 'Tis a hammer that pronounceth judgment."
+  },
+  "RestrainingNailSecondPhase": {
+    "id": "RestrainingNailSecondPhase",
+    "name": "锤钉[定罪]",
+    "desc": "- 最大值：9\n- 回合开始时，若带有本效果，则陷入<color=#ff6000><mark=#ff000040><b><u>混乱</u></b></mark></color>\n· 若本效果已经触发，则在回合结束时消失\n· 若带有搏动，则不会因本效果陷入混乱，且本效果在该回合结束时消失\n- Max Stack: 9\n- Turn Start: If this unit has this effect, become <color=#ff6000><mark=#ff000040><b><u>Staggered</u></b></mark></color>\n · Turn End: This effect expires if triggered this turn\n · If this unit has \"Thumping Pulse\", it cannot be Staggered via this effect, and this effect expires at Turn End",
+    "summary": "回合开始时，陷入混乱\n带有搏动时，不会陷入混乱\nTurn Start: Become Staggered\nIf this unit has \"Thumping Pulse\", does not become Staggered",
+    "flavor": "每一根你未能拔出的钉，都将成为你罪业的证明。待审判之日来临，未被拔出的钉将更深地钉入你的身心。\nEach nail thou hast failed to draw forth shall stand as witness to thy sins; and when the Day of Judgment cometh, every nail left within thee shall be driven deeper still into thy flesh and soul."
+  },
+  "CeremonialNail": {
+    "id": "CeremonialNail",
+    "name": "钉[刑罚]",
+    "desc": "- 最大值：9\n- 因“审判……！宣判……！定罪……！”触发本效果时，获得等同于本效果层数的沉沦强度\n- Max Stack: 9\n- If this effect is triggered by \"Judgment... Sentencing... Condemnation!\", gain Sinking equal to Stack",
+    "summary": "触发时，获得沉沦强度\nWhen activated, gain Sinking",
+    "flavor": "刑罚乃违背律法与规范之人的道德负疚。\nFor punishment is the pang of conscience borne by those who transgress rule and ordinance."
+  },
+  "MarkingNail": {
+    "id": "MarkingNail",
+    "name": "钉[赎罪]",
+    "desc": "- 最大值：9\n- 因“审判……！宣判……！定罪……！”触发本效果时，使混乱阈值增加(本效果的层数 x 2)点\n- Max Stack: 9\n- If this effect is triggered by \"Judgment... Sentencing... Condemnation!\", raise Stagger Threshold by (Stack x 2)",
+    "summary": "触发时，增加混乱阈值\nWhen activated raise Stagger Threshold",
+    "flavor": "钉入未赎罪之人胸中的钉。\nThis is a nail driven into the hearts of the impenitent."
+  },
+  "GoldenHideWarderThirdPhase": {
+    "id": "GoldenHideWarderThirdPhase",
+    "name": "搏动",
+    "desc": "- 回合开始时，1名随机罪人获得本效果\n- 若带有本效果的罪人与神父的<color=#ff6000><mark=#ff000040><b><u>“强制退场”</u></b></mark></color>技能<color=#ff6000><mark=#ff000040><b><u>拼点并获胜</u></b></mark></color>，则获得<color=#ff6000><mark=#ff000040><b><u>最大体力值的250%的护盾</u></b></mark></color>(神父的“强制退场”攻击结束时，从该罪人的护盾中扣除通过本效果获得的护盾值)\n- 拼点威力+3，受到的伤害-50%\n- 命中时，对目标施加1层攻击等级降低(最多9层)\n- 回合结束时，本效果消失\n- Turn Start: A random Sinner gains this effect\n- On Clash Win, if the Sinner who has this effect <color=#ff6000><mark=#ff000040><b><u>won the Clash</u></b></mark></color> against the Chaplain's <color=#ff6000><mark=#ff000040><b><u>\"Systemwide Ban\"</u></b></mark></color> Skill, gain <color=#ff6000><mark=#ff000040><b><u>Shield equal to 250% of the Sinner's max HP</u></b></mark></color> (Shield gained from this effect is removed from the Sinner's total Shield at Attack End of the Chaplain's \"Systemwide Ban\")\n- Clash Power +3, take -50% damage\n- On Hit, inflict 1 Offense Level Down (max 9)\n- Turn End: This effect expires",
+    "summary": "拼点威力增加，受到的伤害减少\n与“强制退场”拼点胜利时，获得护盾\nGain Clash Power and take less damage\nOn Clash Win against \"Systemwide Ban\", gain Shield",
+    "flavor": "生命的权能。变化与诞生的意志。\nThe domain of life. The will of change and birth."
+  },
+  "GoldenFabricWarderThirdPhase": {
+    "id": "GoldenFabricWarderThirdPhase",
+    "name": "止步",
+    "desc": "- 回合开始时，1名随机罪人获得本效果\n- 最终威力+2，造成的伤害+25%\n- 命中时，对目标施加1层防御等级降低(最多9层)\n- 回合结束时，本效果消失\n- Turn Start: A random Sinner gains this effect\n- Final Power +2, deal +25% damage\n- On Hit, inflict 1 Defense Level Down (max 9)\n- Turn End: This effect expires",
+    "summary": "最终威力与造成的伤害增加\n命中时，施加防御等级降低\nGain Final Power and deal more damage\nOn Hit, inflict Defense Level Down",
+    "flavor": "死亡的权能。保存与止步的冲动。\nThe domain of death. The urge for conservation and stillness."
+  },
+  "MeursaultBuffWarderThirdPhase": {
+    "id": "MeursaultBuffWarderThirdPhase",
+    "name": "局外人",
+    "desc": "- 本次战斗中，若至少有1名其他友方存活，则默尔索的体力值不会降至1以下\n- 最小速度值与最大速度值+3\n- 最终威力+3，造成的伤害+30%\n- 与神父拼点时：\n· 造成的伤害+(自身已损失的体力值百分比)%(最多90%)\n· 拼点胜利时，恢复8点理智值\n· 拼点胜利时，从数量最少的E.G.O资源中随机挑选属性，各获得1个资源，共获得5个\n- 受到会使自身陷入混乱的伤害时，不会陷入混乱，并移除对应的混乱阈值。随后，下回合获得3层攻击威力提升(每场战斗无触发次数限制)\n- 无法撤退\n- Meursault's HP cannot drop below 1 as long as there is 1 or more surviving allies in this Encounter\n- Min & Max Speed +3\n- Final Power +3 and deal +30% damage\n- When Clashing against the Chaplain:\n · Deal +(missing HP percentage on self)% damage (max 90%)\n · On Clash Win, heal 8 SP\n · On Clash Win, gain 1 E.G.O resource for each of the 5 least-owned Affinities\n- When taking damage that would Stagger this unit, does not get Staggered and remove the corresponding Stagger Threshold; and gain 3 Attack Power Up next turn (no activation cap)\n- Cannot Retreat",
+    "summary": "与神父拼点时，拼点威力与造成的伤害增加\n不会陷入混乱，其他友方存活时不会阵亡\nGain Clash Power and deal more damage when Clashing with the Chaplain\nCannot be Staggered, cannot be defeated when there are other surviving allies",
+    "flavor": "无论在百货店还是都市，我都格格不入，都是异物吗。\nWas I an alien, a foreign element in both the department store and the City?"
+  },
+  "GoldenNail": {
+    "id": "GoldenNail",
+    "name": "钉[Console]",
+    "desc": "- 最大值：9\n- 战斗开始时，若<color=#ff6000><mark=#ff000040><b><u>本效果的层数为9层</u></b></mark></color>，则在本回合中，带有本效果的罪人<color=#ff6000><mark=#ff000040><b><u>攻击命中神父时，受到自身最大体力值的2%的固定体力伤害</u></b></mark></color>(不会因本效果陷入混乱)\n- 因“你们真的打算破坏西西弗系统？”触发本效果时，获得等同于本效果层数的沉沦强度，并使混乱阈值增加(本效果的层数 x 2)点\n- Max Stack: 9\n- Combat Start: <color=#ff6000><mark=#ff000040><b><u>At 9 Stacks, On Hit against the Chaplain</u></b></mark></color>, the Sinner who has this effect for this turn <color=#ff6000><mark=#ff000040><b><u>takes fixed damage equal to 2% of max HP</u></b></mark></color> (this effect cannot Stagger this unit)\n- If this effect is triggered by \"Do you seriously mean to break the Sisyphe System?\", gain Sinking equal to Stack and raise Stagger Threshold by (Stack x 2)",
+    "summary": "触发时，获得沉沦强度并增加混乱阈值\n层数达到最大值时，攻击命中目标会受到固定伤害\nWhen activated, gain Sinking and raise Stagger Threshold\nAt max Stack, take fixed damage when hit",
+    "flavor": "“我看看，关于这根钉的手册……‘你感到罪恶正沿着脊背……’嗯，不是这个。”\n\n“应该在这边第42个抽屉里……才对……啊，在这里！‘负责黑派的西西弗系统管理员控制台手册’。”\n\"Let's see, the manual for this nail... 'You feel your sins crawling on your back...' Mm, no, not this one.\"\n\n\"It should be in Drawer 42 over here... I know I put it... ah, there it is! 'Le Noir Administrator's Guide to the Sisyphe System Console Commands'.\""
+  },
+  "VibrationFocusing": {
+    "id": "VibrationFocusing",
+    "name": "震颤 - 保存",
+    "desc": "- 震颤引爆时，受到震颤强度的(60 + 攻击者的充能强度或特殊充能 x 8)%的怠惰伤害，并使本效果的层数减少1层(最多120%)\n· 黑派所属角色的技能与被动效果使其震颤引爆时，不会因本效果减少层数\n- 被具有震颤引爆效果的技能命中时，使混乱阈值增加等同于本效果强度的数值\n- 回合结束时，本效果的层数减少1层\n(与震颤相同，受到增减震颤强度与层数的效果影响)\n- On Tremor Burst, take Sloth Damage equal to (60 + sum of Charge Potency or Unique Charge on the attacker x 8)% of Tremor Potency, and reduce the Count by 1 (max 120%)\n · When \"Le Noir\" units' Skills and Passives trigger Tremor Burst, the above effect does not reduce the Count\n- When hit by Tremor Burst Skills, raise Stagger Threshold by this effect's Potency\n- Turn End: Lose 1 Count\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+    "summary": "震颤引爆时，受到怠惰伤害\n被具有震颤引爆效果的技能命中时，增加混乱阈值\nOn Tremor Burst, take Sloth Damage\nWhen hit by Skills that trigger Tremor Burst, raise Stagger Threshold"
+  },
+  "ExecutionNailThirdPhase": {
+    "id": "ExecutionNailThirdPhase",
+    "name": "钉[Breakpoint]",
+    "desc": "- 最大值：9\n- 因“你们真的打算破坏西西弗系统？”触发本效果时，受到<color=#ff6000><mark=#ff000040><b><u>最大体力值的(本效果的层数 x 10)%的固定伤害</u></b></mark></color>(最少10点)\n· 若战斗开始时装备了守备技能，则受到的伤害减半，且不会因本效果阵亡或陷入混乱\n- Max Stack: 9\n- If this effect is triggered by \"Do you seriously mean to break the Sisyphe System?\", <color=#ff6000><mark=#ff000040><b><u>take fixed damage equal to (Stack x 10%) of max HP</u></b></mark></color> (min 10)\n · Combat Start: If this unit has equipped a Defense Skill, halve damage taken and this unit cannot be killed or Staggered by this effect",
+    "summary": "触发时，受到固定伤害\n装备守备技能时，受到的伤害减半且不会阵亡\nWhen activated, take fixed damage\nWhen Defense Skill is equipped, halve damage taken and this unit cannot be killed",
+    "flavor": "“管理手册上写着呢。在系统里被这条指令钉住，就什么也做不了了。”\n\"The admin manual says it plain enough. Once this command nails you down inside the system, you can't do a thing.\""
+  },
+  "RestrainingNailThirdPhase": {
+    "id": "RestrainingNailThirdPhase",
+    "name": "钉[Exception]",
+    "desc": "- 最大值：9\n- 回合开始时，若带有本效果，则受到<color=#ff6000><mark=#ff000040><b><u>当前体力值的50%的固定伤害</u></b></mark></color>并陷入<color=#ff6000><mark=#ff000040><b><u>混乱</u></b></mark></color>\n· 若本效果已经触发，则在回合结束时消失\n· 若带有搏动，则不会因本效果陷入混乱，受到的伤害减半，且本效果在该回合结束时消失\n- Max Stack: 9\n- Turn Start: If this unit has this effect, <color=#ff6000><mark=#ff000040><b><u>take fixed damage equal to 50% current HP</u></b></mark></color> and become <color=#ff6000><mark=#ff000040><b><u>Staggered</u></b></mark></color>\n · Turn End: This effect expires if triggered this turn\n · If this unit has \"Thumping Pulse\", it cannot be Staggered via this effect, halve damage taken, and this effect expires at Turn End",
+    "summary": "回合开始时，受到固定伤害并陷入混乱\n带有搏动时，不会陷入混乱且受到的伤害减半\nTurn Start: Take fixed damage and become Staggered\nIf this unit has \"Thumping Pulse\", does not become Staggered and take only half damage",
+    "flavor": "“就连一切例外，也必定会被这根钉捕获。”\n\"Even the exceptions can't help but get caught on this nail.\""
+  },
+  "ConnectionError_LowMorale": {
+    "id": "ConnectionError_LowMorale",
+    "name": "同步错误",
+    "desc": "- 士气低落\n- 受到的伤害+12.5%\n- 最小速度值与最大速度值-1\n- 消耗保存的技能造成的伤害-15%\n- Low Morale\n- Take +12.5% damage\n- Min & Max Speed -1\n- Deal -15% damage using Skills that consume Preservation",
+    "summary": "最小速度值与最大速度值减少，受到的伤害增加\n消耗保存的技能造成的伤害减少\nLose Min & Max Speed, take more damage\nSkills that consume Preservation deal less damage",
+    "undefined": "-"
+  },
+  "ConnectionError_Panic": {
+    "id": "ConnectionError_Panic",
+    "name": "同步错误",
+    "desc": "- 恐慌\n- 受到的伤害+20%\n- 最小速度值与最大速度值-2\n- 消耗保存的技能造成的伤害-25%\n- Panic\n- Take +20% damage\n- Min & Max Speed -2\n- Deal -25% damage using Skills that consume Preservation",
+    "summary": "最小速度值与最大速度值减少，受到的伤害增加\n消耗保存的技能造成的伤害减少\nLose Min & Max Speed, take more damage\nSkills that consume Preservation deal less damage",
+    "undefined": "-"
+  },
+  "JeanneDesign": {
+    "id": "JeanneDesign",
+    "name": "钉死",
+    "desc": "- 最大值：3\n- <color=#ff6000><mark color=#ff000040><b><u>硬币正面概率固定为95%</color></mark></b></u>\n- 本效果的层数为2层时，与自身拼点的<color=#ff6000><mark color=#ff000040><b><u>目标的拼点威力-2</color></mark></b></u>\n- 本效果的层数为3层时，消耗全部层数，并在下回合获得<color=#ff6000><mark color=#ff000040><b><u>介入(engagement)</color></mark></b></u>\n- 回合结束时，本效果的层数减少1层(获得本效果的回合不会减少)\n- 带有介入(engagement)时，无法获得本效果\n- Max Stack: 3\n- <color=#ff6000><mark color=#ff000040><b><u>This unit has 95% chance to flip Heads</color></mark></b></u>\n- At 2 Stacks, <color=#ff6000><mark color=#ff000040><b><u>Clash Power -2 for targets</color></mark></b></u> Clashing with this unit\n- At 3 Stacks, consume all Stacks and gain <color=#ff6000><mark color=#ff000040><b><u>Engagement</color></mark></b></u> next turn\n- Turn End: Lose 1 Stack (does not lose Stack in the turn this effect is gained)\n- Cannot gain this effect if this unit has Engagement",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "存在先于本质。\nExistence precedes essence."
+  },
+  "JeanneManager": {
+    "id": "JeanneManager",
+    "name": "介入(engagement)",
+    "desc": "- <color=#ff6000><mark color=#ff000040><b><u>自身的硬币正面概率固定为100%</color></mark></b></u>\n- 与自身拼点或攻击自身的<color=#ff6000><mark color=#ff000040><b><u>目标，其技能的加算硬币反面概率固定为100%</color></mark></b></u>\n· 若为减算硬币，则其正面概率固定为100%\n- 装备捕捉技能或陷入混乱时，解除本效果\n- <color=#ff6000><mark color=#ff000040><b><u>This unit has 100% chance to flip Heads</color></mark></b></u>\n- Targets Clashing with or attacking this unit have <color=#ff6000><mark color=#ff000040><b><u>100% chance to flip Tails for Plus Coins</color></mark></b></u>\n · The said units' Minus Coins have 100% chance to flip Heads\n- Remove this effect upon equipping the \"Focusing\" Skill, or if this unit becomes Staggered",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "我建起了百货店。而今，我既是T台上的模特，也是舞台上的演员。\n\n小可爱，你……想必就是电影院吧？\nI designed the department store. And now, I'm a model on its runway, an actress on its stage.\n\nAnd you, ma puce... you'd be the cinéma itself, wouldn't you?"
+  },
+  "JeannePartner": {
+    "id": "JeannePartner",
+    "name": "为他存在(être-pour-autrui)",
+    "desc": "- 获得本效果时，移除目标的所有负面效果\n- 理智值固定为45点\n· 若人格使用减算硬币，则其理智值固定为-30点\n- 不会陷入混乱\n- 让娜变更阶段时，移除本效果\n- Targets that gain this effect lose all negative effects\n- Fix SP to 45\n · For Minus Coin Identities, fix SP to -30\n- Cannot be Staggered\n- Remove this effect when Jeanne enters a new phase",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "你觉得，你在我眼里是什么样子呢？\n你眼中的自己，与我眼中的你，想必完全不同。\n小可爱，你已在我心中被钉死了。\nHow do you suppose you look to me? The self you see and the you I see must be entirely different.\nMa puce... you've already been nailed into place within me."
+  },
+  "JeannePartnerTwo": {
+    "id": "JeannePartnerTwo",
+    "name": "为己存在(être-pour-soi)",
+    "desc": "- 理智值固定为45点\n- 不会受到伤害\n- 让娜变更阶段时，移除本效果\n- Fix SP to 45\n- Does not take damage\n- Remove this effect when Jeanne enters a new phase",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "拥有意识是件可怕的事。因为某处必然会出现一个空洞。\n\n替我填满，好吗，小可爱？\nConsciousness is a frightening thing, you know. Somewhere within it, a hollow is bound to open.\n\nWill you fill it for me, ma puce?"
+  },
+  "JeannePathos": {
+    "id": "JeannePathos",
+    "name": "帕托斯 - 存在之欲(désir d'être)",
+    "desc": "- 最大值：100\n- 拼点胜利时，本效果的层数增加3层\n- 拼点失败时，本效果的层数增加5层\n- 本效果的层数增加等同于拼点次数的数值\n- 回合结束时，若层数达到最大值，则变更阶段\n- Max Stack: 100\n- On Clash Win, gain 3 Stacks\n- On Clash Lose, gain 5 Stacks\n- Gain Stack equal to Clash count\n- Turn End: At max Stack, enter a new phase",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "热情与激情。我曾想以赤红的帕托斯，让自己绽放成赤红。\nI wanted to bloom red... with all that red passion, all that fervor, all that pathos burning within me."
+  },
+  "JeanneLogos": {
+    "id": "JeanneLogos",
+    "name": "逻各斯 - 存在之缺(manque d'être)",
+    "desc": "- 最大值：100\n- 拼点胜利时，本效果的层数增加5层\n- 本效果的层数增加等同于拼点次数的数值\n- 每带有10层本效果，攻击等级+1\n- 每带有20层本效果，拼点威力+1\n- Max Stack: 100\n- On Clash Win, gain 5 Stacks\n- Gain Stack equal to Clash count\n- Offense Level +1 for every 10 Stacks\n- Clash Power +1 for every 20 Stacks",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "你缺少着什么。我也一样。所以，我们能填满彼此。\nThere's something missing in you—in me, too. We can fill each other."
+  },
+  "JeanneCheat": {
+    "id": "JeanneCheat",
+    "name": "绝望(désespoir)",
+    "desc": "- 硬币反面概率固定为100%(若为减算硬币，则固定为正面)\n- 回合结束时，本效果的层数减少1层\n- This unit has 100% chance to flip Tails (for Minus Coins, Heads)\n- Turn End: Lose 1 Stack",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "……小可爱，你要逃走吗？逃离判断，逃离这道光……\n... Ma puce, are you running away? From judgment, from this light...?"
+  },
+  "JeanneBlueprint": {
+    "id": "JeanneBlueprint",
+    "name": "被弃(délaissement)",
+    "desc": "- 最大值：5\n- 每带有1层本效果，拼点威力+1\n- 每带有1层本效果，受到技能造成的伤害+10%\n- 回合开始时，若层数不低于4层，则适用以下效果\n· 移除所有混乱阈值\n· 若已陷入混乱，则解除混乱\n· 槽位权重+1\n- Max Stack: 5\n- Clash Power +1 for every Stack\n- Take +10% damage from Skills for every Stack\n- Turn Start: At 4+ Stacks, apply the following effects:\n · Remove all Stagger Thresholds\n · When Staggered, recover from Stagger\n · Slot Weight +1",
+    "summary": "",
+    "undefined": "-",
+    "flavor": "即便身处没有任何保障的绝望自由中，至少在西西弗百货之内，仍可蒙受依照设计与视线裁剪、维持自身的恩赐。\nAmid the freedom of despair that promises nothing, Grand Magasin Sisyphe alone offers a blessing: to be cut to measure by design and gaze, and in doing so, be given certainty and continuity."
+  },
+  "BoneNail": {
+    "id": "BoneNail",
+    "name": "贱斥之物(l'abject)",
+    "desc": "- 最大值：5\n- 每带有1层本效果，速度值-1\n- 每带有1层本效果，受到流血造成的伤害+20%(向下取整)\n- 使用基础攻击技能时，自身的流血层数增加(本效果的层数x2)层\n- Max Stack: 5\n- Lose 1 Speed for every Stack\n- Take +20% damage from Bleed for every Stack (rounded down)\n- On Base Attack Skill Use, gain (Stack x 2) Bleed Count",
+    "summary": "",
+    "flavor": "被抛弃的附属器官。自助餐将其推出、吐出、倾泻而出。\n\n它虽出自自己的身体，但一旦来到外面，便不再属于自己。然而，即便刺入了他人的身体，也并不属于对方。\nA cast-off appendage. Buffet pushed it out, spat it forth, spilled it from within.\n\nThough it came from one's own body, once cast outside, it ceased to belong to the self. And even should it be inserted into another, it would never belong to that body either."
+  },
+  "BuffetDream": {
+    "id": "BuffetDream",
+    "name": "吱咿的记忆",
+    "desc": "- 最大值：5\n- 每带有1层本效果，基础攻击等级-5，基础防御等级-5，拼点威力-1\n- 回合开始时，恢复(8 x 本效果的层数)点理智值\n- Max Stack: 5\n- For every Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Turn Start: Heal (8 x Stack) SP",
+    "summary": "",
+    "flavor": ""
+  },
+  "BuffetDream1": {
+    "id": "BuffetDream1",
+    "name": "吱咿的记忆",
+    "desc": "- 最大值：5\n- 每带有1层本效果，基础攻击等级-5，基础防御等级-5，拼点威力-1\n- 回合开始时，恢复(8 x 本效果的层数)点理智值\n- Max Stack: 5\n- For every Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Turn Start: Heal (8 x Stack) SP",
+    "summary": "",
+    "flavor": "鞋子……好开心……\nThe shoes... made me really happy..."
+  },
+  "BuffetDream2": {
+    "id": "BuffetDream2",
+    "name": "吱咿的记忆",
+    "desc": "- 最大值：5\n- 每带有1层本效果，基础攻击等级-5，基础防御等级-5，拼点威力-1\n- 回合开始时，恢复(8 x 本效果的层数)点理智值\n- Max Stack: 5\n- For every Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Turn Start: Heal (8 x Stack) SP",
+    "summary": "",
+    "flavor": "谢谢……看着我的眼睛……\n\n鞋子……好开心……\nThanks... for meeting my eyes...\n\nThe shoes... made me really happy..."
+  },
+  "BuffetDream3": {
+    "id": "BuffetDream3",
+    "name": "吱咿的记忆",
+    "desc": "- 最大值：5\n- 每带有1层本效果，基础攻击等级-5，基础防御等级-5，拼点威力-1\n- 回合开始时，恢复(8 x 本效果的层数)点理智值\n- Max Stack: 5\n- For every Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Turn Start: Heal (8 x Stack) SP",
+    "summary": "",
+    "flavor": "一起冒险了……很有趣……\n\n谢谢……看着我的眼睛……\n\n鞋子……好开心……\nWe went on an adventure... It was fun...\n\nThanks... for meeting my eyes...\n\nThe shoes... made me really happy..."
+  },
+  "BuffetDream4": {
+    "id": "BuffetDream4",
+    "name": "吱咿的记忆",
+    "desc": "- 最大值：5\n- 每带有1层本效果，基础攻击等级-5，基础防御等级-5，拼点威力-1\n- 回合开始时，恢复(8 x 本效果的层数)点理智值\n- Max Stack: 5\n- For every Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Turn Start: Heal (8 x Stack) SP",
+    "summary": "",
+    "flavor": "好饿……不想让你们疼……好痛苦……\n\n一起冒险了……很有趣……\n\n谢谢……看着我的眼睛……\n\n鞋子……好开心……\nI was hungry... I didn't want to hurt anybody... It hurt so much...\n\nWe went on an adventure... It was fun...\n\nThanks... for meeting my eyes...\n\nThe shoes... made me really happy..."
+  },
+  "BuffetDream5": {
+    "id": "BuffetDream5",
+    "name": "吱咿的记忆",
+    "desc": "- 最大值：5\n- 每带有1层本效果，基础攻击等级-5，基础防御等级-5，拼点威力-1\n- 回合开始时，恢复(8 x 本效果的层数)点理智值\n- Max Stack: 5\n- For every Stack,\n · Base Offense Level -5\n · Base Defense Level -5\n · Clash Power -1\n- Turn Start: Heal (8 x Stack) SP",
+    "summary": "",
+    "flavor": "没法停下来……想见你们……一直都一个人……想和你们一起走……\n\n好饿……不想让你们疼……好痛苦……\n\n一起冒险了……很有趣……\n\n谢谢……看着我的眼睛……\n\n鞋子……好开心……\nI couldn't stop... I missed you... I was all alone, so... I wanted to come with you...\n\nI was hungry... I didn't want to hurt anybody... It hurt so much...\n\nWe went on an adventure... It was fun...\n\nThanks... for meeting my eyes...\n\nThe shoes... made me really happy..."
+  },
+  "BuffetDreamEnd": {
+    "id": "BuffetDreamEnd",
+    "name": "我是……“吱咿”",
+    "desc": "- 基础攻击等级-30\n- 基础防御等级-30\n- 受到的伤害+100%\n- Base Offense Level -30\n- Base Defense Level -30\n- Take +100% damage",
+    "summary": "",
+    "flavor": "请记得，我叫吱咿。\n谢谢。\nRemember me as \"Pwie,\" okay?\nThank you... for everything."
+  },
+  "BuffetRevival": {
+    "id": "BuffetRevival",
+    "name": "赤红之神的声音",
+    "desc": "- 最大值：3\n- 不会阵亡\n- 回合结束时，本效果的层数减少1层\n- 本效果消失时，恢复原本的形态(红派高级员工)。处于赤红之神被撕下的肉块形态时，每剩余10点体力，恢复5点理智值。随后获得2层脉动\n· 若获得的脉动层数不低于10层，则消耗全部脉动层数，每消耗5层，下回合获得1层失控[欲望]\n- Max Stack: 3\n- Cannot be defeated\n- Turn End: Lose 1 Stack\n- When this effect expires,\n · Return to \"Le Rouge Senior Staff\" form\n · Heal 5 SP for every 10 HP that remained while this unit was in \"Ripped Flesh of the Crimson God\" form; gain +2 Pulsation Count\n · If this unit gained 10+ Pulsation Count, consume all Pulsation Count; then, gain 1 Uncontrollable Rampage [Le Désir] next turn for every 5 Stacks consumed",
+    "summary": "",
+    "flavor": "活下去，再活下去。\n\n体验，活着。\n\n便是意识停留于未来，而非当下。\n因为期待，所以想要体验。因为想要体验，所以想要活下去。\nLive, and live again.\n\nTo experience, to live, is for the mind to dwell not in the present, but already in the future.\n\nBecause one looks forward to what is yet to come, one longs to experience. And because one longs to experience, one chooses to go on living."
+  },
+  "BuffetRouge": {
+    "id": "BuffetRouge",
+    "name": "失控[欲望]",
+    "desc": "- 最大值：3\n- 最小速度值与最大速度值+1\n- 每带有1层本效果，拼点威力+1\n- 受到流血造成的伤害-50%\n- 不会因流血伤害阵亡\n- 回合结束时，本效果的层数减少1层\n- Max Stack: 3\n- Min & Max Speed +1\n- Clash Power +1 for every Stack\n- Take -50% damage from Bleed\n- Cannot be defeated by Bleed damage\n- Turn End: Lose 1 Stack",
+    "summary": "",
+    "flavor": "永远也无法满足。因为那虽不是我的欲望，我却误以为属于自己。\n\n这是因你而生，从你身上迸发的欲望。\nI can never be satisfied.\n\nEven though the desire is not truly mine, I mistake it for something that belongs to me.\n\nThis is a desire born of you—a desire that bursts forth from you, because of you."
+  },
+  "BuffetScruple": {
+    "id": "BuffetScruple",
+    "name": "与吱咿一同的经历",
+    "desc": "- 最小速度值与最大速度值+3\n- 受到赤红之神[成熟]造成的最终伤害-50%\n- Min & Max Speed +3\n- Take -50% final damage from The Crimson God [Adulthood]",
+    "summary": "",
+    "flavor": "我们确实曾与吱咿同行。\n\n犹豫，那样的感觉涌上心头。\nWe shared an experience with Pwie. Together. That much is certain.\n\nHesitation begins to surface."
+  },
+  "BuffetResolve": {
+    "id": "BuffetResolve",
+    "name": "决断",
+    "desc": "- 最大值：1\n- 对赤红之神[成熟]造成的伤害+30%，受到其造成的伤害+30%\n- 回合开始时，恢复5点理智值\n- Max Stack: 1\n- Deal and take +30% damage to and from The Crimson God [Adulthood]\n- Turn Start: Heal 5 SP",
+    "summary": "",
+    "flavor": "‘身为经理，我必须做出选择吧。’\n‘是的。’\n‘……’\n‘……’\n‘……我决定了。’\n\"As Manager... I have to choose, don't I?\"\n\n\"Correct, Manager.\"\n\n\".......\"\n\n\".......\"\n\n\"... I've made my decision.\""
+  },
+  "MeursaultBuffetEnd": {
+    "id": "MeursaultBuffetEnd",
+    "name": "嵌钉者",
+    "desc": "- 最小速度值与最大速度值+3\n- 本次战斗中，使用自身的技能时，额外获得2个该技能属性的E.G.O资源(每回合2次)\n- 无法撤退\n- Min & Max Speed +3\n- On Skill Use, gain 2 additional E.G.O Resource for the said Skill's Affinity (2 times per turn)\n- Cannot Retreat",
+    "summary": ""
+  },
+  "GrandBuffet_LowMorale": {
+    "id": "GrandBuffet_LowMorale",
+    "name": "欲望(le désir)",
+    "desc": "- 士气低落\n- 攻击等级+3\n- 防御等级+3\n- Low Morale\n- Offense Level +3\n- Defense Level +3",
+    "summary": ""
+  },
+  "GrandBuffet_Panic": {
+    "id": "GrandBuffet_Panic",
+    "name": "欲望(le désir)",
+    "desc": "- 恐慌\n- 攻击等级+5\n- 防御等级+5\n- Panic\n- Offense Level +5\n- Defense Level +5",
+    "summary": ""
+  },
+  "LaRougeSuperior_LowMorale": {
+    "id": "LaRougeSuperior_LowMorale",
+    "name": "再向皮革之外！",
+    "desc": "- 士气低落\n- 防御等级-2\n- 攻击等级+2\n- Low Morale\n- Defense Level -2\n- Offense Level +2",
+    "summary": ""
+  },
+  "LaRougeSuperior_Panic": {
+    "id": "LaRougeSuperior_Panic",
+    "name": "再向皮革之外！",
+    "desc": "- 恐慌\n- 防御等级-5\n- 攻击等级+3\n- Panic\n- Defense Level -5\n- Offense Level +3",
+    "summary": ""
+  },
+  "Jeanne_LowMorale": {
+    "id": "Jeanne_LowMorale",
+    "name": "恶心(la nausée)",
+    "desc": "- 士气低落\n- 造成的伤害-10%\n- Low Morale\n- Deal -10% damage",
+    "summary": "",
+    "undefined": "-"
+  },
+  "Jeanne_Panic": {
+    "id": "Jeanne_Panic",
+    "name": "恶心(la nausée)",
+    "desc": "- 恐慌\n- 基础威力-1\n造成的伤害-10%\n- Panic\n- Base Power -1\n- Deal -10% damage",
+    "summary": "",
+    "undefined": "-"
+  }
+}

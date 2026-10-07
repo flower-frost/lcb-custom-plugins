@@ -1,0 +1,2164 @@
+{
+  "list": [
+    {
+      "id": 1104900,
+      "nameID": 1104900,
+      "sdPortrait": 1104900,
+      "characterId": 1,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 2104900,
+      "nameID": 2104900,
+      "sdPortrait": 2104900,
+      "characterId": 2,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 3104900,
+      "nameID": 3104900,
+      "sdPortrait": 3104900,
+      "characterId": 3,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 4104900,
+      "nameID": 4104900,
+      "sdPortrait": 4104900,
+      "characterId": 4,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 5104900,
+      "nameID": 5104900,
+      "sdPortrait": 5104900,
+      "characterId": 5,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 6104900,
+      "nameID": 6104900,
+      "sdPortrait": 6104900,
+      "characterId": 6,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 7104900,
+      "nameID": 7104900,
+      "sdPortrait": 7104900,
+      "characterId": 7,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 8104900,
+      "nameID": 8104900,
+      "sdPortrait": 8104900,
+      "characterId": 8,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 9104900,
+      "nameID": 9104900,
+      "sdPortrait": 9104900,
+      "characterId": 9,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 10104900,
+      "nameID": 10104900,
+      "sdPortrait": 10104900,
+      "characterId": 10,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 11104900,
+      "nameID": 11104900,
+      "sdPortrait": 11104900,
+      "characterId": 11,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    },
+    {
+      "id": 12104900,
+      "nameID": 12104900,
+      "sdPortrait": 12104900,
+      "characterId": 12,
+      "rank": 3,
+      "appearance": "400006_VespaAppearance",
+      "unitScriptID": "400009",
+      "unitKeywordList": [
+        "SMALL",
+        "UNIQUE_COLOR",
+        "VESPA",
+        "FIXER"
+      ],
+      "associationList": [
+        "LIMBUS_COMPANY",
+        "LIMBUS_COMPANY_LCD"
+      ],
+      "skillKeywordList": [
+        "Vibration",
+        "Laceration",
+        "Breath"
+      ],
+      "hp": {
+        "defaultStat": 66,
+        "incrementByLevel": 35
+      },
+      "breakSection": {
+        "sectionList": []
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 0.5
+          },
+          {
+            "type": "PENETRATE",
+            "value": 1
+          },
+          {
+            "type": "HIT",
+            "value": 1
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1
+          },
+          {
+            "type": "SCARLET",
+            "value": 1
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "defCorrection": 0,
+      "panicType": 1074,
+      "lowMorale": -20,
+      "panic": -45,
+      "specialDuelRank": 7,
+      "minSpeedList": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "maxSpeedList": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+              },
+              {
+                "conditionID": "OnKillEnemyMp10"
+              },
+              {
+                "conditionID": "OnKillEnemyByOtherAlly5"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "uniqueAttribute": "AMBER",
+      "defenseSkillIDList": [
+        40000906,
+        40000907
+      ],
+      "attributeList": [
+        {
+          "number": 6,
+          "skillId": 40000901
+        },
+        {
+          "number": 6,
+          "skillId": 40000902
+        },
+        {
+          "number": 4,
+          "skillId": 40000903
+        },
+        {
+          "number": 1,
+          "skillId": 40000904
+        },
+        {
+          "number": 4,
+          "skillId": 40000905
+        },
+        {
+          "number": 0,
+          "skillId": 40000906
+        },
+        {
+          "number": 0,
+          "skillId": 40000907
+        },
+        {
+          "number": 1,
+          "skillId": 40000908
+        },
+        {
+          "number": 1,
+          "skillId": 40000909
+        },
+        {
+          "number": 1,
+          "skillId": 40000910
+        }
+      ]
+    }
+  ]
+}

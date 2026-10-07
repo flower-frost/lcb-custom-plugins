@@ -1,0 +1,46 @@
+{
+  "id": 95100501,
+  "stageLevel": 40,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "max": 12,
+    "min": 1
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0,
+    "defaultPosZ": 20
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp10RPG_3F_BroadcastRoom",
+        "mapSize": 30
+      },
+      "unitList": [
+        {
+          "unitLevel": 90,
+          "unitSyncLevel": 4,
+          "unitCount": 1,
+          "unitID": 9510501
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp10_Enemy_5"
+      ],
+      "enemyPositionID": 2,
+      "allyPositionID": 1,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 40,
+  "turnLimit": 999,
+  "questlist": [],
+  "rewardList": [],
+  "isBatonPassOn": false,
+  "stageScriptList": [],
+  "story": {},
+  "allowMaxEnemyViewCount": 12
+}

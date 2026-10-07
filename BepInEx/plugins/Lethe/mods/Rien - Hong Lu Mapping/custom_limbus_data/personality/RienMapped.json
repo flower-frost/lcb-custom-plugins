@@ -1,0 +1,215 @@
+{
+  "list": [
+    {
+      "id": 6104700,
+      "nameID": 6104700,
+      "sdPortrait": 1347,
+      "appearance": "1347_Index_fatherAppearance",
+      "characterId": 6,
+      "unitScriptID": "1380",
+      "rank": 3,
+      "unitKeywordList": [
+        "FINGER",
+        "SMALL",
+        "TRUST_AGENT"
+      ],
+      "associationList": [
+        "INDEX_FINGER",
+        "SPIDER_HOUSE"
+      ],
+      "panicType": 1097,
+      "lowMorale": -20,
+      "panic": -45,
+      "defenseSkillIDList": [],
+      "slotWeightConditionList": [
+        "Default1"
+      ],
+      "hp": {
+        "defaultStat": 6760,
+        "incrementByLevel": 44
+      },
+      "initBuffList": [],
+      "defCorrection": 8,
+      "minSpeedList": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "maxSpeedList": [
+        2,
+        2,
+        2,
+        2
+      ],
+      "uniqueAttribute": "INDIGO",
+      "mentalConditionInfo": {
+        "add": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnWinDuelAsParryingCountMultiply5AndPlus10Percent"
+              }
+            ]
+          }
+        ],
+        "min": [
+          {
+            "level": 1,
+            "conditionIDList": [
+              {
+                "conditionID": "OnLoseDuelAsParryingCountMultiply3AndPlus10Percent"
+              }
+            ]
+          }
+        ]
+      },
+      "breakSection": {
+        "sectionList": [
+          60
+        ]
+      },
+      "resistInfo": {
+        "atkResistList": [
+          {
+            "type": "SLASH",
+            "value": 1.2
+          },
+          {
+            "type": "PENETRATE",
+            "value": 0.9
+          },
+          {
+            "type": "HIT",
+            "value": 0.9
+          }
+        ],
+        "attributeResistList": [
+          {
+            "type": "CRIMSON",
+            "value": 1.2
+          },
+          {
+            "type": "SCARLET",
+            "value": 1.2
+          },
+          {
+            "type": "AMBER",
+            "value": 1
+          },
+          {
+            "type": "SHAMROCK",
+            "value": 1
+          },
+          {
+            "type": "AZURE",
+            "value": 1
+          },
+          {
+            "type": "INDIGO",
+            "value": 1
+          },
+          {
+            "type": "VIOLET",
+            "value": 1
+          },
+          {
+            "type": "WHITE",
+            "value": 2
+          },
+          {
+            "type": "BLACK",
+            "value": 2
+          }
+        ]
+      },
+      "attributeList": [
+        {
+          "skillId": 948101,
+          "number": 1
+        },
+        {
+          "skillId": 948102,
+          "number": 1
+        },
+        {
+          "skillId": 948103,
+          "number": 1
+        },
+        {
+          "skillId": 948104,
+          "number": 1
+        },
+        {
+          "skillId": 948105,
+          "number": 1
+        },
+        {
+          "skillId": 948106,
+          "number": 1
+        },
+        {
+          "skillId": 948107,
+          "number": 1
+        },
+        {
+          "skillId": 948108,
+          "number": 1
+        },
+        {
+          "skillId": 948109,
+          "number": 1
+        },
+        {
+          "skillId": 948110,
+          "number": 0
+        },
+        {
+          "skillId": 948201,
+          "number": 0
+        },
+        {
+          "skillId": 948202,
+          "number": 0
+        },
+        {
+          "skillId": 948203,
+          "number": 0
+        },
+        {
+          "skillId": 948204,
+          "number": 0
+        },
+        {
+          "skillId": 948205,
+          "number": 0
+        },
+        {
+          "skillId": 948206,
+          "number": 0
+        },
+        {
+          "skillId": 948207,
+          "number": 0
+        },
+        {
+          "skillId": 948208,
+          "number": 0
+        },
+        {
+          "skillId": 948209,
+          "number": 0
+        },
+        {
+          "skillId": 948210,
+          "number": 0
+        },
+        {
+          "skillId": 948211,
+          "number": 0
+        }
+      ]
+    }
+  ]
+}

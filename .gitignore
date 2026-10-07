@@ -1,0 +1,18 @@
+# Account/config files, logs, crash dumps, cache and game runtime are not distributable content.
+.env
+.env.*
+*.cfg
+*.log
+*.dmp
+*.mdmp
+*.bak
+backups/
+private/
+BepInEx/config/
+BepInEx/interop/
+BepInEx/core/
+LimbusCompany_Data/
+GameAssembly.dll
+UnityPlayer.dll
+Lethe.dll
+*.zip

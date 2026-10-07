@@ -1,0 +1,51 @@
+{
+  "id": 94260002,
+  "stageLevel": 50,
+  "stageType": "Abnormality",
+  "participantInfo": {
+    "max": 7,
+    "min": 1
+  },
+  "battleCameraInfo": {
+    "defaultPosX": 0,
+    "defaultPosY": 0,
+    "defaultPosZ": 10
+  },
+  "waveList": [
+    {
+      "battleMapInfo": {
+        "mapName": "Cp10_2F_BuffetImmature",
+        "mapSize": 28
+      },
+      "unitList": [
+        {
+          "unitID": 1484,
+          "unitCount": 1,
+          "unitLevel": 50
+        }
+      ],
+      "subUnitList": [
+        {
+          "unitID": 1497,
+          "unitCount": 1,
+          "unitLevel": 50
+        }
+      ],
+      "bgmList": [
+        "Battle_Cp10_Boss_1"
+      ],
+      "enemyPositionID": 246,
+      "allyPositionID": 245,
+      "assistantUnitList": [],
+      "supportUnitList": []
+    }
+  ],
+  "staminaCost": 0,
+  "recommendedLevel": 45,
+  "turnLimit": 99,
+  "questlist": [],
+  "rewardList": [],
+  "isBatonPassOn": "TRUE",
+  "stageScriptList": "1484",
+  "story": {}
+}

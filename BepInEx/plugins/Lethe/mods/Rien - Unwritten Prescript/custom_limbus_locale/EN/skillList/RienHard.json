@@ -1,0 +1,728 @@
+{
+  "946103": {
+    "id": 946103,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "横置利刃，如绝息般斩切",
+        "desc": "自身的[UnlockBuff_Base]每有1阶段，使本技能的最终威力+1(最多+2)\n根据自身使用武器的攻击类型触发相应效果\n- 若为斩击武器，则使本技能造成的伤害+20%\n- 若为非斩击武器，则使本技能造成的伤害-10%\n[WhenUse] 使自身获得1层[Breath]\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前17），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使自身增加1级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使自身获得1层[Breath]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946107": {
+    "id": 946107,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "粉碎声音，踏平思维",
+        "desc": "可无视速度值与本技能拼点\n根据自身使用武器的攻击类型触发相应效果\n- 若为打击武器，则使本技能造成的伤害+50%\n- 若为非打击武器，则使本技能造成的伤害-25%\n[StartBattle] 触发以下效果(可叠加)\n- 处于[UnlockBuff_Rien2]时，使本技能第3、4枚硬币转化为[SuperCoin]\n- 处于[UnlockBuff_Rien3]时，本技能拼点胜利时使目标的混乱阈值前移15\n[WhenUse] 使自身增加2级[Breath]强度并使自身获得2层[Breath]\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前17），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加2级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加2层[Sinking]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身增加2级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身获得2层[Breath]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946201": {
+    "id": 946201,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "施加重量下压，破坏身体",
+        "desc": "打击武器出现更频繁\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则使打击武器的出现率降低\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则使打击武器的出现率额外降低\n根据自身使用武器的攻击类型触发相应效果\n- 若为打击武器，则使本技能造成的伤害+30%\n- 若为非打击武器，则使本技能造成的伤害-15%\n[WhenUse] 使自身增加1级[Breath]强度并使自身获得1层[Breath]\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前18），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {},
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使自身增加2级[Breath]强度"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946202": {
+    "id": 946202,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "立起刃端，刺入至核心",
+        "desc": "突刺武器出现更频繁\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则使突刺武器的出现率降低\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则使突刺武器的出现率额外降低\n根据自身使用武器的攻击类型触发相应效果\n- 若为突刺武器，则使本技能造成的伤害+30%\n- 若为非突刺武器，则使本技能造成的伤害-15%\n[WhenUse] 使自身增加1级[Breath]强度并使自身获得1层[Breath]\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前18），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使自身增加1级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使自身增加1级[Breath]强度"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946102": {
+    "id": 946102,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "立起刃端，刺入至核心",
+        "desc": "自身的[UnlockBuff_Base]每有1阶段，使本技能的最终威力+1(最多+2)\n根据自身使用武器的攻击类型触发相应效果\n- 若为突刺武器，则使本技能造成的伤害+20%\n- 若为非突刺武器，则使本技能造成的伤害-10%\n[WhenUse] 使自身获得1层[Breath]\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前17），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使自身增加1级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使自身增加1级[Breath]强度"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946108": {
+    "id": 946108,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "刺入静寂中心，贯穿记忆",
+        "desc": "可无视速度值与本技能拼点\n根据自身使用武器的攻击类型触发相应效果\n- 若为突刺武器，则使本技能造成的伤害+50%\n- 若为非突刺武器，则使本技能造成的伤害-25%\n[StartBattle] 触发以下效果(可叠加)\n- 处于[UnlockBuff_Rien2]时，使本技能第3、4枚硬币转化为[SuperCoin]\n- 处于[UnlockBuff_Rien3]时，本技能拼点胜利时在下回合使自身获得1层[AttackDmgUp]\n[WhenUse] 使自身增加2级[Breath]强度并使自身获得2层[Breath]\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前17），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加2级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身增加2级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加2层[Sinking]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身获得2层[Breath]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946207": {
+    "id": 946207,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "粉碎声音，踏平思维",
+        "desc": "可无视速度值与本技能拼点\n若自身带有[BlackNightmare]，则\n- 使本技能所有硬币转化为[SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>若本技能与非打击技能进行拼点</u></b></mark></color>，则使本技能的硬币威力+2，造成的伤害+50%\n- 本技能与打击技能拼点失败时，使本技能的硬币威力-2，造成的伤害-50%，造成的伤害不会使目标陷入混乱且命中时不会触发目标的[Sinking]\n\n打击武器出现更频繁\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则使打击武器的出现率降低\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则使打击武器的出现率额外降低\n根据自身使用武器的攻击类型触发相应效果\n- 若为打击武器，则使本技能造成的伤害+60%\n- 若为非打击武器，则使本技能造成的伤害-30%\n[WhenUse] 使自身增加3级[Breath]强度并使自身获得2层[Breath]\n[WinDuel] 使目标的混乱阈值前移25\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则不会触发该效果\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前22），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加3级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加2层[Sinking]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身增加2级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身获得2层[Breath]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946205": {
+    "id": 946205,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "瞄准一点，使其内部震荡",
+        "desc": "突刺武器出现更频繁\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则使突刺武器的出现率降低\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则使突刺武器的出现率额外降低\n根据自身使用武器的攻击类型触发相应效果\n- 若为突刺武器，则使本技能造成的伤害+40%\n- 若为非突刺武器，则使本技能造成的伤害-20%\n[WhenUse] 使自身增加2级[Breath]强度并使自身获得1层[Breath]\n[WinDuel] 下回合对目标施加2层[ResultReduction]\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则不会触发该效果\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前23），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 对目标施加1层[Sinking]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使自身获得1层[Breath]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层[Sinking]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946109": {
+    "id": 946109,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "以淬炼锋利的秘技，斩落其形",
+        "desc": "可无视速度值与本技能拼点\n根据自身使用武器的攻击类型触发相应效果\n- 若为斩击武器，则使本技能造成的伤害+50%\n- 若为非斩击武器，则使本技能造成的伤害-25%\n[StartBattle] 触发以下效果(可叠加)\n- 处于[UnlockBuff_Rien2]时，使本技能最后一枚硬币转化为[SuperCoin]\n- 处于[UnlockBuff_Rien3]时，本技能拼点胜利时，使本技能的最终威力+2\n[WhenUse] 使自身增加2级[Breath]强度并使自身获得2层[Breath]\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前17），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身增加2级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身获得2层[Breath]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加2级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加2层[Sinking]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946211": {
+    "id": 946211,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "Furioso [Lacrimosa-Crescendo]",
+        "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>本技能不会触发目标的守备技能</u></b></mark></color>\n可无视速度值与本技能拼点\n[WhenUse]\n- 使自身增加9级[Breath]强度并使自身获得9层[Breath]\n- 使本技能的拼点威力+15(自身每带有8层[KarmaOfIndexRien_2Phase]，使增加的拼点威力减少1点)\n[WhenUse] 若自身的理智值不低于0点，则生成3层望\n- 使本技能造成的伤害+60%，最终威力+8\n[WinDuel]\n- 攻击后，下回合使命中的全体目标增加5级[Laceration]强度并对其施加3层[Binding]与3层[Vulnerable]\n[DefeatDuel]\n- 对自身施加8层[AttackDmgDown]与9层[Paralysis]\n- 使本技能造成的伤害不会使目标陷入混乱，且命中时不会触发目标的[Sinking]\n[EndSkill] 若本技能生成了望，则使自身失去30点理智值\n[EndSkill] 结束本回合\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前30），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>重复使用本硬币(最多7次)</u></b></mark></color>"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加1级[Sinking]强度"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946209": {
+    "id": 946209,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "以淬炼锋利的秘技，斩落其形",
+        "desc": "可无视速度值与本技能拼点\n若自身带有[BlackNightmare]，则\n- 使本技能所有硬币转化为[SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>若本技能与非斩击技能进行拼点</u></b></mark></color>，则使本技能的硬币威力+2，造成的伤害+50%\n- 本技能与斩击技能拼点失败时，使本技能的硬币威力-2，造成的伤害-50%，造成的伤害不会使目标陷入混乱且命中时不会触发目标的[Sinking]\n\n斩击武器出现更频繁\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则使斩击武器的出现率降低\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则使斩击武器的出现率额外降低\n根据自身使用武器的攻击类型触发相应效果\n- 若为斩击武器，则使本技能造成的伤害+60%\n- 若为非斩击武器，则使本技能造成的伤害-30%\n[WhenUse] 使自身增加3级[Breath]强度并使自身获得2层[Breath]\n[WinDuel] 使本技能的最终威力+3\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则不会触发该效果\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前22），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身增加3级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身获得3层[Breath]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加2层[Sinking]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946106": {
+    "id": 946106,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "压低刃轨，剥离残留",
+        "desc": "自身的[UnlockBuff_Base]每有1阶段，使本技能的最终威力+1(最多+2)\n根据自身使用武器的攻击类型触发相应效果\n- 若为斩击武器，则使本技能造成的伤害+30%\n- 若为非斩击武器，则使本技能造成的伤害-15%\n[StartBattle] 触发以下效果(可叠加)\n- 处于[UnlockBuff_Rien2]时，使本技能最后一枚硬币转化为[SuperCoin]\n- 处于[UnlockBuff_Rien3]时，本技能拼点胜利时在下回合使自身获得1层[ResultEnhancement]\n[WhenUse] 使自身增加2级[Breath]强度\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前22），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使自身获得1层[Breath]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层[Sinking]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946204": {
+    "id": 946204,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "挥舞下压，令其倒伏于地",
+        "desc": "打击武器出现更频繁\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则使打击武器的出现率降低\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则使打击武器的出现率额外降低\n根据自身使用武器的攻击类型触发相应效果\n- 若为打击武器，则使本技能造成的伤害+40%\n- 若为非打击武器，则使本技能造成的伤害-20%\n[WhenUse] 使自身增加2级[Breath]强度并使自身获得1层[Breath]\n[WinDuel] 使自身的混乱阈值后移15\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则不会触发该效果\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前23），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {},
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加4级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使自身获得1层[Breath]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层[Sinking]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946105": {
+    "id": 946105,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "瞄准一点，使其内部震荡",
+        "desc": "自身的[UnlockBuff_Base]每有1阶段，使本技能的最终威力+1(最多+2)\n根据自身使用武器的攻击类型触发相应效果\n- 若为突刺武器，则使本技能造成的伤害+30%\n- 若为非突刺武器，则使本技能造成的伤害-15%\n[StartBattle] 触发以下效果(可叠加)\n- 处于[UnlockBuff_Rien2]时，使本技能最后一枚硬币转化为[SuperCoin]\n- 处于[UnlockBuff_Rien3]时，本技能拼点胜利时在下回合对目标施加1层[ResultReduction]\n[WhenUse] 使自身增加2级[Breath]强度\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前22），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 对目标施加1层[Sinking]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使自身获得1层[Breath]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层[Sinking]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946208": {
+    "id": 946208,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "刺入静寂中心，贯穿记忆",
+        "desc": "可无视速度值与本技能拼点\n若自身带有[BlackNightmare]，则\n- 使本技能所有硬币转化为[SuperCoin]\n- <color=#ff6000><mark=#ff000040><b><u>若本技能与非突刺技能进行拼点</u></b></mark></color>，则使本技能的硬币威力+2，造成的伤害+50%\n- 本技能与突刺技能拼点失败时，使本技能的硬币威力-2，造成的伤害-50%，造成的伤害不会使目标陷入混乱且命中时不会触发目标的[Sinking]\n\n突刺武器出现更频繁\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则使突刺武器的出现率降低\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则使突刺武器的出现率额外降低\n根据自身使用武器的攻击类型触发相应效果\n- 若为突刺武器，则使本技能造成的伤害+60%\n- 若为非突刺武器，则使本技能造成的伤害-30%\n[WhenUse] 使自身增加3级[Breath]强度并使自身获得2层[Breath]\n[WinDuel] 下回合使自身获得2层[AttackDmgUp]\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则不会触发该效果\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前22），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加3级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身获得3级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加2层[Sinking]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使自身获得2层[Breath]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946203": {
+    "id": 946203,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "横置利刃，如绝息般斩切",
+        "desc": "斩击武器出现更频繁\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则使斩击武器的出现率降低\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则使斩击武器的出现率额外降低\n根据自身使用武器的攻击类型触发相应效果\n- 若为斩击武器，则使本技能造成的伤害+30%\n- 若为非斩击武器，则使本技能造成的伤害-15%\n[WhenUse] 使自身增加1级[Breath]强度并使自身获得1层[Breath]\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前18），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加1级[Sinking]强度"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使自身增加1级[Breath]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 对目标施加1层[Sinking]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使自身获得1层[Breath]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946210": {
+    "id": 946210,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "Furioso [Crescendo]",
+        "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>本技能不会触发目标的守备技能</u></b></mark></color>\n可无视速度值与本技能拼点\n[WhenUse]\n- 使自身增加6级[Breath]强度并使自身获得6层[Breath]\n- 使本技能的拼点威力+10(<color=#ff6000><mark=#ff000040><b><u>自身每带有8层[KarmaOfIndexRien_2Phase]，使增加的拼点威力减少1点</u></b></mark></color>)\n[WhenUse] 若自身的理智值不低于0点，则生成2层望\n- 使本技能造成的伤害+40%，最终威力+5\n[WinDuel]\n- 攻击后，下回合使命中的全体目标增加4级[Laceration]强度并对其施加2层[Binding]与2层[Vulnerable]\n[DefeatDuel]\n- 对自身施加6层[AttackDmgDown]与9层[Paralysis]\n- 使本技能造成的伤害不会使目标陷入混乱，且命中时不会触发目标的[Sinking]\n[EndSkill] 若本技能生成了望，则使自身失去25点理智值\n[EndSkill] 结束本回合\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前30），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>重复使用本硬币(最多7次)</u></b></mark></color>"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加1级[Sinking]强度"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946110": {
+    "id": 946110,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "Furioso-Replica",
+        "desc": "[WideAreaRampage]\n<color=#ff6000><mark=#ff000040><b><u>本技能不会触发目标的守备技能</u></b></mark></color>\n可无视速度值与本技能拼点\n[WhenUse]\n- 使自身增加3级[Breath]强度并使自身获得3层[Breath]\n- 使本技能的拼点威力+5(<color=#ff6000><mark=#ff000040><b><u>自身每带有8层[KarmaOfIndexRien]，使增加的拼点威力减少1点，最少+0</u></b></mark></color>)\n[WhenUse] 若自身的理智值不低于0点，则生成1层望\n- 使本技能造成的伤害+20%，最终威力+3\n[WinDuel]\n- 使自身增加3级[Breath]强度并使自身获得3层[Breath]\n- 攻击后，下回合使命中的全体目标增加3级[Laceration]强度并对其施加1层[Binding]与1层[Vulnerable]\n[DefeatDuel]\n- 对自身施加4层[AttackDmgDown]与9层[Paralysis]\n- 使本技能造成的伤害不会使目标陷入混乱，且命中时不会触发目标的[Sinking]\n[EndSkill] 若本技能生成了望，则使自身失去20点理智值\n[EndSkill] 结束本回合\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前30），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>重复使用本硬币(最多7次)</u></b></mark></color>"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 使目标增加1级[Sinking]强度"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946206": {
+    "id": 946206,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "压低刃轨，剥离残留",
+        "desc": "斩击武器出现更频繁\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则使斩击武器的出现率降低\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于150层，则使斩击武器的出现率额外降低\n自身的[UnlockBuff_Base]每有1阶段，使本技能的最终威力+1(最多+3)\n根据自身使用武器的攻击类型触发相应效果\n- 若为斩击武器，则使本技能造成的伤害+40%\n- 若为非斩击武器，则使本技能造成的伤害-20%\n[WhenUse] 使自身增加2级[Breath]强度并使自身获得1层[Breath]\n[WinDuel] 下回合使自身获得2层[ResultEnhancement]\n- 若自身的[KarmaOfIndexRien_2Phase]层数不低于75层，则不会触发该效果\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前23），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加2级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[SuperCoin]"
+              },
+              {
+                "desc": "[OnSucceedAttack] 使自身获得1层[Breath]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层[Sinking]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946101": {
+    "id": 946101,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "施加重量下压，破坏身体",
+        "desc": "自身的[UnlockBuff_Base]每有1阶段，使本技能的最终威力+1(最多+2)\n根据自身使用武器的攻击类型触发相应效果\n- 若为打击武器，则使本技能造成的伤害+20%\n- 若为非打击武器，则使本技能造成的伤害-10%\n[WhenUse] 使自身获得1层[Breath]\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前17），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {},
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使自身增加2级[Breath]强度"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "946104": {
+    "id": 946104,
+    "levelList": [
+      {
+        "level": 1,
+        "name": "挥舞下压，令其倒伏于地",
+        "desc": "自身的[UnlockBuff_Base]每有1阶段，使本技能的最终威力+1(最多+2)\n根据自身使用武器的攻击类型触发相应效果\n- 若为打击武器，则使本技能造成的伤害+30%\n- 若为非打击武器，则使本技能造成的伤害-15%\n[StartBattle] 触发以下效果(可叠加)\n- 处于[UnlockBuff_Rien2]时，使本技能最后一枚硬币转化为[SuperCoin]\n- 处于[UnlockBuff_Rien3]时，本技能拼点胜利时使自身的混乱阈值后移10\n[WhenUse] 使自身增加2级[Breath]强度\n<color=#74c8ff>[未竟之谕 · 本次加强] 累计加强：基础威力+5（当前22），每枚硬币威力累计+3（本次再+2）；不增加硬币。原有望、拼点修正和其他技能效果保留。本关不再赠送共享安瓿。</color>",
+        "coinlist": [
+          {},
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使目标增加3级[Sinking]强度"
+              }
+            ]
+          },
+          {
+            "coindescs": [
+              {
+                "desc": "[OnSucceedAttack] 使自身获得1层[Breath]"
+              },
+              {
+                "desc": "[UnBrokenCoinOnSucceedAttack] 对目标施加1层[Sinking]"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
